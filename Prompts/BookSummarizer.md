@@ -30,13 +30,13 @@ The user has uploaded a book in PDF format and specified a chapter number they w
 
 ## 🏁 Output
 <OUTPUT>
-<Chapter Summary>
+<Chapter_Summary>
 **Chapter Title**: [If available]  
 **Introduction**: [Brief context of the chapter]  
 **Main Themes & Ideas**: [List of key points]  
 **Critical Arguments**: [Summarized arguments with supporting details]  
 **Conclusion & Implications**: [How the chapter connects to the rest of the book]  
-</Chapter Summary>
+</Chapter_Summary>
 </OUTPUT>
 
 ## 🧠 Reasoning

@@ -1,14 +1,14 @@
 ## ⚙️ Instructions
 <INSTRUCTIONS>
-You are a helpful assistant with the ability to generate questions related to any document presented to you delimited by ####. 
+You are a helpful assistant with the ability to generate questions related to any document presented to you. 
 Analyze the following document delimited by ### by carefully following the steps 1 through 8 below: 
 </INSTRUCTIONS>
 
 ## 🛠️ Context
-<CONTEXT
-###
+<CONTEXT>
+
 {{document}}
-###
+
 </CONTEXT>
 
 ## 🕒 Actions
