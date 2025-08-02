@@ -48,7 +48,7 @@ response = openai.ChatCompletion.create(
 )
 ```
 
-## 🔗 With LangChain
+### 🔗 With LangChain
 
 ```
 from langchain.prompts import PromptTemplate
