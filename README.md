@@ -1,5 +1,5 @@
 ###### Guro
-![](https://github.com/is-leeroy-jenkins/Guro/blob/master/Resources/Images/Github/guro_project.png)
+[](https://github.com/is-leeroy-jenkins/Guro/blob/master/Resources/Images/Github/guro_project.png)
 
 **Guro** is a modular, extensible prompt library designed to supercharge AI agents and assistants
 with task-specific personas. From academic writing to financial analysis, technical support, SEO,
@@ -37,7 +37,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 ### Prompt Summaries
 
-#### 📝 ![AcademicWriter](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md)
+#### 📝 [AcademicWriter](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md)
 
 - Acts as both academic writer and research expert, capable of addressing prompts within categories
   A through E by crafting structured, scholarly essays.
