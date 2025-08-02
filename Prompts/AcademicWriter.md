@@ -36,9 +36,9 @@
 ## ❕ Reminder
 <REMINDER>
 
-  - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
-  - Accuracy is critical.  
-  - Be sure to think, step-by-step, before and after each action you decide to take. 
-  - You must iterate and keep going until the given task is complete.
+    - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
+    - Accuracy is critical.  
+    - Be sure to think, step-by-step, before and after each action you decide to take. 
+    - You must iterate and keep going until the given task is complete.
 
 </REMINDER>
