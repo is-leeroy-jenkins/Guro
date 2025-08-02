@@ -71,9 +71,8 @@ Guro/
     └── requirements.txt
 ```
 
+___
 
-## 🧩 Prompts
-|----------------------------|-----------------------------------------------------------------------------------------------|
 
 #### 📝 [Academic Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md) 
                                                                                                             
