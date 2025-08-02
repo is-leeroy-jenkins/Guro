@@ -26,10 +26,10 @@ E. References:
 
 ## ❓ Question
 <QUESTION>
-###
+
 {{QUESTION}}
-###
-<\QUESTION>
+
+</QUESTION>
 
 ## ❕ Reminder
 <REMINDER>
