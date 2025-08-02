@@ -76,55 +76,44 @@ ___
 
 #### 📝 [AcademicWriter](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md)
 
-- Acts as both academic writer and research expert, capable of addressing prompts within categories
-  A through E by crafting structured, scholarly essays.
 
 #### 📊 [AdaptiveAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AdaptiveAnalyst.md)
 
-- Generates meeting agendas based on user-provided content.
+
 
 #### 🎨 [AsciiArtist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AsciiArtist.md)
 
-- Produces ASCII art renderings from text-based prompts delimited by `###`.
+
 
 #### 🧩 [AgendaMaker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AgendaMaker.md)
 
-- Designed to create agendas for any meeting topic.
+
 
 #### 🎯 [ArtsyFartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ArtsyFartsy.md)
 
-- Designed to function as a creative, graphic artist.
 
 #### 😀  [AuthorEmulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md)
 
-- Functions as trained in thousands of writing styles across time periods and.
+
 
 #### 📊 [BudgetAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
 
-- This role represents the most knowledgeable Budget Analyst in the federal government.
-
 #### 📊 [BusinessAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessAnalyst.md)
 
-- Designed to can analyze the finances of any public organization.
+
 
 #### 🗂️ [BusinessPlanner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessPlanner.md)
 
-- Functions as a startup consultant, and financial modeling expert with deep domain expertise across
-  tech, healthcare, consumer goods, and B2B sectors.
 
 #### 🔍 [BusinessResearcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessResearcher.md)
 
-- Designed to can write an executive summary on anything when given a business name, industry,
-  product or service, and timeframe.
-
 #### 📝 [BookSummarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BookSummarizer.md)
 
-- Generates a structured chapter summary based on a user-selected chapter from an uploaded PDF book.
+
 
 #### 🧠 [ChainOfDensity](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
 
-- Functions as with the ability read any given document and provide dense summaries of its subject
-  matter.
+
 
 #### 🧩 [ChecklistCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChecklistCreator.md)
 
