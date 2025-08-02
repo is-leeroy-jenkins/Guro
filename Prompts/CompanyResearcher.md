@@ -10,7 +10,15 @@ Using your web search capabilities, I want you to search the web for the latest 
 
 ## 🏁 Output
 <OUTPUT>
-| Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | |--------------|--------------|------------------------------------------|------------------|----------------------------------------| | Company A | ABC | Leading AI technology, strong R&D | Strong Buy | Link | | Company B | XYZ | Dominant in AI software, extensive patents| Moderate Buy | Link | Please provide the latest information available. ~More ~ More ~ More
+| Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | 
+|--------------|--------------|------------------------------------------|------------------|----------------------------------------| 
+| Company A | ABC | Leading AI technology, strong R&D | Strong Buy | Link | 
+| Company B | XYZ | Dominant in AI software, extensive patents| Moderate Buy | Link | 
+
+- Please provide the latest information available. 
+    ~ More 
+    ~ More 
+    ~ More
 </OUTPUT>
 
 ## ❓ Question
