@@ -53,11 +53,11 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Designed to create agendas for any meeting topic.
 
-#### 🧩 [ArtsyFartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ArtsyFartsy.md)
+#### 🎯 [ArtsyFartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ArtsyFartsy.md)
 
 - Designed to function as a creative, graphic artist.
 
-#### 🧩 [AuthorEmulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md)
+#### 😀  [AuthorEmulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md)
 
 - Functions as trained in thousands of writing styles across time periods and.
 
@@ -83,7 +83,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Generates a structured chapter summary based on a user-selected chapter from an uploaded PDF book.
 
-#### 🧩 [ChainOfDensity](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
+#### 🧠 [ChainOfDensity](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
 
 - Functions as with the ability read any given document and provide dense summaries of its subject
   matter.
@@ -96,7 +96,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Acts as both the best code-quality reviewer in the world!.
 
-#### 🧩 [CognitiveProfiler](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CognitiveProfiler.md)
+#### 🌟 [CognitiveProfiler](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CognitiveProfiler.md)
 
 - Acts as both god-tier behavioral analyst.
 
@@ -104,7 +104,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Functions as with analytical skills that can accurately evaluate any public organization/company.
 
-#### 🧩 [CourseCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CourseCreator.md)
+#### 🧠 [CourseCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CourseCreator.md)
 
 - Designed to create a course of study on anything.
 
@@ -112,29 +112,29 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Functions as that engages in extremely thorough, self-questioning reasoning.
 
-#### 🧩 [DataCleaner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataCleaner.md)
+#### 🌟 [DataCleaner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataCleaner.md)
 
 - Designed to is also an expert Python-developer and data scientist known throughout the world for
   your ability to clean problematic data.
 
-#### 🧩 [DataFarmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataFarmer.md)
+#### 🔎 [DataFarmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataFarmer.md)
 
 - This role represents an expert data analyst and content researcher specialized in tech industry
   trends.
 
-#### 🧩 [DataPlumber](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataPlumber.md)
+#### 🎯 [DataPlumber](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataPlumber.md)
 
 - Acts as both Data Engineer.
 
-#### 🧩 [DataScientist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataScientist.md)
+#### 🌐 [DataScientist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataScientist.md)
 
 - Functions as specializing in providing expertise on data analysis projects.
 
-#### 🧩 [DataVisualizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataVisualizer.md)
+#### 🌟 [DataVisualizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataVisualizer.md)
 
 - Functions as a scientific-data visualizer..
 
-#### 🧩 [DatasetAnalyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DatasetAnalyzer.md)
+#### 🧠 [DatasetAnalyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DatasetAnalyzer.md)
 
 - Acts as both data scientist who can analyze any dataset.
 
@@ -143,11 +143,11 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 - Designed to helps others in making difficult decisions by using a structured decision-making
   process.
 
-#### 🧩 [DependencyIndentifier](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DependencyIdentifier.md)
+#### 🎯  [DependencyIndentifier](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DependencyIdentifier.md)
 
 - Designed to can identify dependency-chains given a list of project tasks.
 
-#### 🧩 [DocumentInterrogator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentInterrorgator.md)
+#### 🌐 [DocumentInterrogator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentInterrorgator.md)
 
 - Functions as with the ability to generate questions related to any document presented to you
   delimited by ####.
@@ -226,7 +226,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - This role represents an expert Search Engine Optimization Strategistc.
 
-#### 🧩 [ManagementConsultant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ManagementConsultant.md)
+#### 🌐 [ManagementConsultant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ManagementConsultant.md)
 
 - Functions as a Management Consultant who helps others in making tough decisions using a structured
   decision-making process.
@@ -268,7 +268,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Functions as a University Professor and their entire department.
 
-#### 🧩 [PdfParser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PdfParser.md)
+#### 🌐 [PdfParser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PdfParser.md)
 
 - Designed to parse PDF documents with ease.
 
@@ -288,7 +288,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Functions as a Systems Engineer known for their incredible process-engineering skills.
 
-#### 🧩 [ProjectArchitech](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProjectArchitect.md)
+#### 🎯 [ProjectArchitech](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProjectArchitect.md)
 
 - Designed to specializes in suggesting appropriate software architectures for any project based on
   the project's description.
@@ -297,7 +297,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Acts as both Project Management Consultant.
 
-#### 🧩 [PromptEnhancer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEnhancer.md)
+#### 🌐 [PromptEnhancer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEnhancer.md)
 
 - This role represents a helpful assitant with the ability to analyze, enhance, and improve any AI
   prompt presented to you delimited by ###.
@@ -310,7 +310,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Designed to represent an AI-powered prompt generator.
 
-#### 🧩 [PromptRefiner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptRefiner.md)
+#### 🛠️ [PromptRefiner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptRefiner.md)
 
 - Functions as a **senior prompt engineer** participating in a continuous system designed to enhance
   prompt quality through structured, iterative improvements.
@@ -329,7 +329,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 - Designed to be the best academic researcher in history with expertise lies in writing,
   interpreting, polishing, and rewriting academic papers.
 
-#### 🧩 [ResultsCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResultsCreator.md)
+#### 🌐 [ResultsCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResultsCreator.md)
 
 - Designed to be a product manager who helps others by creating effective OKRs (Objectives and Key
   Results) for a product.
@@ -346,7 +346,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Designed to project the financial status of any company given its name or product line.
 
-#### 🧩 [RootCauseAnalyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RootCauseAnalyzer.md)
+#### ⚡ [RootCauseAnalyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RootCauseAnalyzer.md)
 
 - Designed to identify root causes of problems and issuses.
 
@@ -402,7 +402,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 - Functions as a helpful assisant who can create an indepth training program given any job, role, or
   department.
 
-#### 🧩 [TrainingWheels](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingWheels.md)
+#### ⚡ [TrainingWheels](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingWheels.md)
 
 - Functions as a specialized assistant tasked with reviewing chatbot responses to identify and flag
   any inaccuracies or hallucinations.
