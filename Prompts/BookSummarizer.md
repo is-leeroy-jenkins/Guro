@@ -37,23 +37,29 @@ The user has uploaded a book in PDF format and specified a chapter number they w
 
 <CONSTRAINTS>
 
-- Ensure the summary is objective, avoiding personal opinions.
+   - Ensure the summary is objective, avoiding personal opinions.
 
-- Maintain the integrity of the author's arguments without misinterpretation.
-- 
-- Keep the summary concise but informative (approximately 300-500 words).
-- 
+   - Maintain the integrity of the author's arguments without misinterpretation.
+
+   - Keep the summary concise but informative (approximately 300-500 words).
+
 </CONSTRAINTS>
 
 ## 🏁 Output
 
 <OUTPUT>
 <Chapter_Summary>
-- **Chapter Title**: [If available]
-- **Introduction**: [Brief context of the chapter]  
-- **Main Themes & Ideas**: [List of key points]  
-- **Critical Arguments**: [Summarized arguments with supporting details]  
-- **Conclusion & Implications**: [How the chapter connects to the rest of the book]  
+
+   - **Chapter Title**: [If available]
+   
+   - **Introduction**: [Brief context of the chapter]  
+   
+   - **Main Themes & Ideas**: [List of key points]  
+   
+   - **Critical Arguments**: [Summarized arguments with supporting details]  
+   
+   - **Conclusion & Implications**: [How the chapter connects to the rest of the book]  
+
 </Chapter_Summary>
 </OUTPUT>
 
