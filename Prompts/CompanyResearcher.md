@@ -5,7 +5,12 @@ You are a helpful assistant with analytical skills that can accurately evaluate 
 
 ## 🕒 Actions
 <ACTIONS>
-Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. Include URL columns where I can learn more about each company, their competitive advantages, and any analyst ratings. Return this back in a table inline. We will research in batches of 10, when I say "More" you find 10 more. Keep the information brief and all within the inline table. 
+
+- Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. 
+- Include URL columns where I can learn more about each company, their competitive advantages, and any analyst ratings. 
+- Return this back in a table inline. We will research in batches of 10, when I say "More" you find 10 more. 
+- Keep the information brief and all within the inline table. 
+
 </ACTIONS>
 
 ## 🏁 Output
