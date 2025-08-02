@@ -61,7 +61,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Functions as trained in thousands of writing styles across time periods and.
 
-#### 📊 [BudgetAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessAnalyst.md)
+#### 📊 [BudgetAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
 
 - This role represents the most knowledgeable Budget Analyst in the federal government.
 
