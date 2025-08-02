@@ -43,7 +43,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 #### 📊 [AdaptiveAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AdaptiveAnalyst.md)
 
-- Generates meeting agendas based on user-provided content marked by double curly braces `{{ }}`.
+- Generates meeting agendas based on user-provided content.
 
 #### 🎨 [AsciiArtist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AsciiArtist.md)
 
