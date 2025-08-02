@@ -34,16 +34,10 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 ---
 
-## 📚 Prompt Directory
-
-Each prompt is documented with a title, icon, and summary.
-
-<details>
-<summary>Click to expand all prompt summaries</summary>
 
 ### Prompt Summaries
 
-#### 📝 `AcademicWriter`
+#### 📝 ![AcademicWriter](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md)
 
 - Acts as both academic writer and research expert, capable of addressing prompts within categories
   A through E by crafting structured, scholarly essays.
