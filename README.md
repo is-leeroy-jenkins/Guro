@@ -1,5 +1,5 @@
 ###### Guro
-![]()
+![](https://github.com/is-leeroy-jenkins/Guro/blob/master/Resources/Images/Github/guro_project.png)
 
 **Guro** is a modular, extensible prompt library designed to supercharge AI agents and assistants
 with task-specific personas. From academic writing to financial analysis, technical support, SEO,
