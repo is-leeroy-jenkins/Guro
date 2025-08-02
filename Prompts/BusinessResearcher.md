@@ -43,6 +43,7 @@ Write an executive summary (250-300 words) outlining BUSINESS's mission, PRODUCT
 1. Create a startup costs breakdown 
 2. Project monthly cash flow for the first year 
 3. Forecast annual income statements and balance sheets 
-4. Calculate break-even point and ROI~Conclude with a funding request (if applicable) and implementation timeline. Summarize key milestones and goals for TIMEFRAME.
+4. Calculate break-even point and ROI~Conclude with a funding request (if applicable) and implementation timeline. 
+5. Summarize key milestones and goals for TIMEFRAME.
 
 </ACTIONS>

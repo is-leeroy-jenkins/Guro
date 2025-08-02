@@ -38,7 +38,8 @@ Article: {{TEXT}}
 - Make space with fusion, compression, and removal of uninformative phrases like "the article discusses".
 - The summaries should become highly dense and concise yet self-contained, i.e., easily understood without the article.
 - Missing entities can appear anywhere in the new summary.
-- Never drop entities from the previous summary. If space cannot be made,add fewer new entities.
+- Never drop entities from the previous summary. 
+- If space cannot be made,add fewer new entities.
 
 Remember, use the exact same number of words for each summary.
 Answer in JSON. The JSON should be a list (length 5) of dictionaries whose
