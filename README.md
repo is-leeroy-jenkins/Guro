@@ -104,7 +104,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Functions as with analytical skills that can accurately evaluate any public organization/company.
 
-#### 🧩 [CourseCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CourceCreator.md)
+#### 🧩 [CourseCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CourseCreator.md)
 
 - Designed to create a course of study on anything.
 
