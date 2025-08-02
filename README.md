@@ -22,7 +22,7 @@ with OpenAI, Anthropic, Cohere, and other LLM providers. It’s ideal for:
 All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic variable injection using
 `{{ }}` delimiters.
 
----
+
 
 ## 🧠 Features
 
@@ -32,7 +32,6 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 - ✅ Categorized and Emoji-Labeled
 - ✅ Built with RAG & Embedding Pipelines in Mind
 
----
 
 
 ## 🧩 Table of Contents
