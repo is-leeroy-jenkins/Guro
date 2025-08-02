@@ -66,7 +66,7 @@ The user has uploaded a book in PDF format and specified a chapter number they w
 ## 🧠 Reasoning
 
 <REASONING>
-Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
+Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. Use Strategic Chain-of-Thought and Systems-Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 </REASONING>
 
 ## 💻 Input
