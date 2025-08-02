@@ -46,7 +46,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Generates meeting agendas based on user-provided content marked by double curly braces `{{ }}`.
 
-#### 🎨 [AsciiArtist]((https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AsciiArtist.md))
+#### 🎨 [AsciiArtist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AsciiArtist.md)
 
 - Produces ASCII art renderings from text-based prompts delimited by `###`.
 
