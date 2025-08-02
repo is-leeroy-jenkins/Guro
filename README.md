@@ -73,19 +73,19 @@ Guro/
 
 
 ## 🧩 Prompts
-|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|----------------------------|-----------------------------------------------------------------------------------------------|
 
-#### 📝 [Academic Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md) | #### 📊 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
+#### 📝 [Academic Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md) 
                                                                                                             
-#### 📊 [Adaptive Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AdaptiveAnalyst.md) | #### 📊 [Business Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessAnalyst.md)
+#### 📊 [Adaptive Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AdaptiveAnalyst.md)
                                                                                                             
-#### 🎨 [ASCII Artist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AsciiArtist.md) |
+#### 🎨 [ASCII Artist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AsciiArtist.md) 
                                                                                                         
-#### 🧩 [Agenda Maker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AgendaMaker.md) |
+#### 🧩 [Agenda Maker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AgendaMaker.md) 
 
-#### 🎯 [Artsy Fartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ArtsyFartsy.md) |
+#### 🎯 [Artsy Fartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ArtsyFartsy.md) 
 
-#### 😀 [Author Emulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md) |
+#### 😀 [Author Emulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md) 
 ___
 
 #### 📊 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
