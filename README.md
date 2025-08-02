@@ -70,7 +70,7 @@ Guro/
     ├── README.md
     └── requirements.txt
 ```
-___
+
 
 ## 🧩 Prompts
 
@@ -85,6 +85,7 @@ ___
 #### 🎯 [ArtsyFartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ArtsyFartsy.md)
 
 #### 😀  [AuthorEmulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md)
+___
 
 #### 📊 [BudgetAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
 
@@ -95,6 +96,8 @@ ___
 #### 🔍 [BusinessResearcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessResearcher.md)
 
 #### 📝 [BookSummarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BookSummarizer.md)
+
+___
 
 #### 🧠 [ChainOfDensity](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
 
@@ -109,6 +112,8 @@ ___
 #### 🧠 [CourseCreator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CourseCreator.md)
 
 #### 🧐 [CriticalThinker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CriticalThinker.md)
+
+___
 
 #### 🌟 [DataCleaner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataCleaner.md)
 
@@ -130,6 +135,8 @@ ___
 
 #### 🧾 [DocumentSummarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentSummarizer.md)
 
+___
+
 #### 📝 [EducationalWriter](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EducationalWriter.md)
 
 #### 🤖 [EmailAssistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EmailAssistant.md)
@@ -143,6 +150,8 @@ ___
 #### 🤖 [ExecutiveAssistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExecutiveAssistant.md)
 
 #### 💻 [ExpertProgrammer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExpertProgrammer.md)
+
+___
 
 #### 🔧 [FeatureExtractor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FeatureExtractor.md)
 
@@ -162,6 +171,8 @@ ___
 
 #### ⚡ [KeywordGenerator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/KeywordGenerator.md)
 
+___
+
 #### 🌐 [ManagementConsultant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ManagementConsultant.md)
 
 #### 📈 [MarketForecaster](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MarketForecaster.md)
@@ -179,6 +190,7 @@ ___
 #### 🧾 [MeetingSummarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MeetingSummarizer.md)
 
 #### 🎓 [MultiProfessor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MultiProfessor.md)
+___
 
 #### 🌐 [PdfParser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PdfParser.md)
 
@@ -204,6 +216,8 @@ ___
 
 #### 🧩 [ProofreadingSpecialist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProofreadingSpecialist.md)
 
+___
+
 #### 📊 [ReasoningAnalyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ReasoningAnalyst.md)
 
 #### 🧩 [ResearchExpert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchExpert.md)
@@ -218,6 +232,8 @@ ___
 
 #### ⚡ [RootCauseAnalyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RootCauseAnalyzer.md)
 
+___
+
 #### 📝 [SearchOptimizedWriter](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SearchOptimizedWriter.md)
 
 #### ⚙️ [SearchOptimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SearchOptimizer.md)
@@ -229,6 +245,8 @@ ___
 #### 🧠 [StructuredProblemSolver](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/StructuredProblemSolver.md)
 
 #### 🗂️ [SustainabilityPlanner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SustainabilityPlanner.md)
+
+___
 
 #### 🗂️ [TaskPlanner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TaskPlanner.md)
 
@@ -244,6 +262,8 @@ ___
 
 #### ⚡ [TrainingWheels](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingWheels.md)
 
+___
+
 #### 🎯 [WebDesigner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WebDesigner.md)
 
 #### ⚙️ [WebSearchOptimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WebSearchOptimizer.md)
@@ -258,7 +278,7 @@ ___
 
 #### 📋 [PromptEvaluator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEvaluator.md)
 
-
+___
 
 ## 📝 License
 
