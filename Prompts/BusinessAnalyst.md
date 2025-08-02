@@ -43,10 +43,10 @@
 
 </ACTIONS>
 
+## 🏁 Output
 <OUTPUT>
 
-    -  Provide a final summary of the research, including key findings, potential red flags, and an 
-    overall assessment of COMPANY's investment potential. Include a suggested valuation range for 
-    TICKER based on the analysis.
+    Provide a final summary of the research, including key findings, potential red flags, and an  overall assessment of Cthe company's investment potential. 
+    Include a suggested valuation range for TICKER based on the analysis.
 
 </OUTPUT>
