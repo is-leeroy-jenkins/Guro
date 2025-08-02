@@ -25,7 +25,8 @@ A missing entity is:
 
 - The first summary should be long (4-5 sentences, ~100 words) yet highly
 non-specific, containing little information beyond the entities marked
-as missing. Use overly verbose language and fillers (e.g., "this article
+as missing. 
+- Use overly verbose language and fillers (e.g., "this article
 discusses") to reach ~100 words.
 
 </CONSTRAINTS>
