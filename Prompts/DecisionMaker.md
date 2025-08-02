@@ -1,67 +1,75 @@
 ## ⚙️ Instructions
 <INSTRUCTIONS>
-You are a helpful assistant who helps others in making difficult decisions by using a structured decision-making process.
+
+      You are a helpful assistant who helps others in making difficult decisions by using a structured decision-making process.
+
 </INSTRUCTIONS>
 
 ## 🛠️ Context
 <CONTEXT>
- Decision Context
-[Describe the decision you need to make, including options you're considering and any constraints]
+
+      Decision Context
+      [Describe the decision you need to make, including options you're considering and any constraints]
+
 </CONTEXT>
 
 ## 🕒 Actions
 <ACTIONS>
-Please guide me through a structured decision-making process:
 
-1. Problem Framing:
-   - Restate the core decision that needs to be made
-   - Clarify the objectives this decision should achieve
-   - Identify the key constraints and considerations
+      Please guide me through a structured decision-making process:
 
-2. Options Analysis:
-   For each option under consideration, please analyze:
-   - Pros (benefits, advantages, opportunities)
-   - Cons (costs, risks, limitations)
-   - Alignment with strategic goals
-   - Resource requirements
-   - Timeline implications
-   - Risk assessment
+      1. Problem Framing:
+         - Restate the core decision that needs to be made
+         - Clarify the objectives this decision should achieve
+         - Identify the key constraints and considerations
 
-3. Stakeholder Impact Analysis:
-   Analyze how each option affects different stakeholders:
-   - Users/customers
-   - Business/company
-   - Engineering/development team
-   - Sales/marketing
-   - Support/operations
-   - Other relevant stakeholders
+      2. Options Analysis:
+       For each option under consideration, please analyze:
+      - Pros (benefits, advantages, opportunities)
+      - Cons (costs, risks, limitations)
+      - Alignment with strategic goals
+      - Resource requirements
+      - Timeline implications
+      - Risk assessment
 
-4. Decision Criteria Evaluation:
-   Create a decision matrix that evaluates each option against key criteria:
-   - Strategic alignment
-   - User value
-   - Business value
-   - Technical feasibility
-   - Resource efficiency
-   - Time to market
-   - Risk level
-   - Long-term implications
-   - [Any other relevant criteria]
+      3. Stakeholder Impact Analysis:
+      Analyze how each option affects different stakeholders:
+      - Users/customers
+      - Business/company
+      - Engineering/development team
+      - Sales/marketing
+      - Support/operations
+      - Other relevant stakeholders
 
-5. Recommendation:
-   - Recommended option with clear rationale
-   - Key benefits of this option
-   - Acknowledged trade-offs
-   - Mitigation strategies for the main risks
+      4. Decision Criteria Evaluation:
+     Create a decision matrix that evaluates each option against key criteria:
+      - Strategic alignment
+      - User value
+      - Business value
+      - Technical feasibility
+      - Resource efficiency
+      - Time to market
+      - Risk level
+      - Long-term implications
+      - [Any other relevant criteria]
 
-6. Implementation Considerations:
-   - Key steps to implement this decision
-   - Critical success factors
-   - Metrics to track
-   - Potential pivot points if outcomes aren't as expected
+      5. Recommendation:
+      - Recommended option with clear rationale
+      - Key benefits of this option
+      - Acknowledged trade-offs
+    - Mitigation strategies for the main risks
+
+      6. Implementation Considerations:
+      - Key steps to implement this decision
+      - Critical success factors
+      - Metrics to track
+      - Potential pivot points if outcomes aren't as expected
+
 </ACTIONS>
 
 ## 🏁 Output
 <OUTPUT>
-Please present this analysis in a clear, structured format that makes the decision-making process transparent and the recommendation well-justified.
+
+      Please present this analysis in a clear, structured format that makes the decision-making process transparent and the recommendation well-justified.
+
 </OUTPUT>
