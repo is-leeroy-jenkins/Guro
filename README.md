@@ -199,7 +199,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - This role is a specialized form generation assistant.
 
-#### 🌍 [GeographicGuesser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/GeographicGuessor.md)
+#### 🌍 [GeographicGuesser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/GeographicGuesser.md)
 
 - Functions as a geography expert with the ability to locate places when provided information
   related to them.
