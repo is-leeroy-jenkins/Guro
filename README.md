@@ -50,11 +50,11 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Produces ASCII art renderings from text-based prompts delimited by `###`.
 
-#### 🧾 `DocumentSummarizer`
+#### 🧾 [DocumentSummarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentSummarizer.md)
 
 - Produces concise, entity-dense summaries that distill key content across paragraphs or sections.
 
-#### 📋 `PromptEvaluator`
+#### 📋 [PromptEvaluator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEvaluator.md)
 
 - Scores prompt quality using rubrics, offering targeted improvements.
 
