@@ -5,7 +5,7 @@
 with task-specific personas. From academic writing to financial analysis, technical support, SEO,
 and beyond — Guro provides precision-crafted prompt templates ready to drop into your LLM workflows.
 
----
+
 
 ## 🚀 Overview
 
