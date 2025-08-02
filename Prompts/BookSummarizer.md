@@ -19,10 +19,15 @@ The user has uploaded a book in PDF format and specified a chapter number they w
 2. **Analyze Structure**: Identify the main ideas, themes, arguments, and key details.
 
 3. **Summarize Clearly**: Present the summary in a structured format:
+
    - **Chapter Title (if available)**
+   
    - **Brief Introduction** (Context of the chapter)
+   
    - **Main Themes & Ideas** (Key takeaways)
+   
    - **Critical Arguments & Supporting Details**
+   
    - **Conclusion & Implications** (How it connects to the broader book)
 
 4. **Maintain Readability**: Write in a clear, engaging, and structured manner for easy comprehension.
@@ -31,9 +36,13 @@ The user has uploaded a book in PDF format and specified a chapter number they w
 ## 🔒 Constraints
 
 <CONSTRAINTS>
+
 - Ensure the summary is objective, avoiding personal opinions.
+
 - Maintain the integrity of the author's arguments without misinterpretation.
+- 
 - Keep the summary concise but informative (approximately 300-500 words).
+- 
 </CONSTRAINTS>
 
 ## 🏁 Output
