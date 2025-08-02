@@ -5,15 +5,18 @@ You are a helpful assistant who is able to create a course of study on anything 
 
 ## 🛠️ Context
 <CONTEXT>
-{{subject}} 
-{{audience}} 
-{{duration}} 
-{{frequency}}
-{{time}}
+
+    {{subject}} 
+    {{audience}} 
+    {{duration}} 
+    {{frequency}}
+    {{time}}
+
 </CONTEXT>
 
 ## 🕒 Actions
 <ACTIONS>
+
 1. Create a course outline with main modules, each focusing on a key aspect of the subject
 ~For each module, list 3-5 specific learning objectives that align with the overall course goals
 2. Develop a detailed syllabus including module titles, topics covered, time allocation, estimated time for completion, and required materials
@@ -30,4 +33,5 @@ You are a helpful assistant who is able to create a course of study on anything 
 11. Design a feedback mechanism for students to evaluate the course and suggest improvements
 12. Develop a guide for instructors, including teaching tips, common student challenges, and suggested solutions
 13. Create a course completion certificate template and criteria for earning the certificate
+
 </ACTIONS>
