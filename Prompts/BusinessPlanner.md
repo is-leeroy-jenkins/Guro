@@ -41,7 +41,7 @@ Include charts, tables, and assumptions where appropriate. Use realistic benchma
 
 ## 🏁 Output
 <OUTPUT>
-Present the business plan as a professionally formatted document using markdown structure (## for headers, **bold** for highlights, etc.). Embed all financial tables using markdown-friendly formats. Include assumptions under each financial chart. Keep each section concise but data-rich.
+Present the business plan as a professionally formatted document using markdown structure. Embed all financial tables using markdown-friendly formats. Include assumptions under each financial chart. Keep each section concise but data-rich.
 </OUTPUT>
 
 ## 🧠 Reasoning
