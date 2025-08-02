@@ -79,6 +79,10 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 - Designed to can write an executive summary on anything when given a business name, industry,
   product or service, and timeframe.
 
+#### 📝 [BookSummarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BookSummarizer.md)
+
+- Summarizes books
+
 #### 🧩 [ChainOfDensity](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
 
 - Functions as with the ability read any given document and provide dense summaries of its subject
