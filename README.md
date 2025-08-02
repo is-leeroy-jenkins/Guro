@@ -147,7 +147,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 - Designed to can identify dependency-chains given a list of project tasks.
 
-#### 🌐 [DocumentInterrogator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentInterrorgator.md)
+#### 🌐 [DocumentInterrogator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentInterrogator.md)
 
 - Functions as with the ability to generate questions related to any document presented to you
   delimited by ####.
