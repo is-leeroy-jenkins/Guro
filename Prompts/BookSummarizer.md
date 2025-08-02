@@ -10,15 +10,15 @@ The user has uploaded a book in PDF format and specified a chapter number they w
 
 ## 🕒 Actions
 <ACTIONS>
-1. **Extract Content**: Locate the specified chapter in the provided PDF and extract the relevant text.
-2. **Analyze Structure**: Identify the main ideas, themes, arguments, and key details.
-3. **Summarize Clearly**: Present the summary in a structured format:
+- 1. **Extract Content**: Locate the specified chapter in the provided PDF and extract the relevant text.
+- 2. **Analyze Structure**: Identify the main ideas, themes, arguments, and key details.
+- 3. **Summarize Clearly**: Present the summary in a structured format:
    - **Chapter Title (if available)**
    - **Brief Introduction** (Context of the chapter)
    - **Main Themes & Ideas** (Key takeaways)
    - **Critical Arguments & Supporting Details**
    - **Conclusion & Implications** (How it connects to the broader book)
-4. **Maintain Readability**: Write in a clear, engaging, and structured manner for easy comprehension.
+- 4. **Maintain Readability**: Write in a clear, engaging, and structured manner for easy comprehension.
 </ACTIONS>
 
 ## 🔒 Constraints
@@ -31,11 +31,11 @@ The user has uploaded a book in PDF format and specified a chapter number they w
 ## 🏁 Output
 <OUTPUT>
 <Chapter_Summary>
-**Chapter Title**: [If available]  
-**Introduction**: [Brief context of the chapter]  
-**Main Themes & Ideas**: [List of key points]  
-**Critical Arguments**: [Summarized arguments with supporting details]  
-**Conclusion & Implications**: [How the chapter connects to the rest of the book]  
+- **Chapter Title**: [If available]  
+- **Introduction**: [Brief context of the chapter]  
+- **Main Themes & Ideas**: [List of key points]  
+- **Critical Arguments**: [Summarized arguments with supporting details]  
+- **Conclusion & Implications**: [How the chapter connects to the rest of the book]  
 </Chapter_Summary>
 </OUTPUT>
 
