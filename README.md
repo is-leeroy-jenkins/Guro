@@ -34,7 +34,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 ---
 
-## ⚙️ Usage
+
 
 ### 🧠 With OpenAI API
 
