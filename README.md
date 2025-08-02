@@ -88,7 +88,7 @@ Guro/
 #### 😀 [Author Emulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md) 
 ___
 
-#### 📊 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
+#### 🧠 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
 
 #### 📊 [Business Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessAnalyst.md)
 
