@@ -32,7 +32,45 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 - ✅ Categorized and Emoji-Labeled
 - ✅ Built with RAG & Embedding Pipelines in Mind
 
+---
 
+## ⚙️ Usage
+
+### 🧠 With OpenAI API
+
+```
+python
+prompt = load_prompt("AcademicWriter")
+formatted = prompt.format(topic="climate change", style="APA", length="1500 words")
+response = openai.ChatCompletion.create(
+  model="gpt-4",
+  messages=[{"role": "system", "content": formatted}]
+)
+```
+
+## 🔗 With LangChain
+
+```
+from langchain.prompts import PromptTemplate
+
+template = PromptTemplate.from_file("prompts/AcademicWriter.txt")
+chain = LLMChain(llm=OpenAI(), prompt=template)
+output = chain.run(topic="economic policy")
+```
+
+## 📂 Project Structure
+
+```
+Guro/
+    ├── prompts/
+    │ ├── AcademicWriter.txt
+    │ ├── BudgetAnalyst.txt
+    │ └── ...
+    ├── PROMPTS.md
+    ├── README.md
+    └── requirements.txt
+```
+___
 
 ## 🧩 Prompts
 
@@ -438,51 +476,6 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 
 
----
-
-## ⚙️ Usage
-
-### 🧠 With OpenAI API
-
-```
-python
-prompt = load_prompt("AcademicWriter")
-formatted = prompt.format(topic="climate change", style="APA", length="1500 words")
-response = openai.ChatCompletion.create(
-  model="gpt-4",
-  messages=[{"role": "system", "content": formatted}]
-)
-```
-
-## 🔗 With LangChain
-
-```
-from langchain.prompts import PromptTemplate
-
-template = PromptTemplate.from_file("prompts/AcademicWriter.txt")
-chain = LLMChain(llm=OpenAI(), prompt=template)
-output = chain.run(topic="economic policy")
-```
-
-
-## 📂 Project Structure
-
-```
-Guro/
-    ├── prompts/
-    │ ├── AcademicWriter.txt
-    │ ├── BudgetAnalyst.txt
-    │ └── ...
-    ├── PROMPTS.md
-    ├── README.md
-    └── requirements.txt
-```
-
-
-
-
-
-- Creates summaries of Youtube videos
 
 
 ## 📝 License
