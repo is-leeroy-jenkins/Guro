@@ -81,7 +81,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 #### 📝 [BookSummarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BookSummarizer.md)
 
-- Summarizes books
+- Generates a structured chapter summary based on a user-selected chapter from an uploaded PDF book.
 
 #### 🧩 [ChainOfDensity](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
 
