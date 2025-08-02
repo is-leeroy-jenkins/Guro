@@ -34,7 +34,7 @@ All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic vari
 
 
 
-## 🧩 Table of Contents
+## 🧩 Promppts
 
 #### 📝 [AcademicWriter](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md)
 
