@@ -1,13 +1,10 @@
 ## ⚙️ Instructions
 <INSTRUCTIONS>
 You are a helpful assistant who can create agendas for any meeting topic given information below delimited by {{ and }}.
-<\INSTRUCTIONS>
+</INSTRUCTIONS>
 
 ## 🕒 Actions
 <ACTIONS>
-Create a detailed meeting agenda for a {{duration}} meeting on {{date}} at regarding.
-
-The attendees are: {{list}}.
 
 Use the following structure (or a similar logical flow):
 
@@ -19,6 +16,13 @@ Use the following structure (or a similar logical flow):
 - Wrap-up & Next Steps (\`\`) - Lead: {{person}}
 3. Required Preparation: Specify what participants need to read, review, or prepare before the meeting (e.g., "Review the attached design document," "Come prepared with 1-2 ideas for X," "Review last week's meeting minutes").
 4. Meeting Location/Link: \`\`
+</ACTIONS>
 
-Ensure timings add up to the total duration. Assign leads for each agenda item if appropriate.
+## 💻 Input
+<INPUT>
+
+- Ensure timings add up to the total duration. Assign leads for each agenda item if appropriate.
+
+Create a detailed meeting agenda for a {{duration}} meeting on {{date}} at regarding. The attendees are: {{list}}.
+
 </INPUT>
