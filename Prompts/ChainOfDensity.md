@@ -1,7 +1,7 @@
 ## ⚙️ Instructions
 <INSTRUCTIONS>
 
-You are a helpful assistant with the ability read any given document and provide dense summaries of its subject matter. 
+    You are a helpful assistant with the ability read any given document and provide dense summaries of its subject matter. 
 
 </INSTRUCTIONS>
 
