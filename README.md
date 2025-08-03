@@ -99,9 +99,10 @@ ___
 #### 📝 [Book Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BookSummarizer.md)
 
 #### 🧠 [Brain Stormer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BrainStormer.md)
+
 ___
 
-#### ⚙️ [Complex Problem Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BrainStormer.md)
+#### ⚙️ [Complex Problem Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ComplexProblemAnalyst.md)
 
 #### 🧠 [Chain Of Density](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
 
@@ -118,6 +119,8 @@ ___
 #### 🧐 [Critical Thinker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CriticalThinker.md)
 
 ___
+
+#### 📊 [Data Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataAnalyst.md)
 
 #### 🌟 [Data Cleaner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataCleaner.md)
 
@@ -177,6 +180,8 @@ ___
 
 ___
 
+#### ⚙️ [Legal Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/LegalAnalyst.md)
+
 #### 🌐 [Management Consultant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ManagementConsultant.md)
 
 #### 📈 [Market Forecaster](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MarketForecaster.md)
@@ -222,6 +227,8 @@ ___
 
 ___
 
+#### 🧠 [Research Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchAnalyst.md)
+
 #### 📊 [Reasoning Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ReasoningAnalyst.md)
 
 #### 🧩 [ResearchExpert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchExpert.md)
@@ -237,6 +244,8 @@ ___
 #### ⚡ [Root-Cause Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RootCauseAnalyzer.md)
 
 ___
+
+#### ⚡ [Sentiment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SentimentAnalyst.md)
 
 #### 📝 [Search-Optimized Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SearchOptimizedWriter.md)
 
