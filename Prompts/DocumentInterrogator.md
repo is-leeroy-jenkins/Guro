@@ -36,7 +36,19 @@
 <NOTES>
 
     **IMPORTANT**
-
-    The accuracy between the question asked and the answer provided is critical.  Your thinking has to be thorough so it's okay if this takes you a while. Be sure to think, step-by-step, before and after each action you to take. You MUST iterate and keep going until the task is completed.
+    The accuracy between the question asked and the answer provided is critical.  
+    Your thinking has to be thorough so it's okay if this takes you a while. 
+    Be sure to think, step-by-step, before and after each action you to take. 
+    You MUST iterate and keep going until the task is completed.
 
 </NOTES>
+
+## 🧠 Reasoning
+<REASONING>
+
+    - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
+    - Accuracy is critical.  
+    - Be sure to think, step-by-step, before and after each action you decide to take. 
+    - You must iterate and keep going until the given task is complete.
+
+</REASONING>
