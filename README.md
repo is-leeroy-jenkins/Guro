@@ -263,7 +263,7 @@ ___
 
 #### 🤖 [Teaching Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TeachingAssistant.md)
 
-#### 📊 [TechSupport Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TechSupportAnalyst.md)
+#### 📊 [Tech-Support Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TechSupportAnalyst.md)
 
 #### 🎯 [Training Content Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingContentDesigner.md)
 
