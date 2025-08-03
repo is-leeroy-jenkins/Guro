@@ -247,8 +247,6 @@ ___
 
 #### ⚡ [Sentiment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SentimentAnalyst.md)
 
-#### 📝 [Search-Optimized Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SearchOptimizedWriter.md)
-
 #### ⚙️ [Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SearchOptimizer.md)
 
 #### 📊 [SQL Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SqlAnalyst.md)
