@@ -231,7 +231,7 @@ ___
 
 #### 📊 [Reasoning Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ReasoningAnalyst.md)
 
-#### 🧩 [ResearchExpert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchExpert.md)
+#### 🧩 [Research Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchExpert.md)
 
 #### 🌐 [Results Creator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResultsCreator.md)
 
