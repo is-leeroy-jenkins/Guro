@@ -73,6 +73,7 @@ Guro/
 
 ___
 
+#### 🌟 [Automation Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AutomationAnalyst.md)
 
 #### 📝 [Academic Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md) 
                                                                                                             
@@ -97,7 +98,10 @@ ___
 
 #### 📝 [Book Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BookSummarizer.md)
 
+#### 🧠 [Brain Stormer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BrainStormer.md)
 ___
+
+#### ⚙️ [Complex Problem Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BrainStormer.md)
 
 #### 🧠 [Chain Of Density](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
 
