@@ -27,9 +27,13 @@
 
 
       {{industry}}=Target industry or market sector
+
       {{company_name}}=Primary company or product being analyzed
+
       {{research_depth}}=Level of detail (surface-level, moderate, in-depth)
+
       {{goegraphical_focus}}=Target market region or regions
+      
       {{time_frame}}=Analysis period (e.g., last 3 years, current year)
 
 </CONTEXT>
@@ -108,7 +112,7 @@
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
     
     - Accuracy is critical.  
-    
+
     - Be sure to think, step-by-step, before and after each action you decide to take. 
 
     - You must iterate and keep going until the given task is complete.
