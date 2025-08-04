@@ -20,9 +20,13 @@
 
     - Assess current environmental impact of [company/industry]
     • Set sustainability goals and objectives
+
     • Develop strategies for reducing carbon footprint
+
     • Create initiatives for waste reduction and resource conservation
+
     • Design an employee engagement plan for sustainability
+    
     • Outline reporting and communication strategies for sustainability efforts
 
 </ACTIONS>

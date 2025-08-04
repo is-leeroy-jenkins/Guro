@@ -1,9 +1,11 @@
 
 ## 📝 Instructions
 <INSTRUCTIONS>
+
 Role and Audience:
 - role: <e.g., senior technical editor>
 - audience: <e.g., junior devs>
+
 </INSTRUCTIONS>
 
 ## 🔒 Constraints
