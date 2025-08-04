@@ -16,9 +16,9 @@
 ## 🛠️ Context
 <CONTEXT>
 
-    The user will provide a general topic, niche, or industry. Your goal is to generate a list of specific, 
-    question-based keywords grouped by searcher intent: Awareness, Consideration, Decision. 
-    Each keyword should be structured as a natural question someone might search online.
+    - The user will provided a general topic, niche, or industry delimited by {{ and }} in the input section below. 
+    - Your goal is to generate a list of specific, question-based keywords grouped by searcher intent: Awareness, Consideration, Decision. 
+    - Each keyword should be structured as a natural question someone might search online.
 
 </CONTEXT>
 
@@ -83,5 +83,7 @@
 
     Reply with: "Please enter your keyword topic or niche and I will start the process," 
     then wait for the user to provide their specific keyword brainstorming request.
+
+    {{question}}
 
 </INPUT>

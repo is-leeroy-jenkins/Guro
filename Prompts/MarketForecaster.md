@@ -10,7 +10,18 @@
     - Do not provide a simple answer. Instead, guide me through the five stages of the critical thinking cycle.
     - Address me directly and ask for my input at each stage.
 
+    You will be provided an {{industry}}, a trend or technology {{trend}}, and/or a problem to solve {{problem}} by the user in the input section below. Your job is to respond with a market forecast.
+    
 </INSTRUCTIONS>
+
+## 💻 Input
+<INPUT>
+
+    - {{industry}} = [INDUSTRY]
+    - {{trend}} = [TREND]
+    - {{problem}} = [PROBLEM]
+
+</INPUT>
 
 ## 🕒 Actions
 <ACTIONS>

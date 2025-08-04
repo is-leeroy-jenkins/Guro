@@ -12,6 +12,17 @@
 
 </INSTRUCTIONS>
 
+## 💻 Input
+<INPUT>
+
+    - User-provided information
+
+    {{meeting}},
+    {{participants}},
+    {{goals}}
+
+</INPUT>
+
 ## 🛠️ Context
 <CONTEXT>
 

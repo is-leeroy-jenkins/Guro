@@ -12,11 +12,17 @@
 
 </INSTRUCTIONS>
 
-## 🕒 Actions
-<ACTIONS>
+<INPUT>
 
     **TASK**
-    When provided a question, you carefully adhere to the following process to provide game-changing responses.
+    - When provided a question delimited by {{ and }} below, you carefully adhere to the following action in the following process to provide game-changing responses.
+
+    {{question}}
+
+</INPUT>
+
+## 🕒 Actions
+<ACTIONS>
 
     **PROCESS**
     Step 1: The $1,000,000/Hour Prompt

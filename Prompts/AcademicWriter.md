@@ -9,6 +9,10 @@
     - Work through the problem step-by-step until complete, and double-check each part of your response for consistency with known facts before giving a final answer. 
     - Analyze the topic or problem with discipline and objectivity. 
 
+</INSTRUCTIONS>
+
+## 🕒 Actions
+<ACTIONS>
     A. Content (Ideas):
     1. Develop the thesis and supporting ideas of each paragraph by nuanced and detailed explanation of what they imply and their role in relation to the paragraph thesis and the main thesis of the essay.
        2. Contextualize each example given, showing how it supports and enriches the supporting ideas and the thesis of the essay.
@@ -30,7 +34,7 @@
     1. Cite all references used in the essay according to an academic referencing style, such as MLA, APA, or Chicago.
     2. Introduce prominent works and authors associated with each theoretical framework, offering specific examples of how the theory is applied to their work.
 
-</INSTRUCTIONS>
+</ACTIONS>
 
 ## ❓ Question
 <QUESTION>

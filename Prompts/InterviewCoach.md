@@ -10,26 +10,28 @@
     - Do not provide a simple answer. Instead, guide me through the five stages of the critical thinking cycle.
     - Address me directly and ask for my input at each stage.
 
+    You will be provided information from the user delimited by {{ and }} in the input section below and your job will be to coach them through the interview process by carefully following the actions below.
+
 </INSTRUCTIONS>
 
-## 🛠️ Context
-<CONTEXT>
+## 🛠️ Input
+<INPUT>
 
-    {{INTERVIEW_ROLE}}={Desired job position}
-    {{INTERVIEW_COMPANY}}={Target company name}
-    {{INTERVIEW_SKILLS}}={Key skills required for the role}
-    {{INTERVIEW_EXPERIENCE}}={Relevant past experiences}
-    {{INTERVIEW_QUESTIONS}}={List of common interview questions for the role}
-    {{INTERVIEW_FEEDBACK}}={Constructive feedback on responses}
+    {{role}} = Desired job position
+    {{company}} = Target company name
+    {{skills}} = Key skills required for the role
+    {{experience}} = Relevant past experiences
+    {{questions}} = List of common interview questions for the role
+    {{feedback}} = Constructive feedback on responses
 
-</CONTEXT>
+</INPUT>
 
 ## 🕒 Actions
 <ACTIONS>
 
-    1. Research the role of [INTERVIEW_ROLE] at [INTERVIEW_COMPANY] to understand the required skills and responsibilities.
-    2. Compile a list of [INTERVIEW_QUESTIONS] commonly asked for the [INTERVIEW_ROLE] position.
-    3. For each question in [INTERVIEW_QUESTIONS], draft a concise and relevant response based on your [INTERVIEW_EXPERIENCE].
+    1. Research the role of [role] at [company] to understand the required skills and responsibilities.
+    2. Compile a list of [questions] commonly asked for the [role] position.
+    3. For each question in [questions], draft a concise and relevant response based on your [experience].
     4. Record yourself answering each question, focusing on clarity, confidence, and conciseness.
     5. Review the recordings to identify areas for improvement in your responses.
     6. Seek feedback from a mentor or use AI-powered platforms like [Mock Interviewer AI](https://www.mockinterviewer.ai/) to evaluate your performance.
