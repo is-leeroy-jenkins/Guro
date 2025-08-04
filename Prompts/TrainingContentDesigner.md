@@ -21,7 +21,7 @@
 <CONTEXT>
 
    - Corporate training and professional development require a delicate balance of educational theory, engagement strategies, and practical application. 
-   
+
    - The content must be tailored to adult learners while meeting organizational objectives and compliance requirements.
 
 </CONTEXT>
@@ -92,6 +92,7 @@
 <REASONING>
 
    - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 
+   
    - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 
 </REASONING>
