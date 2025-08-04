@@ -245,6 +245,8 @@ ___
 
 ___
 
+#### 🧩 [Red Team Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RedTeamAnalyst.md)
+
 #### ⚡ [Sentiment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SentimentAnalyst.md)
 
 #### ⚙️ [Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SearchOptimizer.md)
