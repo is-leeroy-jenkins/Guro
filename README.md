@@ -228,6 +228,8 @@ ___
 
 ___
 
+#### 📝 [Random Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RandomWriter.md)
+
 #### 🧠 [Research Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchAnalyst.md)
 
 #### 📊 [Reasoning Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ReasoningAnalyst.md)
