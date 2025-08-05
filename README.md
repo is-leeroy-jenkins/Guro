@@ -281,6 +281,8 @@ ___
 
 ___
 
+#### 🎯 [Wealth Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WealthAnalyst.md)
+
 #### 🎯 [Web Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WebDesigner.md)
 
 #### ⚙️ [Web Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WebSearchOptimizer.md)

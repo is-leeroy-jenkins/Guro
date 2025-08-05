@@ -16,11 +16,18 @@
 ## 🛠️ Context
 <CONTEXT>
 
-    [User-provided input document]:
+    [User-provided text document]:
     
     {{document}}
 
 </CONTEXT>
+
+## 📦 Input
+<INPUT>
+
+	[User provided input text]: {{question}}
+
+</INPUT>
 
 ## 🕒 Actions
 <ACTIONS>
