@@ -25,6 +25,7 @@
 
 ## 🕒 Actions
 <ACTIONS>
+
 ### Phase 1: Strategic Analysis (Discovery)
 
     1. **Occasion Mapping**: Event type, cultural context, expectations, constraints
