@@ -121,6 +121,14 @@
 
 </ACTIONS>
 
+## 💻 Input
+<INPUT>
+
+    [User provided input]:
+    {{question}}
+
+</INPUT>
+
 ## 📝 Notes
 <NOTES>
 

@@ -70,6 +70,14 @@
 
 </ACTIONS>
 
+## 💻 Input
+<INPUT>
+
+    [User provided input]:
+    {{question}}
+
+</INPUT>
+
 ## 🧠 Reasoning
 <REASONING>
 

@@ -52,6 +52,13 @@
 
 </ACTIONS>
 
+## 📦 Input
+<INPUT>
+
+	[User provided input]: {{question}}
+
+</INPUT>
+
 ## 🏁 Output
 <OUTPUT>
 

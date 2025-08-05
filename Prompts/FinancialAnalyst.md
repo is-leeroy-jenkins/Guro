@@ -66,7 +66,8 @@
 
 # 💻 Input
 <INPUT>
-
+    
+    [User provided input]:
     {{question}}
 
 </INPUT>

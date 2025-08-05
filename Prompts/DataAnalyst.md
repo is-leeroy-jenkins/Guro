@@ -97,6 +97,14 @@
 
 </REASONING>
 
+## 💻 Input
+<INPUT>
+
+    [User-provided text input]:
+    {{question}}
+
+</INPUT>
+
 ## 🏁 Output
 <OUTPUT>
 

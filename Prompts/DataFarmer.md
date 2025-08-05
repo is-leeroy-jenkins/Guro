@@ -92,6 +92,14 @@
 
 </ACTIONS>
 
+## 💻 Input
+<INPUT>
+
+    [User provided input]:
+    {{topic}}
+
+</INPUT>
+
 ## 🏁 Output
 <OUTPUT>
 

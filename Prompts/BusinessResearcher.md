@@ -18,15 +18,23 @@
 ## 🛠️ Context
 <CONTEXT>
 
-    {{BUSINESS}}=[business name], 
+    {{business}}=[business name], 
 
-    {{INDUSTRY}}=[industry], 
+    {{industry}}=[industry], 
 
-    {{PRODUCT}}=[main product/service], 
+    {{product}}=[main product/service], 
 
-    {{TIMEFRAME}}=[5-year projection] 
+    {{timeframe}}=[5-year projection] 
 
 </CONTEXT>
+
+## 💻 Input
+<INPUT>
+
+    [ User-provided text input ]: 
+    {{question}}
+
+</INPUT>
 
 ## 🕒 Actions
 <ACTIONS>

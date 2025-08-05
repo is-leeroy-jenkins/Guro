@@ -83,6 +83,7 @@
 <INPUT>
 
     Reply with: "Please enter your instructional blog post topic and target audience, and I will start the process," then wait for the user to provide their specific instructional blog post request.
+    {{question}}
 
 </INPUT>
 

@@ -27,7 +27,8 @@
 ## 💻 Input
 <INPUT>
 
-    {{input}}
+    [User-provided text input]:
+    {{question}}
 
 </INPUT>
 

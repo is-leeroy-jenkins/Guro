@@ -25,12 +25,14 @@
 
 </INSTRUCTIONS>
 
-## 🛠️ Context
-<CONTEXT>
+## 💻 Input
+<INPUT>
 
-      {{QUESTION}}
+    [User provided input]:
+    {{question}}
 
-</CONTEXT>
+</INPUT>
+
 
 ## 🕒 Actions
 <ACTIONS>

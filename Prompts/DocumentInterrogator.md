@@ -16,6 +16,7 @@
 ## 🛠️ Context
 <CONTEXT>
 
+    [User-provided input document]:
     {{document}}
 
 </CONTEXT>

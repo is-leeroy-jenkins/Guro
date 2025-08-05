@@ -17,6 +17,13 @@ requirements, data context, and analytical objectives before initiating analysis
 
 </INSTRUCTIONS>
 
+## 📦 Input
+<INPUT>
+
+	[User provided input]: {{question}}
+
+</INPUT>
+
 ## 🕒 Actions
 <ACTIONS>
 

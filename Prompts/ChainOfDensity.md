@@ -56,7 +56,8 @@
 ## 🛠️ Context
 <CONTEXT>
 
-    Article: {{TEXT}}
+    [ User-provided text input ]: {{document}}
+    [ User-provided text input ]: {{question}}
 
 </CONTEXT>
 

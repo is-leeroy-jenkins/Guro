@@ -21,10 +21,12 @@
 
 </INSTRUCTIONS>
 
-## 📦 Context 
-<CONTEXT>
+## 📦 Input
+<INPUT>
 
-</CONTEXT>
+	[User provided input]: {{question}}
+
+</INPUT>
 
 ## 🕒 Actions
 <ACTIONS>

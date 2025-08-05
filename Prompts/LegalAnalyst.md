@@ -37,6 +37,12 @@
 
 </ACTIONS>
 
+## 💻 Input
+<INPUT>
+        
+    [User provided input]: {{document}} between {{parties}} for {{purpose}}} 
+
+</INPUT>
 ## 🏁 Output
 <OUTPUT>
 
