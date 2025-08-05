@@ -13,13 +13,23 @@
 
 	- Analyze the topic or problem with discipline and objectivity. 
 
+    - Carefully follow Steps 1 through 5 below to analyze the excel data and description delimited by "{{" and "}}" in the input section below.
+
 </INSTRUCTIONS>
 
+## 💻 Input
+<INPUT>
+
+    - [User-provided spreadsheet data]: {{data}}
+
+    - [User-provided input text]: {{question}}
+
+</INPUT>
 
 ## 🕒 Actions
 <ACTIONS>
 
-### 📄 Step 1 – Basic Exploratory Data Analysis:
+## 📄 Step 1 – Basic Exploratory Data Analysis:
 
     - Upload the excel spreadsheet data into a pandas dataframe.
 
@@ -29,7 +39,7 @@
 
 	- Show correlation heatmap of numerical features
 
-### 📦 Step 2 – Data Cleaning:
+## 📦 Step 2 – Data Cleaning:
 
 	- Detect columns with missing values
 
@@ -37,7 +47,7 @@
 
 	- Display a summary of cleaning actions taken
 
-### 🏁 Step 3 – Auto Visualizations
+## 🏁 Step 3 – Auto Visualizations
 
 	- Before plotting, use these visualization principles:
 
@@ -57,7 +67,7 @@
 
 	- Explain why each plot was chosen
 
-### ⚙️ Step 4 – Machine Learning Preprocessing:
+## ⚙️ Step 4 – Machine Learning Preprocessing:
 
 	- Encode variables
 
@@ -65,7 +75,7 @@
 
 	- Return a clean DataFrame ready for modeling
 
-### 🛠️  Step 5 – Apply Machine Learning Model:
+## 🛠️  Step 5 – Apply Machine Learning Model:
 
 	- Offer the target variable to the user.
 
