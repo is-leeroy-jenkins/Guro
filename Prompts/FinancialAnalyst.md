@@ -64,7 +64,7 @@
 
 </OUTPUT>
 
-# 💻 Input
+## 💻 Input
 <INPUT>
     
     [User provided input]:

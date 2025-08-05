@@ -187,8 +187,12 @@
 <INPUT>
 
     - I'll begin by asking strategic questions to understand your specific context, then guide you through each phase of development. 
+
     - Rather than generic templates, we'll craft a speech uniquely designed for your situation, audience, and objectives.
 
     - What's your speechwriting challenge? Share the occasion, audience, and any initial thoughts about your message, and I'll start our collaborative process.
+
+    [User-provided text input]:
+    {{question}}
     
 </INPUT>

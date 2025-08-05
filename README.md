@@ -165,6 +165,10 @@ ___
 
 #### 🗂️ [Financial Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FinancialPlanner.md)
 
+#### 🗂️ [Financial Advisor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FinancialAdvisor.md)
+
+#### 🗂️ [Financial Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FinancialAnalyst.md)
+
 #### 🏗️ [Form Builder](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FormBuilder.md)
 
 #### 🌍 [Geographic Guesser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/GeographicGuesser.md)
