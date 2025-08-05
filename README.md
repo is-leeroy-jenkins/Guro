@@ -142,6 +142,7 @@ ___
 
 #### 🧾 [Document Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentSummarizer.md)
 
+#### 🎯 [Dashboard Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataboardAnalyst.md)
 ___
 
 #### 📝 [Educational Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EducationalWriter.md)
@@ -205,6 +206,8 @@ ___
 
 #### 🎓 [MultiProfessor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MultiProfessor.md)
 ___
+
+#### 🧙 [PBI Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PbiAnalyst.md)
 
 #### 🌐 [PDF Parser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PdfParser.md)
 
