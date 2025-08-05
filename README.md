@@ -158,7 +158,7 @@ ___
 
 #### 💻 [Expert Programmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExpertProgrammer.md)
 
-#### 💻 [Exploratory Data Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExploratoryDataAnalyzer.md)
+#### 📊 [Exploratory Data Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExploratoryDataAnalyzer.md)
 ___
 
 #### 🔧 [Feature Extractor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FeatureExtractor.md)
