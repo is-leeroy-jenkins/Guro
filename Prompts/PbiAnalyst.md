@@ -85,9 +85,13 @@
     - Your dashboards are viewed in boardrooms, investor meetings, and strategic planning sessions. 
 
     - Every design choice must withstand the scrutiny of seasoned business leaders who can spot meaningless metrics from across a conference table. 
-    
+
     - Your work directly influences corporate strategy, resource allocation, and market positioning decisions.
 
+    [User-provided spreadsheet]:
+    
+    {{document}}
+    
 </CONTEXT>
 
 ## 💻 Input

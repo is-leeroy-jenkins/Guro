@@ -143,6 +143,7 @@ ___
 #### 🧾 [Document Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentSummarizer.md)
 
 #### 🎯 [Dashboard Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DashboardAnalyst.md)
+
 ___
 
 #### 📝 [Educational Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EducationalWriter.md)

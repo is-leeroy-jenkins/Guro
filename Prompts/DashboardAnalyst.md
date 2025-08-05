@@ -168,6 +168,11 @@
     - Regulatory compliance  
     - Heavy usage and integration complexity  
 
+    
+    [User-provided spreadsheet]:
+    
+    {{document}}
+
 </CONTEXT>
 
 
