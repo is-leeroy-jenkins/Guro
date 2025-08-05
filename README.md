@@ -163,6 +163,7 @@ ___
 #### 🎯 [Excel Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExcelAnalyst.md)
 
 #### 📊 [Exploratory Data Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExploratoryDataAnalyzer.md)
+
 ___
 
 #### 🔧 [Feature Extractor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FeatureExtractor.md)
@@ -208,6 +209,7 @@ ___
 #### 🧾 [Meeting Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MeetingSummarizer.md)
 
 #### 🎓 [MultiProfessor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MultiProfessor.md)
+
 ___
 
 #### 🧙 [PBI Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PbiAnalyst.md)
