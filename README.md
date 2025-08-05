@@ -260,6 +260,7 @@ ___
 
 #### 🗂️ [Sustainability Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SustainabilityPlanner.md)
 
+#### 🧠 [Speech Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SpeechWriter.md)
 ___
 
 #### 🗂️ [Task Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TaskPlanner.md)
