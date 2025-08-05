@@ -160,6 +160,8 @@ ___
 
 #### 💻 [Expert Programmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExpertProgrammer.md)
 
+#### 🎯 [Excel Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExcelAnalyst.md)
+
 #### 📊 [Exploratory Data Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExploratoryDataAnalyzer.md)
 ___
 
