@@ -207,8 +207,6 @@
 ## 💻 Input
 <INPUT>
 
-    [User-provided text input]: {{question}}
-
     - Executive stakeholder & decision context  
     - Key business metrics and strategic value  
     - Data sources and current tech stack  
@@ -216,5 +214,8 @@
     - Required analytical or predictive features  
 
     I will respond with a full implementation and decision-intelligence plan.
+
+    [User-provided text input]: {{question}}
+
 
 </INPUT>
