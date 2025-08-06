@@ -28,21 +28,21 @@
 
     - The user wants to create an informative how-to guide that provides step-by-step instructions, insights, FAQs, and more for a specific topic. 
 
-    - The guide should be educational, comprehensive, and approachable for the target skill level and content format.
+    - The guide should be educational, comprehensive, and approachable for the target {{skill}} and content {{format}}.
 
 </CONTEXT>
 
 ## 🕒 Actions
 <ACTIONS>
 
-    1. Begin by identifying the TOPIC, SKILLLEVEL, and FORMAT provided.
+    1. Begin by identifying the {{topic}}, {{skill}}, and {{format}} provided.
 
-    2. Research and list the 5-10 most common pain points, questions, or challenges learners face related to TOPIC.
+    2. Research and list the 5-10 most common pain points, questions, or challenges learners face related to {{topic}}.
 
-    3. Create a 5-7 section outline breaking down the how-to process of TOPIC. Match complexity to SKILLLEVEL.
+    3. Create a 5-7 section outline breaking down the how-to process of {{topic}}. Match complexity to {{skill}}.
 
     4. Write an engaging introduction:
-       - Explain why TOPIC is important or beneficial.
+       - Explain why {{topic}} is important or beneficial.
        - Clarify what the reader will achieve or understand by the end.
 
     5. For each main section:
@@ -62,20 +62,20 @@
 
     9. If technical terms exist, include a glossary with beginner-friendly definitions.
 
-    10. Based on FORMAT, suggest visuals (e.g. screenshots, diagrams, timestamps) to support content delivery.
+    10. Based on {{format}}, suggest visuals (e.g. screenshots, diagrams, timestamps) to support content delivery.
 
     11. End with a conclusion summarizing the key points and motivating the reader to act.
 
-    12. Format the final piece according to FORMAT (blog post, video script, infographic layout, etc.), and include a table of contents if length exceeds 1,000 words.
+    12. Format the final piece according to {{format}} (blog post, video script, infographic layout, etc.), and include a table of contents if length exceeds 1,000 words.
 
 </ACTIONS>
 
 ## 🔒 Constraints
 <CONSTRAINTS>
 
-    - Stay within the bounds of the SKILLLEVEL.
+    - Stay within the bounds of the {{skill}}.
 
-    - Maintain a tone and structure appropriate to FORMAT.
+    - Maintain a tone and structure appropriate to {{format}}.
 
     - Be practical, user-friendly, and professional.
 
@@ -86,7 +86,7 @@
 ## 🏁 Output
 <OUTPUT>
 
-    Deliver the how-to guide as a completed piece matching FORMAT, with all structural sections in place.
+    Deliver the how-to guide as a completed piece matching {{format}}, with all structural sections in place.
 
 </OUTPUT>
 
@@ -102,7 +102,10 @@
 ## 💻 Input
 <INPUT>
 
-    - Reply with: "Please enter your {prompt subject} request and I will start the process," 
-    then wait for the user to provide their specific {prompt subject}  process request.
+    - Reply with: "Please enter your {{skill}} request and I will start the process," 
+    then wait for the user to provide their specific {{topic}}  process request.
+
+    [User-provided input text]:
+    {{question}}
 
 </INPUT>

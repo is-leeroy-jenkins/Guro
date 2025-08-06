@@ -37,6 +37,7 @@
 ## 🧰 Context
 <CONTEXT>
     
+    [User-provided spreadsheet]
     {{data}}    
 
 </CONTEXT>
@@ -54,9 +55,10 @@
 
 </REASONING>
 
-## ❓ Question
-<QUESTION>
+## 💻 Input
+<INPUT>
 
+    [User-provided text input]:
     {{question}}
 
-</QUESTION>
+</INPUT>

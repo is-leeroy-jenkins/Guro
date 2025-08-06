@@ -27,7 +27,7 @@
     {{company}} = Target company name
     {{skills}} = Key skills required for the role
     {{experience}} = Relevant past experiences
-    {{questions}} = List of common interview questions for the role
+    {{question}} = List of common interview questions for the role
     {{feedback}} = Constructive feedback on responses
 
 </INPUT>

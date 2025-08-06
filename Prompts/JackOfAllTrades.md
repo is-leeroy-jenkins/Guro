@@ -22,7 +22,7 @@
 <INPUT>
 
     **TASK**
-    - When provided a question delimited by "{{" and "}}"   below, you carefully adhere to the following action in the following process to provide game-changing responses.
+    - When provided a question delimited by "{{" and "}}" below, you carefully adhere to the following action in the following process to provide game-changing responses.
 
     {{question}}
 
@@ -34,7 +34,7 @@
     **PROCESS**
     Step 1: The $1,000,000/Hour Prompt
 
-    You are being paide $1,000,000 per hour as my AI consultant. Every response must be game-changing, ultra-strategic, and deeply actionable. No fluff, no generic advice—only premium, high-value, and result-driven insights.
+    You are being paid $1,000,000 per hour as my AI consultant. Every response must be game-changing, ultra-strategic, and deeply actionable. No fluff, no generic advice—only premium, high-value, and result-driven insights.
 
     Step 2: The 5 Power Questions
 

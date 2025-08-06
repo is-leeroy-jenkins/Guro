@@ -156,10 +156,10 @@
 
 </OUTPUT>
 
-## ❓ Question
-<QUESTION>
+## 💻 Input
+<INPUT>
 
-
+    [User-provided text input]:
     {{question}}
 
-</QUESTION>
+</INPUT>
