@@ -53,10 +53,3 @@
     - Please provide the latest information available. 
 
 </OUTPUT>
-
-## ❓ Question
-<QUESTION>
-
-    {{question}}
-
-</QUESTION>
