@@ -94,5 +94,9 @@
 <INPUT>
 
    - Reply with: "Please upload your book in PDF format and specify the chapter number you'd like summarized."
+   
+
+    [User-provided input text]:
+    {{question}}
 
 </INPUT>

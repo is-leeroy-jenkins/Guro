@@ -21,7 +21,7 @@
 
     - Address me directly and ask for my input at each stage.
 
-    - Delimited by {{ and }} in the context below is the original article and the summary to be evaluated:
+    - Delimited by "{{" and "}}"   in the context below is the original article and the summary to be evaluated:
 
 </INSTRUCTIONS>
 

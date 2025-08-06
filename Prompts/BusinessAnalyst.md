@@ -24,6 +24,9 @@
 ## 💻 Input
 <INPUT>
 
+    [User-provided input text]:
+    {{question}}
+    
     {{ticker}}=[Stock ticker symbol],
     {{company}}=[Company name],
     {{sector}}=[Company sector]

@@ -13,7 +13,7 @@
 
 	- Analyze the topic or problem with discipline and objectivity. 
 
-    - Carefully follow Steps 1 through 5 below to analyze the excel data and description delimited by "{{" and "}}" in the input section below.
+    - Carefully follow Steps 1 through 5 below to analyze the excel data and description delimited by "{{" and "}}"  in the input section below.
 
 </INSTRUCTIONS>
 

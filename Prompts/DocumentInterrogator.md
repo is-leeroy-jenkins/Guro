@@ -9,7 +9,7 @@
 
     - You MUST iterate and keep going until the task is completed.
 
-    - Analyze the following document delimited by {{ and }} by carefully following the steps 1 through 8 below: 
+    - Analyze the following document delimited by "{{" and "}}"   by carefully following the steps 1 through 8 below: 
 
 </INSTRUCTIONS>
 

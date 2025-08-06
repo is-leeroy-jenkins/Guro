@@ -15,7 +15,7 @@
 
     - Do not provide a simple answer. Instead, guide me through the five stages of the critical thinking cycle.
 
-    - You will be provided a question delimited by {{ and }} below in the context section and other optional documents. 
+    - You will be provided a question delimited by "{{" and "}}"   below in the context section and other optional documents. 
 	
 	- Your job is will be to respond in accordance with the actions below.
 

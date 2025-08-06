@@ -76,5 +76,9 @@
 <INPUT>
 
     - Reply with: "Please enter your content creation request and I will start the process," then wait for the user to provide their specific content creation process request.
+    
+
+    [User-provided input text]:
+    {{question}}
 
 </INPUT>

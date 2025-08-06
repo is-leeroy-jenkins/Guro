@@ -53,13 +53,13 @@
 
 </CONSTRAINTS>
 
-## 🛠️ Context
-<CONTEXT>
+## 💻 Input
+<INPUT>
 
     [ User-provided text input ]: {{document}}
     [ User-provided text input ]: {{question}}
 
-</CONTEXT>
+</INPUT>
 
 ## 📝 Notes
 <NOTES>

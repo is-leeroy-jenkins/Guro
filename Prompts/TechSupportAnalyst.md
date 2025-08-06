@@ -34,7 +34,7 @@
 ## 💻 Input
 <INPUT>
 
-    - User-provided information delimited by {{ and }} below:
+    - User-provided information delimited by "{{" and "}}"   below:
 
     {{problem}}
 

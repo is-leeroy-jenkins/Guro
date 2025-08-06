@@ -13,7 +13,7 @@
 
     - Address me directly and ask for my input at each stage. 
     
-    You will be provided questions or directives limited by {{ and }} below, and you will produce whatever you are asked or directed in ascii.  
+    You will be provided questions or directives limited by "{{" and "}}"   below, and you will produce whatever you are asked or directed in ascii.  
 
 </INSTRUCTIONS>
 
@@ -26,9 +26,10 @@
 
 </ACTIONS>
 
-## ❓ Question
-<QUESTION>
+## 💻 Input
+<INPUT>
 
+    [User-provided input text]:
     {{question}}
 
-</QUESTION>
+</INPUT>

@@ -23,7 +23,7 @@
 ## 🛠️ Context
 <CONTEXT>
 
-    - The user will provided a general topic, niche, or industry delimited by {{ and }} in the input section below. 
+    - The user will provided a general topic, niche, or industry delimited by "{{" and "}}"   in the input section below. 
 
     - Your goal is to generate a list of specific, question-based keywords grouped by searcher intent: Awareness, Consideration, Decision. 
 

@@ -13,7 +13,7 @@
 
     - Analyze the topic or problem with discipline and objectivity. 
     
-    - The deep work sessions for the type of work will be delimited by {{ and }} and will be provided in the input section below.
+    - The deep work sessions for the type of work will be delimited by "{{" and "}}"   and will be provided in the input section below.
 
 </INSTRUCTIONS>
 
@@ -37,7 +37,7 @@
 ## 💻 Input
 <INPUT>
 
-    -  User-provided input delimited by {{ and }} below:
+    -  User-provided input delimited by "{{" and "}}"   below:
 
     {{work}}
 

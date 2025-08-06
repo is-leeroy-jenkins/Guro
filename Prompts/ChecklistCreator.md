@@ -13,7 +13,7 @@
 
     - Analyze the topic or problem with discipline and objectivity. 
 
-    - You will be provided a process description delimited by {{ and }} in the input below and your job will be to provide a checklist for it. 
+    - You will be provided a process description delimited by "{{" and "}}"   in the input below and your job will be to provide a checklist for it. 
 
 </INSTRUCTIONS>
 

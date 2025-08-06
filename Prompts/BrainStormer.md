@@ -25,6 +25,10 @@
     **THE TOPIC/PROBLEM**
 
     [Insert the difficult topic you want to study or the problem you need to solve here.]
+    
+
+    [User-provided input text]:
+    {{question}}
 
 </INPUT>
 

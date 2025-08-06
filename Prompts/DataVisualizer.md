@@ -19,7 +19,7 @@
 
     - Reply in English using a professional tone for everyone. 
 
-    You will be provided spreadsheet data and a question both delimited by {{ and }} below and your job will be to analyze the data.
+    You will be provided spreadsheet data and a question both delimited by "{{" and "}}"   below and your job will be to analyze the data.
 
 </INSTRUCTIONS>
 

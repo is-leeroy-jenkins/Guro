@@ -77,19 +77,6 @@
 
     - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
-</REASONING>
-
-## 💻 Input
-<INPUT>
-
-    Reply with: "Please enter your instructional blog post topic and target audience, and I will start the process," then wait for the user to provide their specific instructional blog post request.
-    {{question}}
-
-</INPUT>
-
-## 🧠 Reasoning
-<REASONING>
-
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 
     - Accuracy is critical.  
@@ -99,3 +86,11 @@
     - You must iterate and keep going until the given task is complete.
 
 </REASONING>
+
+## 💻 Input
+<INPUT>
+
+    Reply with: "Please enter your instructional blog post topic and target audience, and I will start the process," then wait for the user to provide their specific instructional blog post request.
+    {{question}}
+
+</INPUT>

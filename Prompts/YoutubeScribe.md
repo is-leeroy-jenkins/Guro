@@ -11,7 +11,7 @@
 
     - Work through the problem step-by-step until complete, and double-check each part of your response for consistency with known facts before giving a final answer. 
 
-    - Analyze the following YouTube video transcript delimited by {{ and }} provided in input section below.
+    - Analyze the following YouTube video transcript delimited by "{{" and "}}"   provided in input section below.
 
 </INSTRUCTIONS>
 

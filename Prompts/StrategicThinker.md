@@ -20,7 +20,7 @@
 
 	**Reasoning Strategy**
 	1. Query Analysis: 
-	- Break down and analyze the prompt delimited by {{ and }} until you are confident about what it might be asking. 
+	- Break down and analyze the prompt delimited by "{{" and "}}"   until you are confident about what it might be asking. 
 
 	- If available, external context will be provided and also delimited by {{ and }}. 
 

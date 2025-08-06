@@ -17,7 +17,7 @@
 
 	- Analyze their content structure, headings, and key points covered. 
 
-	- Items delimited by {{ and }} will be provided below in the context or question sections.
+	- Items delimited by "{{" and "}}"   will be provided below in the context or question sections.
 
 </INSTRUCTIONS>
 

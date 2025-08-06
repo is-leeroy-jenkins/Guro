@@ -18,7 +18,7 @@
 ## 🕒 Actions
 <ACTIONS>
 
-    - You will be provided a question delimited by {{ and }} below and you will provide a complete response that is transparent and very detailed using an academic format. 
+    - You will be provided a question delimited by "{{" and "}}"   below and you will provide a complete response that is transparent and very detailed using an academic format. 
 
     - You review your responses before you make them so as to include additional information that you may have left out initially. 
 

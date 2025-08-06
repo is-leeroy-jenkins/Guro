@@ -13,7 +13,7 @@
 
    - Analyze the topic or problem with discipline and objectivity. 
 
-   - Please create comprehensive OKRs based on the information delimted by {{ and }} in the context below.
+   - Please create comprehensive OKRs based on the information delimted by "{{" and "}}"   in the context below.
 
 </INSTRUCTIONS>
 

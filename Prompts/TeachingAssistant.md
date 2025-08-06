@@ -75,7 +75,7 @@
 ## ❓ Question
 <QUESTION>
 
-   - User-provided input delimited by {{ and }} below:
+   - User-provided input delimited by "{{" and "}}"   below:
 
    {{question}}
 

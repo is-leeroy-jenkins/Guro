@@ -17,14 +17,14 @@
       
       - Address me directly and ask for my input at each stage.
 
-      - Your task is to develop a structured outline that effectively communicates the core ideas behind the presentation topic and its associated keywords delimited by {{ and }} in the context below. 
+      - Your task is to develop a structured outline that effectively communicates the core ideas behind the presentation topic and its associated keywords delimited by "{{" and "}}"   in the context below. 
 
 </INSTRUCTION>
 
 ## 🛠️ Context
 <CONTEXT>
 
-      - [ User-provided input delimited by {{ and }} ]
+      - [ User-provided input delimited by "{{" and "}}"   ]
 
       Topic = {{topic}}
       Keyword = {{keywords}}

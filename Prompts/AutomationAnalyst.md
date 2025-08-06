@@ -19,6 +19,14 @@
 
 </INSTRUCTIONS>
 
+## 💻 Input
+<INPUT>
+
+    [User-provided input text]:
+    {{question}}
+
+</INPUT>
+
 ## 🕒 Actions
 <ACTIONS>
 
