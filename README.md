@@ -168,7 +168,7 @@ ___
 
 ___
 
-#### 🔧 [Feature Extractor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FeatureExtractor.md)
+#### 🏗️ [Feature Department](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FeatureDepartment.md)
 
 #### 🗂️ [Financial Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FinancialPlanner.md)
 
