@@ -214,6 +214,7 @@ ___
 
 #### 🎓 [MultiProfessor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MultiProfessor.md)
 
+#### 🧩 [Outlook Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/OutlookAnalyst.md)
 ___
 
 #### 🎯 [PBI Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PbiExpert.md)
