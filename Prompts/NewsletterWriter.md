@@ -23,7 +23,9 @@
 <CONTEXT>
 
     {{topic}}=[newsletter topic], 
+
     {{audience}}=[target audience], 
+    
     {{frequency}}=[daily/weekly/monthly] 
 
 </CONTEXT>

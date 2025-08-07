@@ -91,14 +91,21 @@
     6. User Alignment Analysis:
 
     7. Niche Scorecard:
+
       - Market Opportunity: /10
+
       - Ease of Entry: /10
+
       - User Fit: /10
+
       - Profit Potential: /10
 
     8. Strategy Paths:
+
       - $0–$100 Investment Plan:
+
       - $100–$1,000 Investment Plan:
+      
       - Growth/Scalable Path:
 
 </OUTPUT>
