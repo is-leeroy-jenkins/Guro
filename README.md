@@ -212,7 +212,7 @@ ___
 
 #### 🧾 [Meeting Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MeetingSummarizer.md)
 
-#### 🎓 [MultiProfessor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MultiProfessor.md)
+#### 🎓 [Multi Professor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MultiProfessor.md)
 
 #### 🧩 [Outlook Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/OutlookAnalyst.md)
 ___
