@@ -146,6 +146,8 @@ ___
 
 ___
 
+#### 🌟 [Excel Ninja](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExcelNinja.md)
+
 #### 📝 [Educational Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EducationalWriter.md)
 
 #### 🤖 [Email Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EmailAssistant.md)
@@ -184,6 +186,8 @@ ___
 
 #### 📊 [Investment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/InvestmentAnalyst.md)
 
+#### 🌟 [Innovation Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/InnovationAnalyst.md)
+
 #### 🧩 [Jack Of All Trades](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/JackOfAllTrades.md)
 
 #### ⚡ [Keyword Generator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/KeywordGenerator.md)
@@ -212,6 +216,8 @@ ___
 
 ___
 
+#### 🎯 [PBI Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PbiExpert.md)
+
 #### 🧙 [PBI Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PbiAnalyst.md)
 
 #### 🌐 [PDF Parser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PdfParser.md)
@@ -224,6 +230,8 @@ ___
 
 #### 🛠️ [Process Engineer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProcessEngineer.md)
 
+#### 🧙 [Power Query Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PowerQueryAnalyst.md)
+
 #### 🎯 [Project Architech](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProjectArchitect.md)
 
 #### 🗂️ [Project Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProjectPlanner.md)
@@ -231,6 +239,8 @@ ___
 #### 🌐 [Prompt Enhancer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEnhancer.md)
 
 #### 📋 [Prompt Evaluator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEvaluator.md)
+
+#### 🧙 [Procurement Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProcurementAnalyst.md)
 
 #### ⚡ [Prompt Generator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptGenerator.md)
 
@@ -275,6 +285,9 @@ ___
 #### 🗂️ [Sustainability Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SustainabilityPlanner.md)
 
 #### 🧠 [Speech Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SpeechWriter.md)
+
+#### 🧙 [Statistics Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/StatisticsAnalyst.md)
+
 ___
 
 #### 🗂️ [Task Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TaskPlanner.md)
@@ -300,6 +313,8 @@ ___
 #### ⚙️ [Web Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WebSearchOptimizer.md)
 
 #### ✏️ [Writing Editor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WritingEditor.md)
+
+#### 🧙 [What-If Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WhatIfAnalyst.md)
 
 #### ✍️ [Youtube Scribe](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/YoutubeScribe.md)
 
