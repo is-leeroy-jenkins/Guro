@@ -73,257 +73,257 @@ Guro/
 
 ___
 
-#### 🌟 [Automation Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AutomationAnalyst.md)
+#### 🌟 [Automation Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AutomationAnalyst.md)
 
-#### 📝 [Academic Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AcademicWriter.md) 
+#### 📝 [Academic Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AcademicWriter.md) 
                                                                                                             
-#### 📊 [Adaptive Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AdaptiveAnalyst.md)
+#### 📊 [Adaptive Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AdaptiveAnalyst.md)
                                                                                                             
-#### 🎨 [ASCII Artist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AsciiArtist.md) 
+#### 🎨 [ASCII Artist](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AsciiArtist.md) 
                                                                                                         
-#### 🧩 [Agenda Maker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AgendaMaker.md) 
+#### 🧩 [Agenda Maker](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AgendaMaker.md) 
 
-#### 🎯 [Artsy Fartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ArtsyFartsy.md) 
+#### 🎯 [Artsy Fartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ArtsyFartsy.md) 
 
-#### 😀 [Author Emulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/AuthorEmulator.md) 
+#### 😀 [Author Emulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AuthorEmulator.md) 
 ___
 
-#### 🧠 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BudgetAnalyst.md)
+#### 🧠 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BudgetAnalyst.md)
 
-#### 📊 [Business Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessAnalyst.md)
+#### 📊 [Business Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessAnalyst.md)
 
-#### 🗂️ [Business Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessPlanner.md)
+#### 🗂️ [Business Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessPlanner.md)
 
-#### 🔍 [Business Researcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BusinessResearcher.md)
+#### 🔍 [Business Researcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessResearcher.md)
 
-#### 📝 [Book Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BookSummarizer.md)
+#### 📝 [Book Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BookSummarizer.md)
 
-#### 🧠 [Brain Stormer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/BrainStormer.md)
-
-___
-
-#### ⚙️ [Complex Problem Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ComplexProblemAnalyst.md)
-
-#### 🧠 [Chain Of Density](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChainOfDensity.md)
-
-#### 🧩 [Checklist Creator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ChecklistCreator.md)
-
-#### 🧐 [Code Reviewer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CodeReviewer.md)
-
-#### 🌟 [Cognitive Profiler](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CognitiveProfiler.md)
-
-#### 🔍 [Company Researcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CompanyResearcher.md)
-
-#### 🧠 [Course Creator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CourseCreator.md)
-
-#### 🧐 [Critical Thinker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/CriticalThinker.md)
+#### 🧠 [Brain Stormer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BrainStormer.md)
 
 ___
 
-#### 📊 [Data Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataAnalyst.md)
+#### ⚙️ [Complex Problem Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ComplexProblemAnalyst.md)
 
-#### 🌟 [Data Cleaner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataCleaner.md)
+#### 🧠 [Chain Of Density](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ChainOfDensity.md)
 
-#### 🔎 [Data Farmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataFarmer.md)
+#### 🧩 [Checklist Creator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ChecklistCreator.md)
 
-#### 🎯 [Data Plumber](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataPlumber.md)
+#### 🧐 [Code Reviewer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/CodeReviewer.md)
 
-#### 🌐 [Data Scientist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataScientist.md)
+#### 🌟 [Cognitive Profiler](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/CognitiveProfiler.md)
 
-#### 🌟 [Data Visualizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DataVisualizer.md)
+#### 🔍 [Company Researcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/CompanyResearcher.md)
 
-#### 🧠 [Dataset Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DatasetAnalyzer.md)
+#### 🧠 [Course Creator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/CourseCreator.md)
 
-#### 🧩 [Decision Maker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DecisionMaker.md)
-
-#### 🎯  [Dependency Indentifier](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DependencyIdentifier.md)
-
-#### 🌐 [Document Interrogator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentInterrogator.md)
-
-#### 🧾 [Document Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentSummarizer.md)
-
-#### 🎯 [Dashboard Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DashboardAnalyst.md)
+#### 🧐 [Critical Thinker](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/CriticalThinker.md)
 
 ___
 
-#### 🌟 [Excel Ninja](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExcelNinja.md)
+#### 📊 [Data Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DataAnalyst.md)
 
-#### 📝 [Educational Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EducationalWriter.md)
+#### 🌟 [Data Cleaner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DataCleaner.md)
 
-#### 🤖 [Email Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EmailAssistant.md)
+#### 🔎 [Data Farmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DataFarmer.md)
 
-#### 🧩 [Entertainment Advisor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EntertainmentAdvisort.md)
+#### 🎯 [Data Plumber](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DataPlumber.md)
 
-#### 📝 [Essay Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EssayWriter.md)
+#### 🌐 [Data Scientist](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DataScientist.md)
 
-#### 🧩 [Evaluation Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/EvaluationExpert.md)
+#### 🌟 [Data Visualizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DataVisualizer.md)
 
-#### 🤖 [Executive Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExecutiveAssistant.md)
+#### 🧠 [Dataset Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DatasetAnalyzer.md)
 
-#### 💻 [Expert Programmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExpertProgrammer.md)
+#### 🧩 [Decision Maker](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DecisionMaker.md)
 
-#### 🎯 [Excel Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExcelAnalyst.md)
+#### 🎯  [Dependency Indentifier](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DependencyIdentifier.md)
 
-#### 📊 [Exploratory Data Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ExploratoryDataAnalyzer.md)
+#### 🌐 [Document Interrogator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DocumentInterrogator.md)
 
-___
+#### 🧾 [Document Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DocumentSummarizer.md)
 
-#### 🏗️ [Feature Department](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FeatureDepartment.md)
-
-#### 🗂️ [Financial Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FinancialPlanner.md)
-
-#### 🗂️ [Financial Advisor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FinancialAdvisor.md)
-
-#### 🗂️ [Financial Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FinancialAnalyst.md)
-
-#### 🏗️ [Form Builder](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/FormBuilder.md)
-
-#### 🌍 [Geographic Guesser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/GeographicGuesser.md)
-
-#### 🏗️ [How-To Builder](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/HowToBuilder.md)
-
-#### 🎤 [Interview Coach](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/InterviewCoach.md)
-
-#### 📊 [Investment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/InvestmentAnalyst.md)
-
-#### 🌟 [Innovation Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/InnovationAnalyst.md)
-
-#### 🧩 [Jack Of All Trades](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/JackOfAllTrades.md)
-
-#### ⚡ [Keyword Generator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/KeywordGenerator.md)
+#### 🎯 [Dashboard Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DashboardAnalyst.md)
 
 ___
 
-#### ⚙️ [Legal Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/LegalAnalyst.md)
+#### 🌟 [Excel Ninja](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ExcelNinja.md)
 
-#### 🌐 [Management Consultant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ManagementConsultant.md)
+#### 📝 [Educational Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/EducationalWriter.md)
 
-#### 📈 [Market Forecaster](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MarketForecaster.md)
+#### 🤖 [Email Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/EmailAssistant.md)
 
-#### 🗂️ [Market Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MarketPlanner.md)
+#### 🧩 [Entertainment Advisor](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/EntertainmentAdvisort.md)
 
-#### 🔍 [Market Researcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MarketResearcher.md)
+#### 📝 [Essay Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/EssayWriter.md)
 
-#### 🧙 [Mathy Magician](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MathyMagician.md)
+#### 🧩 [Evaluation Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/EvaluationExpert.md)
 
-#### 🎯 [Media Profile Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MediaProfileDesigner.md)
+#### 🤖 [Executive Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ExecutiveAssistant.md)
 
-#### ⚙️ [Meeting Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MeetingOptimizer.md)
+#### 💻 [Expert Programmer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ExpertProgrammer.md)
 
-#### 🧾 [Meeting Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MeetingSummarizer.md)
+#### 🎯 [Excel Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ExcelAnalyst.md)
 
-#### 🎓 [Multi Professor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/MultiProfessor.md)
-
-#### 🧩 [Outlook Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/OutlookAnalyst.md)
-___
-
-#### 🎯 [PBI Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PbiExpert.md)
-
-#### 🧙 [PBI Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PbiAnalyst.md)
-
-#### 🌐 [PDF Parser](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PdfParser.md)
-
-#### 🤖 [Personnal Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PersonnalAssistant.md)
-
-#### 🧩 [Power Pointer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PowerPointer.md)
-
-#### 🧠 [Problem Solver](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProblemSolver.md)
-
-#### 🛠️ [Process Engineer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProcessEngineer.md)
-
-#### 🧙 [Power Query Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PowerQueryAnalyst.md)
-
-#### 🎯 [Project Architech](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProjectArchitect.md)
-
-#### 🗂️ [Project Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProjectPlanner.md)
-
-#### 🌐 [Prompt Enhancer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEnhancer.md)
-
-#### 📋 [Prompt Evaluator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEvaluator.md)
-
-#### 🧙 [Procurement Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProcurementAnalyst.md)
-
-#### ⚡ [Prompt Generator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptGenerator.md)
-
-#### 🛠️ [Prompt Refiner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptRefiner.md)
-
-#### 🧩 [Proofreading Specialist](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ProofreadingSpecialist.md)
+#### 📊 [Exploratory Data Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ExploratoryDataAnalyzer.md)
 
 ___
 
-#### 📝 [Random Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RandomWriter.md)
+#### 🏗️ [Feature Department](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/FeatureDepartment.md)
 
-#### 🧠 [Research Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchAnalyst.md)
+#### 🗂️ [Financial Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/FinancialPlanner.md)
 
-#### 📊 [Reasoning Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ReasoningAnalyst.md)
+#### 🗂️ [Financial Advisor](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/FinancialAdvisor.md)
 
-#### 🧩 [Research Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResearchExpert.md)
+#### 🗂️ [Financial Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/FinancialAnalyst.md)
 
-#### 🌐 [Results Creator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResultsCreator.md)
+#### 🏗️ [Form Builder](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/FormBuilder.md)
 
-#### 🏗️ [Resume Builder](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResumeBuilder.md)
+#### 🌍 [Geographic Guesser](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/GeographicGuesser.md)
 
-#### 📝 [Resume Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/ResumeWriter.md)
+#### 🏗️ [How-To Builder](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/HowToBuilder.md)
 
-#### 🧩 [Revenue Projector](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RevenueProjector.md)
+#### 🎤 [Interview Coach](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/InterviewCoach.md)
 
-#### ⚡ [Root-Cause Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RootCauseAnalyzer.md)
+#### 📊 [Investment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/InvestmentAnalyst.md)
 
-___
+#### 🌟 [Innovation Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/InnovationAnalyst.md)
 
-#### 🧩 [Red Team Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/RedTeamAnalyst.md)
+#### 🧩 [Jack Of All Trades](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/JackOfAllTrades.md)
 
-#### ⚡ [Sentiment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SentimentAnalyst.md)
-
-#### ⚙️ [Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SearchOptimizer.md)
-
-#### 📊 [SQL Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SqlAnalyst.md)
-
-#### 🧐 [Strategic Thinker](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/StrategicThinker.md)
-
-#### 🧠 [Structured Problem Solver](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/StructuredProblemSolver.md)
-
-#### 🗂️ [Sustainability Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SustainabilityPlanner.md)
-
-#### 🧠 [Speech Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/SpeechWriter.md)
-
-#### 🧙 [Statistics Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/StatisticsAnalyst.md)
+#### ⚡ [Keyword Generator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/KeywordGenerator.md)
 
 ___
 
-#### 🗂️ [Task Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TaskPlanner.md)
+#### ⚙️ [Legal Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/LegalAnalyst.md)
 
-#### 🤖 [Teaching Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TeachingAssistant.md)
+#### 🌐 [Management Consultant](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ManagementConsultant.md)
 
-#### 📊 [Tech-Support Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TechSupportAnalyst.md)
+#### 📈 [Market Forecaster](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MarketForecaster.md)
 
-#### 🎯 [Training Content Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingContentDesigner.md)
+#### 🗂️ [Market Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MarketPlanner.md)
 
-#### 🎯 [Training Plan Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingPlanDesigner.md)
+#### 🔍 [Market Researcher](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MarketResearcher.md)
 
-#### 🗂️ [Training Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingPlanner.md)
+#### 🧙 [Mathy Magician](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MathyMagician.md)
 
-#### ⚡ [Training Wheels](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/TrainingWheels.md)
+#### 🎯 [Media Profile Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MediaProfileDesigner.md)
+
+#### ⚙️ [Meeting Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MeetingOptimizer.md)
+
+#### 🧾 [Meeting Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MeetingSummarizer.md)
+
+#### 🎓 [Multi Professor](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/MultiProfessor.md)
+
+#### 🧩 [Outlook Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/OutlookAnalyst.md)
+___
+
+#### 🎯 [PBI Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PbiExpert.md)
+
+#### 🧙 [PBI Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PbiAnalyst.md)
+
+#### 🌐 [PDF Parser](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PdfParser.md)
+
+#### 🤖 [Personnal Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PersonnalAssistant.md)
+
+#### 🧩 [Power Pointer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PowerPointer.md)
+
+#### 🧠 [Problem Solver](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProblemSolver.md)
+
+#### 🛠️ [Process Engineer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProcessEngineer.md)
+
+#### 🧙 [Power Query Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PowerQueryAnalyst.md)
+
+#### 🎯 [Project Architech](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProjectArchitect.md)
+
+#### 🗂️ [Project Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProjectPlanner.md)
+
+#### 🌐 [Prompt Enhancer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PromptEnhancer.md)
+
+#### 📋 [Prompt Evaluator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PromptEvaluator.md)
+
+#### 🧙 [Procurement Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProcurementAnalyst.md)
+
+#### ⚡ [Prompt Generator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PromptGenerator.md)
+
+#### 🛠️ [Prompt Refiner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PromptRefiner.md)
+
+#### 🧩 [Proofreading Specialist](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProofreadingSpecialist.md)
 
 ___
 
-#### 🎯 [Wealth Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WealthAnalyst.md)
+#### 📝 [Random Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/RandomWriter.md)
 
-#### 🎯 [Web Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WebDesigner.md)
+#### 🧠 [Research Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ResearchAnalyst.md)
 
-#### ⚙️ [Web Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WebSearchOptimizer.md)
+#### 📊 [Reasoning Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ReasoningAnalyst.md)
 
-#### ✏️ [Writing Editor](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WritingEditor.md)
+#### 🧩 [Research Expert](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ResearchExpert.md)
 
-#### 🧙 [What-If Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/WhatIfAnalyst.md)
+#### 🌐 [Results Creator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ResultsCreator.md)
 
-#### ✍️ [Youtube Scribe](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/YoutubeScribe.md)
+#### 🏗️ [Resume Builder](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ResumeBuilder.md)
 
-#### 🧾 [Youtube Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/YoutubeSummarizer.md)
+#### 📝 [Resume Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ResumeWriter.md)
 
-#### 🧾 [Document Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/DocumentSummarizer.md)
+#### 🧩 [Revenue Projector](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/RevenueProjector.md)
 
-#### 📋 [Prompt Evaluator](https://github.com/is-leeroy-jenkins/Guro/blob/master/Prompts/PromptEvaluator.md)
+#### ⚡ [Root-Cause Analyzer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/RootCauseAnalyzer.md)
+
+___
+
+#### 🧩 [Red Team Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/RedTeamAnalyst.md)
+
+#### ⚡ [Sentiment Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/SentimentAnalyst.md)
+
+#### ⚙️ [Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/SearchOptimizer.md)
+
+#### 📊 [SQL Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/SqlAnalyst.md)
+
+#### 🧐 [Strategic Thinker](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/StrategicThinker.md)
+
+#### 🧠 [Structured Problem Solver](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/StructuredProblemSolver.md)
+
+#### 🗂️ [Sustainability Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/SustainabilityPlanner.md)
+
+#### 🧠 [Speech Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/SpeechWriter.md)
+
+#### 🧙 [Statistics Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/StatisticsAnalyst.md)
+
+___
+
+#### 🗂️ [Task Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/TaskPlanner.md)
+
+#### 🤖 [Teaching Assistant](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/TeachingAssistant.md)
+
+#### 📊 [Tech-Support Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/TechSupportAnalyst.md)
+
+#### 🎯 [Training Content Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/TrainingContentDesigner.md)
+
+#### 🎯 [Training Plan Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/TrainingPlanDesigner.md)
+
+#### 🗂️ [Training Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/TrainingPlanner.md)
+
+#### ⚡ [Training Wheels](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/TrainingWheels.md)
+
+___
+
+#### 🎯 [Wealth Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/WealthAnalyst.md)
+
+#### 🎯 [Web Designer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/WebDesigner.md)
+
+#### ⚙️ [Web Search Optimizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/WebSearchOptimizer.md)
+
+#### ✏️ [Writing Editor](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/WritingEditor.md)
+
+#### 🧙 [What-If Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/WhatIfAnalyst.md)
+
+#### ✍️ [Youtube Scribe](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/YoutubeScribe.md)
+
+#### 🧾 [Youtube Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/YoutubeSummarizer.md)
+
+#### 🧾 [Document Summarizer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/DocumentSummarizer.md)
+
+#### 📋 [Prompt Evaluator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PromptEvaluator.md)
 
 ___
 
