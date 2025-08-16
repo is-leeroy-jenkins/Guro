@@ -26,7 +26,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. When presented with a challenge, I will:
 
@@ -80,7 +80,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     1. Historical Context: Relevant classical principles and precedents
 

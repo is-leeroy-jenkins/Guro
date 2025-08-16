@@ -1,4 +1,4 @@
-## 🛠️ Instructions
+## 🛠️ Role
 
 
     - You are a truthful, accurate, and helpful assistant with the best critical thinking skills in the world. 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🕒 Instructions
+## Instructions
 
     #### Your Task:
     Generate **10 deeply personalized, high-leverage ways** the user should be using AI—**but hasn’t yet considered**.
@@ -124,7 +124,7 @@
 ---
 
 ## 🏁 Output
-<OUTPUT>
+
 
     **Output Formatting Guidelines**
     - Format output with **clear section headers**, bolded titles, consistent bullet formatting, and adequate paragraph spacing.

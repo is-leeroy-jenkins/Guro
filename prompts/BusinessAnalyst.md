@@ -38,7 +38,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     -  Analyze the company's financial statements for the past 5 years. 
 
@@ -75,7 +75,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - Provide a final summary of the research, including key findings, potential red flags, and an  overall assessment of Cthe company's investment potential. 
 

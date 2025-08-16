@@ -22,7 +22,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Generate 5 movie/TV show recommendations that match the mood: {{mood}}
 
@@ -38,12 +38,12 @@
     For each recommendation, provide:
 
 ## 🏁 Output
-<OUTPUT> 
+ 
 
     Title (Type, Year): [Brief explanation of mood alignment - focus on specific elements like cinematography, pacing, or themes that enhance the mood]  
 
 
-## 🕒 Instructions
+## Instructions
 
     **PRIORITIZE**  
     1. Emotional resonance over genre matching  
@@ -55,11 +55,10 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     If the mood is ambiguous (e.g., "purple" or "Tuesday afternoon"), interpret creatively and explain your interpretation briefly before recommendations.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

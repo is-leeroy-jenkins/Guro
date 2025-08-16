@@ -13,7 +13,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Analyze the following YouTube video transcript: [insert transcript]
 

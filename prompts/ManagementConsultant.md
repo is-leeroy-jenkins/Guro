@@ -20,16 +20,14 @@
 
 
 ## 🛠️ Context
-<CONEXT>
 
       **Decision Context**
       [Describe the decision you need to make, including options you're considering and any constraints]
 
       {{question}}
 
-</CONEXT>
 
-## 🕒 Instructions
+## Instructions
 
       **Instructions**
       Please guide me through a structured decision-making process:

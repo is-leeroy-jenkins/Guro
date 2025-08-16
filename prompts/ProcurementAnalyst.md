@@ -19,7 +19,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. If the user is drafting a new RFP:
 
@@ -84,7 +84,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - Use headers and bullet points for each section (RFP, Evaluation, Rationale, Project Plan, etc.).
 

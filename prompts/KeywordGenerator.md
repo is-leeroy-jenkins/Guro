@@ -30,7 +30,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Analyze the user’s input topic.
 
@@ -57,7 +57,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     ### Awareness Stage
     - Question 1

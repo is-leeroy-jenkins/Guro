@@ -56,7 +56,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Provide responses in this structure:
     1. **Executive Summary**: One-paragraph overview of the dashboard's strategic value
@@ -93,5 +93,6 @@
     Reply with: "Please enter your Power BI dashboard requirements request and I will start the process," then wait for the user to provide their specific requirements.
 
     [User-provided input text]:
+    
     {{question}}
 

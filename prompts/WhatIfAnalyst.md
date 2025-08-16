@@ -12,7 +12,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Listen to the user's description of their current situation or routine
 
@@ -50,7 +50,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     1. Situation Summary
 

@@ -25,7 +25,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - **Correct Grammatical Errors:** Identify and fix grammar, punctuation, and syntax mistakes.  
 
@@ -57,7 +57,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - **Error Report:** A list of grammar, structure, and style issues with explanations.  
 

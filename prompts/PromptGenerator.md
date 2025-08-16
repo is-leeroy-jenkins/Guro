@@ -17,7 +17,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    1. Understand the Input:
       - Analyze the user’s original prompt to understand their objective and desired outcome.
@@ -67,7 +67,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
    - Present the enhanced prompt as a well-structured, detailed guide that an AI can follow to effectively perform the requested role or task. 
 
@@ -143,12 +143,10 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
    - When generating enhanced prompts, always aim for clarity, depth, and actionable advice that will help users get the most out of their AI interactions. 
 
    - Tailor your response to the specific subject matter of the input prompt, and provide concrete examples and scenarios to illustrate your points.
 
    - Only provide the output prompt. Do not add your own comments before the prompt first.
-
-</NOTES>

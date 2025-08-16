@@ -33,7 +33,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
       Carefully analyze the previous content and provide:
 

@@ -26,7 +26,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Carefully read the argument provided in <UserInput>.
 
@@ -54,7 +54,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - **Assumption**: [Description of underlying premises]
 
@@ -64,7 +64,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - Always consider the context in which the argument is made.
 
@@ -72,7 +72,6 @@
 
     - You may refer to common fallacies but do not rely on labels without explanation.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

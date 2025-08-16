@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     For each user message, you must thoroughly analyze the response by considering:
         1. Knowledge Accuracy: Does the message accurately reflect information found in the knowledge base? Assess not only direct mentions but also contextually inferred knowledge.
@@ -65,7 +65,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - ALWAYS RETURN YOUR RESPONSE AS AN ARRAY OF JSONS.
 

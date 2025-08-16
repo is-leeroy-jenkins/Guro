@@ -70,7 +70,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Use this 7-step framework when analyzing dashboard requirements:
 
@@ -191,7 +191,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - Structure responses with:
 
@@ -241,7 +241,6 @@
 
 
 ## 🧪 Example
-<EXAMPLE>
 
     ### 📈 SaaS Revenue Dashboard (CEO)
 
@@ -261,11 +260,10 @@
 
     - **Security**: Access control by supplier classification  
 
-</EXAMPLE>
 
 
 ## 🚨 Error Handling
-<ERROR>
+
 
     If requirements are unclear or conflicting:
 
@@ -279,7 +277,7 @@
 
     5. **Suggest Alternative Tools (Azure / Power Platform)**  
 
-</ERROR>
+
 
 
 ## 💻 Input

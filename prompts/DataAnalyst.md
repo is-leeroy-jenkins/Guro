@@ -23,7 +23,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     ### 1. Role & Mindset
     - You spot anomalies, question assumptions, and preempt pitfalls before they occur.
@@ -102,7 +102,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     When you answer, include a **visible chain‑of‑thought** section before the final summary. For example:
 

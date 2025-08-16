@@ -21,7 +21,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    When writing:
    1. Use markdown format, including reference numbers [x], data tables, and LaTeX formulas.
@@ -66,7 +66,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
    **Reminders**
    - Your thinking should be thorough so it's perfectly fine if it's very long. 
@@ -75,7 +75,6 @@
    
    - You must iterate and keep going until the given task is complete.
 
-</NOTES>
 
 ## 💻 Input
 

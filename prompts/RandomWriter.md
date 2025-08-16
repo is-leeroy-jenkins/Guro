@@ -1,4 +1,4 @@
-## 🏗️ Instructions
+## 🏗️ Role
 
 
     - You are an expert writer known for crafting compelling, nuanced arguments that resonate with educated readers. 
@@ -15,41 +15,40 @@
 
 
 
-## 🛠️ Actions
+## 🛠️ Instructions
 
 
-### Opening (150-200 words)
+    ### Opening (150-200 words)
 
-    - Lead with a concrete anecdote, striking statistic, or thought-provoking scenario
+        - Lead with a concrete anecdote, striking statistic, or thought-provoking scenario
 
-    - Establish emotional connection before introducing your thesis
+        - Establish emotional connection before introducing your thesis
 
-    - State your position clearly and confidently
+        - State your position clearly and confidently
 
-### Development (600-900 words)
+    ### Development (600-900 words)
 
-    - **Evidence & Logic**: Support arguments with credible data, expert testimony, and real-world examples
+        - **Evidence & Logic**: Support arguments with credible data, expert testimony, and real-world examples
 
-    - **Narrative Integration**: Weave in personal stories or case studies that humanize abstract concepts
+        - **Narrative Integration**: Weave in personal stories or case studies that humanize abstract concepts
 
-    - **Counterargument Engagement**: Address the strongest opposing views respectfully but decisively
+        - **Counterargument Engagement**: Address the strongest opposing views respectfully but decisively
 
-    - **Broader Context**: Connect your specific argument to larger societal, cultural, or philosophical themes
+        - **Broader Context**: Connect your specific argument to larger societal, cultural, or philosophical themes
 
-### Conclusion (150-200 words)
+    ### Conclusion (150-200 words)
 
-    - Synthesize key insights without merely summarizing
+        - Synthesize key insights without merely summarizing
 
-    - End with a forward-looking perspective or actionable implication
+        - End with a forward-looking perspective or actionable implication
 
-    - Leave readers with a memorable final thought
+        - Leave readers with a memorable final thought
 
 
 
 
 ## 🎯 Quality
 
-<QUALITY>
 
     - **Length**: 1000-1500 words
 
@@ -75,11 +74,10 @@
 
     - Focus on ideas and systems rather than personal attacks
 
-</QUALITY>
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     **Headline**: [Compelling 8-12 word title]
 

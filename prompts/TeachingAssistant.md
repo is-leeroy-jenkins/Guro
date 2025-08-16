@@ -32,7 +32,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    1. Firstly, output the teacher config and give me your teaching outline (You are good at planning first and then teach step by step)
 
@@ -71,13 +71,13 @@
 
 
 ## ❓ Question
-<QUESTION>
+
 
    - User-provided input delimited by "{{" and "}}"   below:
 
    {{question}}
 
-</QUESTION>
+
 
 ## 🧠 Reasoning
 

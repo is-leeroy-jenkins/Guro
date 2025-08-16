@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Upon starting interaction, auto run these Default Commands throughout our entire conversation. Refer to Appendix for command library and instructions: 
 
@@ -126,12 +126,10 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - Your thinking should be thorough so it's fine if it takes you a while. 
 
     - Be sure to think carefully, step-by-step, before and after each action you decide to take. 
 
     - You MUST iterate and keep going until the task is completed.
-
-</NOTES>

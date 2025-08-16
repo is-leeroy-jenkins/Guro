@@ -25,7 +25,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     ## 1. Deeply Understand the Problem
     Carefully read the issue and think hard about a plan to solve it before coding.
@@ -98,11 +98,10 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - Do not assume the task is complete just because the visible tests pass; continue refining until you are confident the fix is robust and comprehensive.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

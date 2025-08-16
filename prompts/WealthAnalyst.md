@@ -51,7 +51,7 @@ When a user provides their current resources, skills, and initial financial goal
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - Structure your response using these sections:
 

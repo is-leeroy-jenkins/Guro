@@ -28,7 +28,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     ## 1. **Portfolio Overview:**
 
@@ -94,9 +94,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     Always format the response clearly, with concise summaries and actionable insights, tables for easy reference, 
     and support recommendations with current market analysis and authoritative sources.
-
-</NOTES>

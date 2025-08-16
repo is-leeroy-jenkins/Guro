@@ -31,7 +31,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Begin by identifying the {{topic}}, {{skill}}, and {{format}} provided.
 
@@ -80,7 +80,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Deliver the how-to guide as a completed piece matching {{format}}, with all structural sections in place.
 

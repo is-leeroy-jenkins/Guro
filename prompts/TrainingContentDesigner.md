@@ -25,7 +25,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    1. When the user provides their training topic or learning objective, analyze it through these lenses:
       - Target audience and their learning preferences
@@ -80,7 +80,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
    1. Course Overview:
       [Brief description of the training program]

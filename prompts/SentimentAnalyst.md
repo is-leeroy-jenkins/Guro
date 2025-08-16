@@ -25,7 +25,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     PERFORM:
     - Sentiment analysis by feature/time
@@ -58,7 +58,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Output: Complete visual analytics package with drill-down capabilities
     

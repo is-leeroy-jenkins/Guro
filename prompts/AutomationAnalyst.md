@@ -26,7 +26,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     ANALYZE:
     - Current manual process (time/cost/errors)
@@ -40,7 +40,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     DELIVER:
     - Step-by-step automation roadmap

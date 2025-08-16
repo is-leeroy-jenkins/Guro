@@ -37,7 +37,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    1. Analyze the original content and identify any weak areas in structure, language, or formatting.
 
@@ -73,14 +73,14 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
 <Revised Output>
    [Improved version of the input]
 
    - List key edits, grouped by category (grammar, style, tone, etc.)
 
-<OUTPUT>
+
 
 ## 🧠 Reasoning
 

@@ -17,7 +17,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Convert the following process description into a step-by-step checklist:
 
@@ -26,12 +26,13 @@
 ## 💻 Input
 
     [User-provided text input]:
+    
     {{question}}
 
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     The checklist should list actionable steps in sequential order.
 

@@ -23,7 +23,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Begin with a compelling and relatable introduction that hooks the reader and clearly explains the benefit of learning this topic.
 
@@ -51,7 +51,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Return the full blog post in markdown. Include:
     1. A catchy title
@@ -83,6 +83,7 @@
 ## 💻 Input
 
     Reply with: "Please enter your instructional blog post topic and target audience, and I will start the process," then wait for the user to provide their specific instructional blog post request.
+    
     {{question}}
 
 

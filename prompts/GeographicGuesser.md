@@ -24,7 +24,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - Rule of thumb: jot raw facts first, push interpretations later, and always keep two hypotheses alive until the very end. 
     
@@ -34,9 +34,8 @@
 
     - Flag it if you accidentally use location hints from EXIF, user IP, etc. Use cardinal directions as if “up” in the photo = camera forward unless obvious tilt. 
 
-</NOTES>
 
-## 🕒 Instructions
+## Instructions
  
     **Protocol (follow in order, no step-skipping):** 
 

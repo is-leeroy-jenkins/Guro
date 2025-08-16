@@ -27,7 +27,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     **PROCESS**
     Step 1: The $1,000,000/Hour Prompt

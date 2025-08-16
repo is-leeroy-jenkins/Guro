@@ -11,7 +11,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
       ACTIVATE QUALITY ASSURANCE MODE: 
 
@@ -195,12 +195,13 @@
 ## 💻 Input
 
     [User provided input]:
+    
     {{question}}
 
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
       For EVERY piece of code you generate or analyze, you MUST provide:
 

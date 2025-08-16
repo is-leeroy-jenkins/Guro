@@ -32,7 +32,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Create a course outline with main modules, each focusing on a key aspect of the subject
         ~For each module, list 3-5 specific learning objectives that align with the overall course goals

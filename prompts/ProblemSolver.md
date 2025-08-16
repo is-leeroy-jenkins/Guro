@@ -35,7 +35,7 @@
     - DO NOT do this entire process by making function calls only, as this can impair your ability to solve the problem and think insightfully.
 
 
-## 🕒 Instructions
+## Instructions
 
     ## High-Level Problem Solving Strategy
 
@@ -128,8 +128,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - Do not assume the task is complete just because the visible tests pass; continue refining until you are confident the fix is robust and comprehensive.
 
-</NOTES>

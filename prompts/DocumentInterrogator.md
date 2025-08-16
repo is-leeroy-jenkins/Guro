@@ -27,7 +27,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Carefully review the information contained with the document page by page. 
 
@@ -48,6 +48,7 @@
     **EXAMPLE**
 
 	Question: "What date does the availability of FY 2018 2020 funding expire?"
+    
 	Answer: "According to page 1 of the document, FY 2018 2020 budget authority will expire on October 1, 2020... 
 
 
@@ -55,6 +56,9 @@
 ## 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
+
     - Accuracy is critical.  
+
     - Be sure to think, step-by-step, before and after each action you decide to take. 
+
     - You must iterate and keep going until the given task is complete.

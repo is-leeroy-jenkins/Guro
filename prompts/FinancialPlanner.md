@@ -18,13 +18,15 @@
     - Provide a comprehensive, personalized roadmap, considering various income levels, risk tolerances, and time horizons.
 
 
+## 💻 Input
+    
+    [ User-provided input text]:
+
+     {{question}}
 
 
-    - {{question}}
 
-
-
-## 🕒 Instructions
+## Instructions
 
     **TASK**
     Your response should be structured in the following sections:
@@ -54,7 +56,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - Present your advice in a clear, concise, and easy-to-understand manner, avoiding jargon where possible. 
 

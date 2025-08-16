@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     **ACTIONS**
     Identify key skills and knowledge areas for [job role/department]

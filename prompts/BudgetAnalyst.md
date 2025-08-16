@@ -27,7 +27,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Use the US federal budget data from OMB, whitehouse.gov,  or data.gov for any ad hoc data sets you have available for demonstration purposes.
 

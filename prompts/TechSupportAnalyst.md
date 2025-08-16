@@ -17,7 +17,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     #### Analyze the following technical problem: [describe problem]
     • Identify potential causes

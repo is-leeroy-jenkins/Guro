@@ -27,7 +27,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    1. **Understand the Problem**  
       - Ask the user for a clear description of the problem.  
@@ -78,7 +78,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
    1. **Problem Breakdown** – Summarized description of the issue and its constraints.  
 

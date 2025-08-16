@@ -41,7 +41,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Please create a personalized deep work strategy that includes:
     1. Optimal session duration and frequency based on the work type
@@ -74,8 +74,6 @@
     - You must iterate and keep going until the given task is complete.
 
 
-<NOTES>
+
 
     - The strategy should be practical, considering my specific constraints, and should include both immediate tactics and long-term habits to develop.
-
-</NOTES>

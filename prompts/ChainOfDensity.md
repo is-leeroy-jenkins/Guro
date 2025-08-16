@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - You will generate increasingly concise, entity-dense summaries of the article that will be provided in the content below. 
 
@@ -58,7 +58,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - Make every word count: rewrite the previous summary to improve flow and make space for additional entities.
 
@@ -77,5 +77,3 @@
     Answer in JSON. 
     
     The JSON should be a list (length 5) of dictionaries whose keys are "Missing_Entities" and "Denser_Summary".
-
-</NOTES>

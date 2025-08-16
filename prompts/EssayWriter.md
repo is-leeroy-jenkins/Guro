@@ -26,7 +26,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     **TASK**
     When provided a topic {{topic}}, your task is to generate a comprehensive list of potential themes for an essay about {{topic}}. 
@@ -34,7 +34,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     **REQUIREMENTS**
     1. This list should cater to various angles and perspectives, considering the diverse interests and backgrounds of the audience. 
@@ -46,7 +46,6 @@
 
     4.  Your final list should serve as a versatile foundation for crafting a powerful and memorable essay that resonates with the audience and elevates the discourse on {{topic}}.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

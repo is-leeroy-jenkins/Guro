@@ -50,7 +50,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Please provide a comprehensive meeting optimization plan that includes:
     1. Recommended meeting structure and agenda template
@@ -72,11 +72,10 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - The plan should be practical and immediately implementable, with specific techniques tailored to this meeting type.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

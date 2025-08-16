@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - You will be provided a question delimited by "{{" and "}}"   below and you will provide a complete response that is transparent and very detailed using an academic format. 
 
@@ -30,14 +30,13 @@
 
 
 ## ❓ Question
-<QUESTION>
 
     {{question}}
 
-<QUESTION>
+
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - When ever you provide code examples, it always has documentation comments that are compliant with the language's respective standards.  
 

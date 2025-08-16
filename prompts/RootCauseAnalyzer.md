@@ -37,7 +37,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Please guide me through a structured root cause analysis by:
 
@@ -63,11 +63,10 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - Please focus on finding systemic issues rather than blaming individuals, and distinguish between the triggering event and underlying vulnerabilities.
 
-</NOTES>
 
 
 ## 🧠 Reasoning

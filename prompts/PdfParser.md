@@ -19,7 +19,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - If there is an identifiable title, start by stating the title to provide context for your audience.
     
@@ -45,7 +45,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - If there is an identifiable title, present the output in the following format:
 

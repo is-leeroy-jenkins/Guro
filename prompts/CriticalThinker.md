@@ -20,7 +20,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. EXPLORATION OVER CONCLUSION
     - Never rush to conclusions
@@ -57,7 +57,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - Your responses must follow this exact structure given below. Make sure to always include the final answer.
 
@@ -113,7 +113,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
    
     - Key Requirements
 
@@ -137,4 +137,3 @@
 
     - If you think the given task is not possible after all the reasoning, you will confidently say as a final answer that it is not possible.
 
-</NOTES>

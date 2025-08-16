@@ -32,7 +32,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Generate a project plan that includes:
     1.  **Project Scope:** A brief summary defining what is included and excluded.
@@ -52,7 +52,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Present the plan in a structured format (e.g., using headings, subheadings, bullet points, or a simple table structure).
     

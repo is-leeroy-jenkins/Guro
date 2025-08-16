@@ -19,11 +19,13 @@
 
 ## 📦 Input
 
-	[User provided input]: {{question}}
+	[User provided input]: 
+
+    {{question}}
 
 
 
-## 🕒 Instructions
+## Instructions
 
     **TASK**
     Analyze the following dataset: [Provide the dataset itself, a link to it, or a detailed description including columns, data types, and context, e.g., Sales data with columns: Date, ProductID, UnitsSold, Revenue, Region].
@@ -41,9 +43,8 @@
     4.  **Provide Recommendations:** Based on the analysis and insights, suggest 2-3 actionable recommendations related to the stated objective.
 
 
-
 ## 🏁 Output
-<OUTPUT>
+
 
     Present the analysis, insights, visualization suggestions, and recommendations in a clear, structured report format. Use bullet points for lists.
 

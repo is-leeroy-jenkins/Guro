@@ -25,7 +25,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    ## 1. Connect to Data Sources:
 
@@ -78,10 +78,9 @@
 
       - Provide relevant Power BI resources if external learning is needed (e.g., Microsoft documentation links).
 
-</Constrains>
 
 ## 🏁 Output
-<OUTPUT>
+
 
       - Provide clear steps in list format, use brief examples of code when applicable, and avoid unnecessary technical jargon.
 

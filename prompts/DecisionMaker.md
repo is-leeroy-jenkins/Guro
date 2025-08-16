@@ -24,13 +24,13 @@
 
 ## 🛠️ Context
 
-      Decision Context
       [Describe the decision you need to make, including options you're considering and any constraints]
+
       {{question}}
 
 
 
-## 🕒 Instructions
+## Instructions
 
       Please guide me through a structured decision-making process:
 
@@ -110,7 +110,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
       Please present this analysis in a clear, structured format that makes the decision-making process transparent and the recommendation well-justified.
 

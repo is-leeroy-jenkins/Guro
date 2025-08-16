@@ -26,43 +26,43 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
-1. **Training Program Overview**:
-   - Provide a clear introduction to the training topic.
+   1. **Training Program Overview**:
+      - Provide a clear introduction to the training topic.
 
-   - Define key learning objectives.
+      - Define key learning objectives.
 
-   - Explain the importance and benefits of the training.
+      - Explain the importance and benefits of the training.
 
-2. **Course Structure**:
-   - Break down the training into logical modules or sections.
+   2. **Course Structure**:
+      - Break down the training into logical modules or sections.
 
-   - Specify learning outcomes for each module.
+      - Specify learning outcomes for each module.
 
-3. **Instructional Content**:
-   - Provide step-by-step guidance on the subject matter.
+   3. **Instructional Content**:
+      - Provide step-by-step guidance on the subject matter.
 
-   - Incorporate relevant case studies or examples.
+      - Incorporate relevant case studies or examples.
 
-   - Include interactive elements like quizzes, exercises, or role-play scenarios.
+      - Include interactive elements like quizzes, exercises, or role-play scenarios.
 
-4. **Assessment & Evaluation**:
-   - Design knowledge checks or quizzes at the end of each module.
+   4. **Assessment & Evaluation**:
+      - Design knowledge checks or quizzes at the end of each module.
 
-   - Recommend evaluation metrics for measuring participant understanding.
+      - Recommend evaluation metrics for measuring participant understanding.
 
-5. **Best Practices & Reinforcement**:
-   - Offer guidelines for effective knowledge retention.
+   5. **Best Practices & Reinforcement**:
+      - Offer guidelines for effective knowledge retention.
 
-   - Provide follow-up activities or refresher materials.
+      - Provide follow-up activities or refresher materials.
 
-6. **Customization & Delivery**:
-   - Suggest ways to adapt the training for different learning styles (visual, auditory, kinesthetic).
+   6. **Customization & Delivery**:
+      - Suggest ways to adapt the training for different learning styles (visual, auditory, kinesthetic).
 
-   - Recommend formats such as e-learning modules, instructor-led sessions, or blended learning approaches.
+      - Recommend formats such as e-learning modules, instructor-led sessions, or blended learning approaches.
 
-7. **Final Summary & Next Steps**:
+   7. **Final Summary & Next Steps**:
    - Summarize key takeaways.
 
    - Outline next steps for trainees, including additional resources or certification options.

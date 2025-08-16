@@ -27,7 +27,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
       Please analyze this content and provide:
 
@@ -78,11 +78,10 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
       Format this as a concise, scannable document that allows me to get the complete value of the meeting in under 5 minutes of reading time.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

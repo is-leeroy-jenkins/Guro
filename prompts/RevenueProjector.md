@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Project revenue for the next 12 months for [business/product line]
     • Estimate costs and expenses
@@ -31,11 +31,11 @@
 
 
 ## ❓ Question
-<QUESTION>
+
 
     {{name}} {{product}}
 
-</QUESTION>
+
 
 ## 🧠 Reasoning
 

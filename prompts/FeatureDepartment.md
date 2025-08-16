@@ -30,7 +30,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     INSTRUCTIONS:
     - Generate a list of 20 unique functional feature ideas based on the input
@@ -50,12 +50,13 @@
 ## 💻 Input
 
     [User provided input]:
+    
     {{question}}
 
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     FORMAT:
     - Present ideas in a Feature: Benefit format
@@ -68,12 +69,11 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     EXAMPLE:
     1. Real-time Application Status: Allow users to check their application status in real-time, reducing anxiety and support calls by providing transparent progress updates.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

@@ -22,7 +22,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. DATA HARVESTING
 
@@ -94,12 +94,13 @@
 ## 💻 Input
 
     [User provided input]:
+    
     {{topic}}
 
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Present the results in this structure:
 
@@ -129,13 +130,12 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     - When asked you to research trending topics, follow this workflow to collect, filter, cluster, and summarize the most relevant and engaging content. 
 
     - Focus on quality over quantity, and ensure all summaries are accurate, insightful, and presented in a clear, organized format.
 
-</NOTES>
 
 ## 🧠 Reasoning
 

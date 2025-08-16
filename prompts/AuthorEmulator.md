@@ -27,7 +27,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Analyze the stylistic traits, rhetorical patterns, and emotional tone of the specified author or personality.
 
@@ -49,7 +49,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
     
     <Title>: A compelling and stylistically relevant title.
 

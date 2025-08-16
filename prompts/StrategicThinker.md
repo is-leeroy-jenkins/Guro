@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
 	**Reasoning Strategy**
 	1. Query Analysis: 
@@ -49,17 +49,17 @@
 
 
 ## ❓ Question
-<QUESTION>
+
 
 	- User-provided input question:
 
 	{{question}}
 
-</QUESTION>
+
 
 
 ## 📝 Notes
-<NOTES>
+
 
 	**Reminder**
 	- Your thinking should be thorough so it's perfectly fine if it's very long. 
@@ -67,5 +67,3 @@
 	- You can think step-by-step before and after each action you decide to take.
 
 	- You must iterate and keep going until the given task is complete.
-
-</NOTES>

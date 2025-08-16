@@ -21,7 +21,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Guide the user through building a comprehensive P&L statement for their startup by:
 
@@ -101,7 +101,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     1. Initial Assessment: Summary of the business model and projection scope
 

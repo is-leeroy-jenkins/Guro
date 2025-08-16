@@ -15,7 +15,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Based on the following project description, suggest 1-2 suitable high-level software architecture styles (e.g., Microservices, Monolithic, Serverless, Event-Driven). 
 

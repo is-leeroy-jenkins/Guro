@@ -23,9 +23,9 @@
 
     - [User-provided description of the product or service] : {{product}}
 
-</CINPUT>
 
-## 🕒 Instructions
+
+## Instructions
 
     - Based on the Diffusion of innovations theory, I want you to help me build a marketing plan for each step for marketing the product
     - Start by generating the Table of contents for my marketing plan with only the following sections.
@@ -33,7 +33,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Here are what the only 5 sections of the outline should look like,
     Innovators

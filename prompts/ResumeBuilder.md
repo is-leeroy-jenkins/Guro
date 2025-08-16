@@ -19,7 +19,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. Review the current RESUME=[]
 

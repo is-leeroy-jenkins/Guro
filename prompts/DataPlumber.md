@@ -19,7 +19,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Design a data pipeline for processing to enable real-time analytics.
 
@@ -53,12 +53,14 @@
 
 ## 📦 Input
 
-	[User provided input]: {{question}}
+	[User provided input]: 
+    
+    {{question}}
 
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     - Provide a detailed design document for the real-time data pipeline. 
 

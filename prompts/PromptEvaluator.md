@@ -17,7 +17,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    #### Evaluation Instructions
 
@@ -195,7 +195,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
    #### Additional Notes
 
@@ -215,7 +215,6 @@
 
    *Tip: Aim for clarity, precision, and steady improvement with every evaluation.*
 
-</NOTES>
 
 ## 🧠 Reasoning
 
@@ -230,12 +229,12 @@
 
 
 ## ❓ Question
-<QUESTION>
+
 
    - Paste the prompt you want evaluated, ensuring it is complete and ready for review.
 
    {{question}}
 
-</QUESTION>
+
 
 

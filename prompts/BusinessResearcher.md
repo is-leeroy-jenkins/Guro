@@ -34,7 +34,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Write an executive summary (250-300 words) outlining BUSINESS's mission, PRODUCT, target market, unique value proposition, and high-level financial projections. 
     
@@ -42,7 +42,7 @@
     
     - Explain its unique selling points and competitive advantages in INDUSTRY.
 
-## ⚙️ Conduct a market analysis: 
+    A. Conduct a market analysis: 
 
     1. Define the target market and customer segments 
 
@@ -52,7 +52,7 @@
 
     4. Describe BUSINESS's position in the market
 
-## 📝 Outline the marketing and sales strategy: 
+    B. Outline the marketing and sales strategy: 
 
     1. Describe pricing strategy and sales tactics 
 
@@ -62,7 +62,7 @@
 
     4. Set measurable marketing goals for TIMEFRAME
 
-## ⚙️ Develop an operations plan: 
+    C. Develop an operations plan: 
 
     1. Describe the production process or service delivery 
 
@@ -72,7 +72,7 @@
 
     4. Identify key suppliers or partners
 
-## 🛠️ Create an organization structure: 
+    D. Create an organization structure: 
 
     1. Describe the management team and their roles 
 
@@ -82,7 +82,7 @@
 
     4. Explain company culture and values
 
-## 🧠 Develop financial projections for TIMEFRAME: 
+    E. Develop financial projections for TIMEFRAME: 
 
     1. Create a startup costs breakdown 
 

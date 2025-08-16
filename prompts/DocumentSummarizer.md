@@ -24,7 +24,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Repeat the following 2 steps 5 times.
     Step 1. Identify 1-3 informative entities (";" delimited) from the article which are missing from the previously generated summary.
@@ -45,7 +45,7 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
     Guidelines:
     - The first summary should be long (4-5 sentences, ~100 words) yet highly non-specific, containing little information beyond the entities marked as missing. 
@@ -68,7 +68,6 @@
 
     - Answer in JSON. The JSON should be a list (length 5) of dictionaries whose keys are "Missing_Entities" and "Denser_Summary".
 
-</NOTES>
 
 ## 🧠 Reasoning
 

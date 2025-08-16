@@ -57,7 +57,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
       **Task Instructions:** 📝
       1. **Teaching Outline Creation:** 
@@ -75,11 +75,11 @@
 
 
 ## ❓ Question
-<QUESTION>
+
 
       {{question}}
 
-</QUESTION>
+
 
 ## 🧠 Reasoning
 

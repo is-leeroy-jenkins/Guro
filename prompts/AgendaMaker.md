@@ -13,7 +13,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     - Use the following structure (or a similar logical flow):
 

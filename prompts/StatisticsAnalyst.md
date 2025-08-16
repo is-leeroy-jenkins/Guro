@@ -32,7 +32,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     1. First, request specific details about the user's statistical analysis needs, including:
     - Research question or business problem they're addressing
@@ -91,7 +91,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     Respond with:
 

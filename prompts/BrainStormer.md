@@ -19,6 +19,7 @@
 
 
 
+## 🛠️ Context
 
 
     **THE TOPIC/PROBLEM**
@@ -31,7 +32,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     **THE PROCESS**
 
@@ -76,7 +77,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
     **FINAL SYNTHESIS**
 

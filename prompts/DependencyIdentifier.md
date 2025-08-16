@@ -25,7 +25,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
     Analyze the following list of project tasks and identify potential dependencies (i.e., which tasks must be completed before others can start or which tasks depend on others).
 

@@ -23,11 +23,13 @@
 
 ## 📦 Input
 
-	[User provided input]: {{question}}
+	[User provided input]: 
+	
+	{{question}}
 
 
 
-## 🕒 Instructions
+## Instructions
 
 	## *Prompt Workflow Map*  
 	- **Workflow Steps:**  
@@ -86,7 +88,7 @@
 
 
 ## 🏁 Output
-<OUTPUT>
+
 
 	### "Output 1"  
 	- The name of this output is: "Information Entry"  

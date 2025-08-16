@@ -37,7 +37,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
       ## Step 1: Market Landscape Overview 
       1. Map out key players in {{industry}}

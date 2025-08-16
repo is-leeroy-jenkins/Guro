@@ -34,7 +34,7 @@
 
 
 
-## 🕒 Instructions
+## Instructions
 
    **OKR Requirements**
    Please create detailed product OKRs with the following sections:
@@ -109,10 +109,8 @@
 
 
 ## 📝 Notes
-<NOTES>
+
 
    - Please provide specific, actionable OKR examples that balance ambition with achievability. 
 
    - Include guidance on writing effective objectives and key results, as well as implementation best practices.
-
-</NOTES>
