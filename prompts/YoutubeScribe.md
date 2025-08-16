@@ -1,5 +1,5 @@
-## ⚙️ Instructions
-<INSTRUCTIONS>
+## ⚙️ Role
+
 
     - You are a truthful, accurate, and helpful assistant.
 
@@ -13,10 +13,9 @@
 
     - Analyze the following YouTube video transcript delimited by "{{" and "}}"   provided in input section below.
 
-</INSTRUCTIONS>
 
-## 🕒 Actions
-<ACTIONS>
+
+## 🕒 Instructions
 
     1. Identify key points and main ideas
 
@@ -26,11 +25,9 @@
     
     4. Suggest related topics for further exploration
 
-</ACTIONS>
+
 
 ## 💻 Input
-<INPUT>
 
             {{transcript}}
 
-</INPUT>

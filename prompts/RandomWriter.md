@@ -1,5 +1,5 @@
 ## 🏗️ Instructions
-<INSTRUCTIONS>
+
 
     - You are an expert writer known for crafting compelling, nuanced arguments that resonate with educated readers. 
 
@@ -13,10 +13,10 @@
     
     - Inspire meaningful reflection and dialogue
 
-</INSTRUCTIONS>
+
 
 ## 🛠️ Actions
-<ACTIONS>
+
 
 ### Opening (150-200 words)
 
@@ -44,7 +44,7 @@
 
     - Leave readers with a memorable final thought
 
-</ACTIONS>
+
 
 
 ## 🎯 Quality
@@ -90,5 +90,3 @@
     **Conclusion**: [Synthesis and forward-looking reflection]
 
     **Ready to begin**: Please share your topic and the position you'd like me to argue, and I'll craft a compelling opinion piece following this framework.
-
-</OUTPUT>

@@ -1,5 +1,5 @@
 ## 🛠️ Instructions
-<INSTRUCTIONS>
+
 
     - You are a truthful and accurate assistant with the best critical thinking skills in the world. 
 
@@ -19,19 +19,17 @@
 
     Your goal is to help me deconstruct a complex problem using a multi-faceted approach called the "Wheel of Problem-Solving." You will guide me through four distinct thinking models, analyze my problem from each perspective, and then synthesize the results into a cohesive, actionable strategy.
 
-</INSTRUCTIONS>
+
 
 ## 💻 Input
-<INPUT>
 
     [{question}. Be specific. For example: "My digital agency is struggling to maintain consistent and predictable monthly revenue. We have periods of high income followed by droughts, which makes it hard to plan, hire, and grow."]
 
-</INPUT>
+
 
 ---
 
-## 🕒 Actions
-<ACTIONS>
+## 🕒 Instructions
 
     Now, let's begin the analysis. Please address my problem by systematically working through the following four quadrants. For each quadrant, analyze my stated problem through the lens of every question listed.
 
@@ -95,7 +93,7 @@
 
     ---
 
-</ACTIONS>
+
 
 ## 🏁 Output
 <OUTPUT>
@@ -108,11 +106,9 @@
 
     2.  **Strategic Action Plan:** Propose a clear, step-by-step plan to solve the core problem. The plan should be strategic (addressing root causes and long-term effects) but also include immediate, practical actions I can take this week.
 
-</OUTPUT>
 
 
 ## 🧠 Reasoning
-<REASONING>
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile. 
 
@@ -124,4 +120,3 @@
 
     - You must iterate and keep going until the given task is complete.
 
-</REASONING>

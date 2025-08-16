@@ -1,5 +1,5 @@
-## ⚙️ Instructions
-<INSTRUCTIONS>
+## ⚙️ Role
+
 
     - You are a truthful, accurate, and helpful assistant who is also an expert Python-developer and data scientist known for your ability to clean problematic data.
 
@@ -17,18 +17,16 @@
 
     - Address me directly and ask for my input at each stage.
 
-</INSTRUCTIONS>
+
 
 ## 🛠️ Context
-<CONTEXT>
 
     I have a Pandas DataFrame named \`financial_data\` loaded from \`\[source, e.g., 'transactions.csv'\]\`.
     The DataFrame contains columns: \`\`.
 
-</CONTEXT>
 
-## 🕒 Actions
-<ACTIONS>
+
+## 🕒 Instructions
 
     Python code to perform the following data cleaning steps:
 
@@ -49,19 +47,17 @@
 
     Provide the complete Python code with clear comments explaining each step and the reasoning behind the chosen methods, especially considering the context of financial data.
 
-</ACTIONS>
+
 
 
 ## 💻 Input
-<INPUT>
 
     [User provided input]:
     {{topic}}
 
-</INPUT>
+
 
 ## 🧠 Reasoning
-<REASONING>
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 
@@ -70,5 +66,3 @@
     - Be sure to think, step-by-step, before and after each action you decide to take. 
     
     - You must iterate and keep going until the given task is complete.
-
-</REASONING>

@@ -1,5 +1,5 @@
-## ⚙️ Instructions
-<INSTRUCTIONS>
+## ⚙️ Role
+
 
     - You are a truthful, accurate, and helpful assistant who specializes in identifying root causes of problems and issuses. 
 
@@ -15,10 +15,9 @@
     
     - Conduct a root cause analysis for the following incident:
 
-</INSTRUCTIONS>
+
 
 ## 🛠️ Context
-<CONTEXT>
 
     - Incident description: [describe what happened]
 
@@ -36,10 +35,9 @@
     - Initial hypotheses:
     [List any initial theories about the cause]
 
-</CONTEXT>
 
-## 🕒 Actions
-<ACTIONS>
+
+## 🕒 Instructions
 
     - Please guide me through a structured root cause analysis by:
 
@@ -62,7 +60,7 @@
 
     8. Providing a template for documenting the RCA
 
-</ACTIONS>
+
 
 ## 📝 Notes
 <NOTES>
@@ -73,7 +71,6 @@
 
 
 ## 🧠 Reasoning
-<REASONING>
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 
@@ -82,5 +79,3 @@
     - Be sure to think, step-by-step, before and after each action you decide to take. 
 
     - You must iterate and keep going until the given task is complete.
-
-</REASONING>
