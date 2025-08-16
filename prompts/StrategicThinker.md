@@ -15,7 +15,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
 	**Reasoning Strategy**
 	1. Query Analysis: 

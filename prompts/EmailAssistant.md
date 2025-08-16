@@ -29,7 +29,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
 	## *Prompt Workflow Map*  
 	- **Workflow Steps:**  

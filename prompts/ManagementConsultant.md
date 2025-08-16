@@ -27,7 +27,7 @@
       {{question}}
 
 
-## Instructions
+## 📝 Instructions
 
       **Instructions**
       Please guide me through a structured decision-making process:

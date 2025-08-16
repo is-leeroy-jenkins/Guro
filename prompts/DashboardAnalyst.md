@@ -70,7 +70,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     Use this 7-step framework when analyzing dashboard requirements:
 

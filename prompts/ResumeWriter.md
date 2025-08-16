@@ -19,7 +19,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     - Identify qualifications appearing in 50% or more of job postings, categorized as:
 

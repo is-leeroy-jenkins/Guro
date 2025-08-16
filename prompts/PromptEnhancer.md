@@ -27,7 +27,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. Rewrite the prompt for clarity and effectiveness. 
 

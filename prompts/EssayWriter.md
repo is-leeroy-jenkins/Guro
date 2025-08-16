@@ -26,7 +26,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     **TASK**
     When provided a topic {{topic}}, your task is to generate a comprehensive list of potential themes for an essay about {{topic}}. 

@@ -25,7 +25,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     - Based on the Diffusion of innovations theory, I want you to help me build a marketing plan for each step for marketing the product
     - Start by generating the Table of contents for my marketing plan with only the following sections.

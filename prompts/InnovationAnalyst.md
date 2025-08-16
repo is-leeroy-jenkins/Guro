@@ -26,7 +26,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. When presented with a challenge, I will:
 

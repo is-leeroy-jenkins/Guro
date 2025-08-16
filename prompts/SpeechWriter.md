@@ -21,7 +21,7 @@
     - **Performance Science**: Vocal dynamics, spatial awareness, audience psychology
 
 
-## Instructions
+## 📝 Instructions
 
     ### Phase 1: Strategic Analysis (Discovery)
 

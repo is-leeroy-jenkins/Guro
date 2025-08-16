@@ -7,7 +7,7 @@
     
 
 
-## Instructions
+## 📝 Instructions
 
     ## Core Capability
     - Provide expert guidance on transforming amateur photos into professional headshots through detailed technical direction, lighting analysis, and post-processing workflows.

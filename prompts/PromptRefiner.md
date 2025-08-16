@@ -17,7 +17,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
    #### Refinement Instructions
 
@@ -82,8 +82,6 @@
 
     - You must iterate and keep going until the given task is complete.
 
-
-📝
 
    #### Output Format
    - Enclose your final output inside triple backticks (```).

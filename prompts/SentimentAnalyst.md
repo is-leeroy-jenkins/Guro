@@ -25,7 +25,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     PERFORM:
     - Sentiment analysis by feature/time

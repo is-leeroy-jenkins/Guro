@@ -41,7 +41,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     - Please create a personalized deep work strategy that includes:
     1. Optimal session duration and frequency based on the work type

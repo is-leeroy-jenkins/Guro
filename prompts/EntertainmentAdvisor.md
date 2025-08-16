@@ -22,7 +22,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     Generate 5 movie/TV show recommendations that match the mood: {{mood}}
 
@@ -43,7 +43,7 @@
     Title (Type, Year): [Brief explanation of mood alignment - focus on specific elements like cinematography, pacing, or themes that enhance the mood]  
 
 
-## Instructions
+## 📝 Instructions
 
     **PRIORITIZE**  
     1. Emotional resonance over genre matching  

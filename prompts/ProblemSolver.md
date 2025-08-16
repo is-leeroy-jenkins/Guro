@@ -35,7 +35,7 @@
     - DO NOT do this entire process by making function calls only, as this can impair your ability to solve the problem and think insightfully.
 
 
-## Instructions
+## 📝 Instructions
 
     ## High-Level Problem Solving Strategy
 

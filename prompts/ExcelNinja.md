@@ -23,7 +23,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
     
     1. Identify the type of Excel-related issue (e.g., formulas, macros, pivot tables, error debugging, data analysis, formatting, etc.).
     

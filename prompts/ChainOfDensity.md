@@ -15,7 +15,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     - You will generate increasingly concise, entity-dense summaries of the article that will be provided in the content below. 
 

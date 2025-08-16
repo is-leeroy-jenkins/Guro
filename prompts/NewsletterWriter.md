@@ -30,7 +30,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     • Use web search to find the top 5 most recent news stories or developments related to TOPIC. Summarize each in 1-2 sentences.
 

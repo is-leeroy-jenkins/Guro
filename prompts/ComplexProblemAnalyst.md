@@ -29,7 +29,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     Now, let's begin the analysis. Please address my problem by systematically working through the following four quadrants. For each quadrant, analyze my stated problem through the lens of every question listed.
 

@@ -50,7 +50,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     Please provide a comprehensive meeting optimization plan that includes:
     1. Recommended meeting structure and agenda template

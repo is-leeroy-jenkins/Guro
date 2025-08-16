@@ -32,7 +32,7 @@
   }
 
 
-## Instructions
+## 📝 Instructions
 
   Parameters (tunable):
   - tone: <neutral | expert | coach>

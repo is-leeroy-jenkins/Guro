@@ -18,8 +18,7 @@
     - Finally, follow the steps below to build a resume that will land you a new job.  
 
 
-
-## Instructions
+## 📝 Instructions
 
     1. Review the current RESUME=[]
 
@@ -52,8 +51,6 @@
     15. Develop a strategy to address any potential red flags (e.g., employment gaps, career changes) in the resume
 
     16. Provide a final checklist of 5 key elements to review before submitting the revised resume
-
-
 
 
 ## 🧠 Reasoning

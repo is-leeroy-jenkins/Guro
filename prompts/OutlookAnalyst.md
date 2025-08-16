@@ -16,7 +16,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. Ask the user for a description of their email management goals (e.g., decluttering their inbox, responding faster, or creating rules).
 

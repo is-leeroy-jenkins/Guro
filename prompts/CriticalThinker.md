@@ -20,7 +20,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. EXPLORATION OVER CONCLUSION
     - Never rush to conclusions

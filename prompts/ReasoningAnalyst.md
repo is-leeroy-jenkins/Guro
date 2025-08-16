@@ -26,7 +26,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. Carefully read the argument provided in <UserInput>.
 

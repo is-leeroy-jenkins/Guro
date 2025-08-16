@@ -19,7 +19,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. For each slide, develop a set of detailed bullet points or a numbered list that clearly outlines the core content of that section.
 

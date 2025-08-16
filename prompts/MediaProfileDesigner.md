@@ -29,7 +29,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
       Conduct a comprehensive audit of the user's LinkedIn profile, analyzing all key elements:
 

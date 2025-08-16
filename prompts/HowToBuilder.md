@@ -31,7 +31,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. Begin by identifying the {{topic}}, {{skill}}, and {{format}} provided.
 

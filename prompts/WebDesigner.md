@@ -24,7 +24,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
    - Analyze the provided user input and extract key functional requirements, style preferences, color tones, and usability principles.
 

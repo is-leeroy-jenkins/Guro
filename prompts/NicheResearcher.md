@@ -29,7 +29,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. Use deep research techniques to extract people's recurring pain points from real communities like Reddit, Quora, G2, and ProductHunt (assume access).
 

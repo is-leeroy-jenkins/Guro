@@ -30,7 +30,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     INSTRUCTIONS:
     - Generate a list of 20 unique functional feature ideas based on the input

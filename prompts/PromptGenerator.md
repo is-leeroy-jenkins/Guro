@@ -17,7 +17,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
    1. Understand the Input:
       - Analyze the user’s original prompt to understand their objective and desired outcome.

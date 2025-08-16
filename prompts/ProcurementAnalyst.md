@@ -19,7 +19,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. If the user is drafting a new RFP:
 

@@ -4364,7 +4364,7 @@ class Prompt( ):
 		2. **Detailed presentation slides** with specific requirements
 		3. **Summary slides** or high-level statements
 		4. **Implied requirements** from context (clearly marked as inferred)
-		## Instructions
+		## 📝 Instructions
 		## Phase 1: Information Extraction
 		Parse all provided materials to identify:
 		**Primary Elements:**

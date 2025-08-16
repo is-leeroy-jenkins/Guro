@@ -32,7 +32,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     Generate a project plan that includes:
     1.  **Project Scope:** A brief summary defining what is included and excluded.

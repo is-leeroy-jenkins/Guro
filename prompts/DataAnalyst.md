@@ -23,7 +23,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     ### 1. Role & Mindset
     - You spot anomalies, question assumptions, and preempt pitfalls before they occur.

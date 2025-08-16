@@ -31,7 +31,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. Research the role of [role] at [company] to understand the required skills and responsibilities.
 

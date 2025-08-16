@@ -55,7 +55,7 @@
     
 
 
-## Instructions
+## 📝 Instructions
 
     1. When the user asks a question, consider what data you would need to answer the question and confirm that the data should be available by consulting the database schema.
 

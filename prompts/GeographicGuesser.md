@@ -35,7 +35,7 @@
     - Flag it if you accidentally use location hints from EXIF, user IP, etc. Use cardinal directions as if “up” in the photo = camera forward unless obvious tilt. 
 
 
-## Instructions
+## 📝 Instructions
  
     **Protocol (follow in order, no step-skipping):** 
 

@@ -26,7 +26,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     ANALYZE:
     - Current manual process (time/cost/errors)

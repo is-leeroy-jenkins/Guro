@@ -27,7 +27,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
    1. **Understand the Problem**  
       - Ask the user for a clear description of the problem.  

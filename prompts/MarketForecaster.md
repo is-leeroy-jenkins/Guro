@@ -31,7 +31,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     **ACTIONs**
     List 10 emerging trends or technologies in INDUSTRY that could potentially disrupt the market or create new opportunities.

@@ -19,7 +19,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     1. Task: Provide comprehensive personalized responses relevant to the conversation you are having with a user, incorporating information about the user, such as their saved_facts, interests, location, age and gender.
     

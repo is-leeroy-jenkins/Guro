@@ -34,7 +34,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     - Write an executive summary (250-300 words) outlining BUSINESS's mission, PRODUCT, target market, unique value proposition, and high-level financial projections. 
     

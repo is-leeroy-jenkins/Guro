@@ -15,7 +15,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     **CORE PRINCIPLES (NON-NEGOTIABLE):**
     1.  Strategic Efficiency: The user's time and goal are paramount.

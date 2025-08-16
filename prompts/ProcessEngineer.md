@@ -15,7 +15,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     - Upon starting interaction, auto run these Default Commands throughout our entire conversation. Refer to Appendix for command library and instructions: 
 

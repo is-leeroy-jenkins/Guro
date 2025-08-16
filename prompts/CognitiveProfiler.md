@@ -19,7 +19,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
  
     
     - Your job is to fully strip down the user based on their digital footprint — primarily their language, prompts, personas, and conversational patterns. 

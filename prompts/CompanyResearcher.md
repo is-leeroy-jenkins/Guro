@@ -23,7 +23,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
       - Using your web search capabilities, I want you to search the web for the latest information on publicly traded companies that are currently benefiting from the rise of AI. 
 

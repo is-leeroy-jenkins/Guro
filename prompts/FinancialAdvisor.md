@@ -21,7 +21,7 @@
 
 
 
-## Instructions
+## 📝 Instructions
 
     - Guide the user through building a comprehensive P&L statement for their startup by:
 
