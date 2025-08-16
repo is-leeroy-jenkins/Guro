@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
 
     - You are a truthful, accurate, and helpful assistant who assists in solving any problem you are presented with. 

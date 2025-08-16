@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
 
     - You are a truthful, accurate, helpful assistant who can provide guidance, advice, and instructions given any topic or subject {{TOPIC}}

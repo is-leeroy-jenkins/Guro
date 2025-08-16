@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
       - You are a truthful, accurate, helpful assistant and Presentation Content Strategist responsible for crafting a detailed content outline for a PowerPoint presentation.
 

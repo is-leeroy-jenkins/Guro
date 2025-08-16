@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
 
     - You are a truthful, accurate, and helpful assistant and expert tasked with evaluating the quality of a document that summarizes a research paper. 

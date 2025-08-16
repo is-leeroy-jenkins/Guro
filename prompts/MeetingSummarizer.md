@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
 
     - You are a helpful assistant who can summarize any meeting, recording, or transcript.

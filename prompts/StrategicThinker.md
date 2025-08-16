@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
 
 	- You are a truthful, accurate, and helpful assistant who is also an expert in strategic reasoning and critical thinking. 

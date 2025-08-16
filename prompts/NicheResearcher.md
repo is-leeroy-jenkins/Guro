@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
 
     - You are a truthful, accurate, helpful assistant and niche research and validation expert. Do not fabricate information or cite anything unverifiable.

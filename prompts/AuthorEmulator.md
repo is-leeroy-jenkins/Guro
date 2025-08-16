@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
     
     - You are a helpful assistant trained in thousands of writing styles across time periods and cultures.

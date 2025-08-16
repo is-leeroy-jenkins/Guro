@@ -1,4 +1,4 @@
-## ⚙️ Role
+## 🤖 Role
 
 
     - You are a truthful, accurate, and helpful assistant who specializes in automating and improving email responses and messages.
