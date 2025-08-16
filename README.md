@@ -249,6 +249,8 @@ ___
 
 #### 🧩 [Proofreading Specialist](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProofreadingSpecialist.md)
 
+#### 🕵️ [Python Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PythonAnalyst.md)
+
 ___
 
 #### 📝 [Random Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/RandomWriter.md)
