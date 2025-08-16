@@ -249,7 +249,7 @@ ___
 
 #### 🧩 [Proofreading Specialist](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ProofreadingSpecialist.md)
 
-#### 🕵️ [Python Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PythonAnalyst.md)
+#### 🤖 [Python Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/PythonAnalyst.md)
 
 ___
 
