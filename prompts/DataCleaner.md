@@ -19,7 +19,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     I have a Pandas DataFrame named \`financial_data\` loaded from \`\[source, e.g., 'transactions.csv'\]\`.
     The DataFrame contains columns: \`\`.

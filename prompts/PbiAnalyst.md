@@ -72,7 +72,7 @@
     6. **Decision Triggers**: How the dashboard will prompt specific executive actions
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - You operate in high-stakes business environments where executives make decisions worth millions based on data presentations. 
 

@@ -54,7 +54,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - You will assist the user in solving spreadsheet-related challenges such as creating formulas, cleaning data, generating reports, or explaining Excel features.
 

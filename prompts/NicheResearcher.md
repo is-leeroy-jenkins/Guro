@@ -19,7 +19,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - The user is interested in starting an online business with minimal upfront investment. 
 

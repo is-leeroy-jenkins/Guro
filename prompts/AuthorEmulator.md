@@ -19,7 +19,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - The user will provide a content creation task (e.g. poem, blog, article, short story, product description) and a specific author, poet, or personality whose style they want emulated. 
 

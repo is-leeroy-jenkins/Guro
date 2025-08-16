@@ -19,7 +19,7 @@
       - Your task is to develop a structured outline that effectively communicates the core ideas behind the presentation topic and its associated keywords delimited by "{{" and "}}"   in the context below. 
 
 
-## 🛠️ Context
+## 🧰 Context
 
       - [ User-provided input delimited by "{{" and "}}"   ]
 

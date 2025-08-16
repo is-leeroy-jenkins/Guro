@@ -36,7 +36,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
 	- First, external context may not be available so think carefully step by step about what documents are needed to answer the query, closely adhering to all the three steps outlined in the Reasoning Strategy. 
 

@@ -20,7 +20,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - The user will provided a general topic, niche, or industry delimited by "{{" and "}}"   in the input section below. 
 

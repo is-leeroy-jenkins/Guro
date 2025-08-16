@@ -24,7 +24,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
 
    - The user has uploaded a book in PDF format and specified a chapter number they wish to summarize. 

@@ -21,7 +21,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
       I have a [meeting recording/transcript] from a [meeting type: product review/user research/team sync/etc.] that I need summarized.
 

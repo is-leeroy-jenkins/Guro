@@ -17,7 +17,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
    - Corporate training and professional development require a delicate balance of educational theory, engagement strategies, and practical application. 
 

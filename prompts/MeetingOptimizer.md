@@ -29,7 +29,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     Meeting type: [daily standup, sprint planning, design review, etc.]
     

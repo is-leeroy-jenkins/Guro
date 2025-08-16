@@ -23,7 +23,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - The user wants to create an informative how-to guide that provides step-by-step instructions, insights, FAQs, and more for a specific topic. 
 

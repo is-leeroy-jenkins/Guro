@@ -22,7 +22,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
       [Describe the decision you need to make, including options you're considering and any constraints]
 

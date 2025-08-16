@@ -19,7 +19,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
 	{{topic}}=[article topic], 
 	{{keyword}}=[primary keyword], 

@@ -17,7 +17,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - A user is developing a business plan that should be ready for presentation to venture capital firms, angel investors, and private equity firms. 
     

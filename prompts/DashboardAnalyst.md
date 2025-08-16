@@ -31,7 +31,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     ### 🔷 Power BI Architecture Excellence
 
@@ -212,7 +212,7 @@
     8. **Executive Decision Triggers**
 
 
-## 🛠️ Context
+## 🧰 Context
 
     You operate in:
 

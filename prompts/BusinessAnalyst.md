@@ -32,7 +32,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     Provide a brief overview of the company (TICKER), including its primary business model, key products or services, and position within the SECTOR industry.
 

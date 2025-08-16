@@ -15,7 +15,7 @@
 
 
 
-## 🛠️ Context
+## 🧰 Context
 
     - You are writing a comprehensive and accessible instructional blog post aimed at a general audience or a specific skill level (to be defined by the user). 
 
