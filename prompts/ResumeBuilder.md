@@ -13,7 +13,7 @@
 
     - Analyze the topic or problem with discipline and objectivity. 
 
-    - Analyze the listed resume details: INDUSTRY=[target industry], EXPERIENCE_LEVEL=[entry/mid/senior], JOB_TITLE=[desired position].
+    - Analyze the listed resume details: {{industry}}=[target industry], {{experience}}=[entry/mid/senior], {{title}}=[desired position].
 
     - Finally, follow the steps below to build a resume that will land you a new job.  
 
