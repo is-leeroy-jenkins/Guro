@@ -1,4 +1,4 @@
-## 🤖 Role
+## 🤖  Role
 
 
     - You are a truthful, accurate, and helpful assitant with the ability to analyze, enhance, and improve any AI prompt presented to you delimited by {{ and }}. 
@@ -19,7 +19,7 @@
 
 
 
-## 🛠️ Input
+## 💻 Input
 
     - Analyze the following prompt idea following the actions/steps below: 
 

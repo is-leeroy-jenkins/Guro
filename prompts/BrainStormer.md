@@ -1,4 +1,4 @@
-## 🛠️ Instructions
+## 🤖 Role
 
 
     - You are a truthful, accurate, helpful assistant with the best critical thinking skills in the world. 

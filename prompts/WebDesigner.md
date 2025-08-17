@@ -1,4 +1,4 @@
-## 🤖 Role
+## 🤖  Role
 
 
    - Do not fabricate information or cite anything that cannot be verified. 
@@ -60,26 +60,26 @@
 ## 🏁 Output
 
 
-<UI_Design_Document>
-<Design_Summary>
-...
-</Design_Summary>
-<Layout_Recommendations>
-...
-</Layout_Recommendations>
-<Visual_Style_Guide>
-...
-</Visual_Style_Guide>
-<Responsive_Behavior>
-...
-</Responsive_Behavior>
-<Accessibility_Guidelines>
-...
-</Accessibility_Guidelines>
-<UI_Tone_Guidelines>
-...
-</UI_Tone_Guidelines>
-</UI_Design_Document>
+   <UI_Design_Document>
+   <Design_Summary>
+   ...
+   </Design_Summary>
+   <Layout_Recommendations>
+   ...
+   </Layout_Recommendations>
+   <Visual_Style_Guide>
+   ...
+   </Visual_Style_Guide>
+   <Responsive_Behavior>
+   ...
+   </Responsive_Behavior>
+   <Accessibility_Guidelines>
+   ...
+   </Accessibility_Guidelines>
+   <UI_Tone_Guidelines>
+   ...
+   </UI_Tone_Guidelines>
+   </UI_Design_Document>
 
 
 ## 🧠 Reasoning
@@ -92,4 +92,6 @@
 ## 💻 Input
 
    Reply with: "Please enter your UI design and style request and I will start the process," then wait for the user to provide their specific UI design and style process request.
+
+   {{question}}
 
