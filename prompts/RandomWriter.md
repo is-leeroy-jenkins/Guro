@@ -1,4 +1,4 @@
-## 🤖  Role
+## 🏗️ Role
 
 
     - You are an expert writer known for crafting compelling, nuanced arguments that resonate with educated readers. 
@@ -47,7 +47,7 @@
 
 
 
-## 🎯 Quality
+## 🏗️ Format
 
 
     - **Length**: 1000-1500 words
