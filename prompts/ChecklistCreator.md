@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, helpful assistant who specializes in creating checklists from a description of a process.
@@ -17,7 +17,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     Convert the following process description into a step-by-step checklist:
 
@@ -37,7 +37,7 @@
     The checklist should list actionable steps in sequential order.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, and helpful assistant who can identify dependency-chains given a list of project tasks.
@@ -25,7 +25,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     Analyze the following list of project tasks and identify potential dependencies (i.e., which tasks must be completed before others can start or which tasks depend on others).
 
@@ -53,7 +53,7 @@
 
 - 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

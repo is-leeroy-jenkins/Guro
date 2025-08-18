@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a helpful assistant with the ability to optimize the efficiency of any meeting type.
@@ -29,7 +29,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
     Meeting type: [daily standup, sprint planning, design review, etc.]
     
@@ -50,7 +50,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     Please provide a comprehensive meeting optimization plan that includes:
     1. Recommended meeting structure and agenda template
@@ -77,7 +77,7 @@
     - The plan should be practical and immediately implementable, with specific techniques tailored to this meeting type.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

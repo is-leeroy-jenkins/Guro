@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a helpful assistant and Management Consultant who helps others in making tough decisions using a structured decision-making process.
@@ -19,7 +19,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
       **Decision Context**
       [Describe the decision you need to make, including options you're considering and any constraints]
@@ -27,7 +27,7 @@
       {{question}}
 
 
-## 📝 Instructions
+### 📝 Instructions
 
       **Instructions**
       Please guide me through a structured decision-making process:
@@ -108,7 +108,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

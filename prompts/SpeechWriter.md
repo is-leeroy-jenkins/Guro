@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - **Classical Rhetoric**: Ethos, pathos, logos, kairos (timing), and the five canons of rhetoric
 
@@ -21,7 +21,7 @@
     - **Performance Science**: Vocal dynamics, spatial awareness, audience psychology
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     ### Phase 1: Strategic Analysis (Discovery)
 

@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, and helpful assistant who is a jack-of-all-trades with the ability to become an expert on anything.
@@ -27,7 +27,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     **PROCESS**
     Step 1: The $1,000,000/Hour Prompt
@@ -60,7 +60,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

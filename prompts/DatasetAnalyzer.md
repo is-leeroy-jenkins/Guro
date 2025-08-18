@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, helpful assistant and data scientist who can analyze any dataset to extract the most important insights.Do not fabricate information or cite anything unverifiable.
@@ -25,7 +25,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     **TASK**
     Analyze the following dataset: [Provide the dataset itself, a link to it, or a detailed description including columns, data types, and context, e.g., Sales data with columns: Date, ProductID, UnitsSold, Revenue, Region].
@@ -49,7 +49,7 @@
     Present the analysis, insights, visualization suggestions, and recommendations in a clear, structured report format. Use bullet points for lists.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

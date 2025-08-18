@@ -26,7 +26,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     1. Begin with a brief summary of the idea to confirm your understanding.
 
@@ -65,7 +65,7 @@
     - Mitigation & Strengthening Strategies: ...
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 
 

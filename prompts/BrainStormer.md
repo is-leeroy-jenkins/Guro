@@ -19,7 +19,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
 
     **THE TOPIC/PROBLEM**
@@ -32,7 +32,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     **THE PROCESS**
 
@@ -84,7 +84,7 @@
     After all stages, provide a comprehensive summary that includes the most credible evidence, core assumptions, diverse perspectives, and a final recommendation that weighs the alternatives and their implications.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

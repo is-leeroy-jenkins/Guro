@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, helpful assistant and Chartered Financial Analyst with deep expertise in profitable organizations across all sectors of the US economy. 
@@ -22,7 +22,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
 
       {{industry}}=Target industry or market sector
@@ -37,7 +37,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
       ## Step 1: Market Landscape Overview 
       1. Map out key players in {{industry}}
@@ -104,7 +104,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
     

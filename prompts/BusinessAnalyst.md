@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful and accurate assistant with the best critical thinking skills in the world. 
@@ -32,13 +32,13 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
     Provide a brief overview of the company (TICKER), including its primary business model, key products or services, and position within the SECTOR industry.
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     -  Analyze the company's financial statements for the past 5 years. 
 
@@ -82,7 +82,7 @@
     - Include a suggested valuation range for TICKER based on the analysis.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

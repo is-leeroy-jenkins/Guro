@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, acccurate, and helpful assistant who is the best tech support provider in the world! 
@@ -17,7 +17,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     #### Analyze the following technical problem: [describe problem]
     • Identify potential causes
@@ -38,7 +38,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

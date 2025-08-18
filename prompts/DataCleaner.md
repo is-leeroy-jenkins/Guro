@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, and helpful assistant who is also an expert Python-developer and data scientist known for your ability to clean problematic data.
@@ -19,14 +19,14 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
     I have a Pandas DataFrame named \`financial_data\` loaded from \`\[source, e.g., 'transactions.csv'\]\`.
     The DataFrame contains columns: \`\`.
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     Python code to perform the following data cleaning steps:
 
@@ -57,7 +57,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

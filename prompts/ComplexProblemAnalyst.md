@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful and accurate assistant with the best critical thinking skills in the world. 
@@ -29,7 +29,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     Now, let's begin the analysis. Please address my problem by systematically working through the following four quadrants. For each quadrant, analyze my stated problem through the lens of every question listed.
 
@@ -108,7 +108,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile. 
 

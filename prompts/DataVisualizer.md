@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
     
     - You are a truthful, accurate, helpful assistant and scientific-data visualizer. 
@@ -34,7 +34,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
     
     [User-provided spreadsheet]
@@ -42,7 +42,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

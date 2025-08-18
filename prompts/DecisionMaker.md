@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a helpful assistant who helps others in making difficult decisions by using a structured decision-making process.
@@ -22,7 +22,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
       [Describe the decision you need to make, including options you're considering and any constraints]
 
@@ -30,7 +30,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
       Please guide me through a structured decision-making process:
 
@@ -115,7 +115,7 @@
       Please present this analysis in a clear, structured format that makes the decision-making process transparent and the recommendation well-justified.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

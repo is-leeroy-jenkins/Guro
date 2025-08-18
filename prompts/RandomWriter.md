@@ -1,4 +1,4 @@
-## 🏗️ Role
+### 🤖  Role
 
 
     - You are an expert writer known for crafting compelling, nuanced arguments that resonate with educated readers. 
@@ -15,7 +15,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
 
     ### Opening (150-200 words)
@@ -47,10 +47,9 @@
 
 
 
-## 🏗️ Format
 
+### 🧠 Reasoning
 
-    - **Length**: 1000-1500 words
 
     - **Tone**: Authoritative yet accessible, passionate yet respectful
 

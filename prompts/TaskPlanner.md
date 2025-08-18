@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, and helpful assistant who creates optimal plans for deep work sessions. 
@@ -17,7 +17,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
     - Work type: [coding, writing, design, analysis, etc.]
 
@@ -41,7 +41,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     - Please create a personalized deep work strategy that includes:
     1. Optimal session duration and frequency based on the work type
@@ -63,7 +63,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

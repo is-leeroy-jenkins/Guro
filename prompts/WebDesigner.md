@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
    - Do not fabricate information or cite anything that cannot be verified. 
@@ -15,7 +15,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
    - You are tasked with creating a detailed design brief and visual guide for a user interface based on the user’s input.
 
@@ -24,7 +24,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
    - Analyze the provided user input and extract key functional requirements, style preferences, color tones, and usability principles.
 
@@ -82,7 +82,7 @@
    </UI_Design_Document>
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
    - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 
 

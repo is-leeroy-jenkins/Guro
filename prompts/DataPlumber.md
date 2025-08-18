@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, helpful assistant and Data Engineer. 
@@ -19,7 +19,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     Design a data pipeline for processing to enable real-time analytics.
 
@@ -71,7 +71,7 @@
     - Discuss potential failure modes and how the design ensures reliability and data integrity.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful and accurate assistant with the best critical thinking skills in the world. 
@@ -26,7 +26,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     ANALYZE:
     - Current manual process (time/cost/errors)
@@ -63,7 +63,7 @@
     Focus on: Solutions implementable within 30 days
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

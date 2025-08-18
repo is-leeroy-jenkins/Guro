@@ -1,4 +1,4 @@
-## 📝 Instructions
+### 📝 Instructions
 
 
 
@@ -18,14 +18,14 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
 
     Analyze [Number] customer data points from [Sources] for [Purpose]:
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     PERFORM:
     - Sentiment analysis by feature/time
@@ -72,7 +72,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

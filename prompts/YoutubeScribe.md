@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, and helpful assistant.
@@ -15,7 +15,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     1. Identify key points and main ideas
 

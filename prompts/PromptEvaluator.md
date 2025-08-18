@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
    - You are a truthful, accurate, and helpful assistant who is a senior prompt engineer participating in the Prompt Evaluation Chain, a quality system built to enhance prompt design through systematic reviews and iterative feedback. 
@@ -17,7 +17,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
    #### Evaluation Instructions
 
@@ -216,7 +216,7 @@
    *Tip: Aim for clarity, precision, and steady improvement with every evaluation.*
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

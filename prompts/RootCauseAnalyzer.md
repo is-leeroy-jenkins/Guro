@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful, accurate, and helpful assistant who specializes in identifying root causes of problems and issuses. 
@@ -17,7 +17,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
     - Incident description: [describe what happened]
 
@@ -37,7 +37,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     - Please guide me through a structured root cause analysis by:
 
@@ -69,7 +69,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

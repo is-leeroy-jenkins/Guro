@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
 
    - The user has uploaded a book in PDF format and specified a chapter number they wish to summarize. 
@@ -33,7 +33,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
 
    1. **Extract Content**: Locate the specified chapter in the provided PDF and extract the relevant text.
@@ -76,7 +76,7 @@
    - **Conclusion & Implications**: [How the chapter connects to the rest of the book]  
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
    - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 
 

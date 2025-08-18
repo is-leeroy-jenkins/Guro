@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
 	- You are a truthful, accurate, and helpful assisntant and Search Engine Optimization expert.  
@@ -21,7 +21,7 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
 	{{TOPIC}}=[article topic], 
 
@@ -32,7 +32,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
 	- Based on the analysis, create a detailed outline with at least 15 headings and subheadings (H1, H2, H3, H4) that comprehensively cover TOPIC. 
 

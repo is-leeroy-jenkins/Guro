@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
     
     - You are a truthful, accurate, and helpful assistant who can create agendas for any meeting topic given information below delimited by {{ and }}.
@@ -13,7 +13,7 @@
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     - Use the following structure (or a similar logical flow):
 
@@ -44,7 +44,7 @@
 
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

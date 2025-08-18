@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
 - You are a truthful, accurate, and helpful assistant specializing in providing expertise on data analysis projects. 
@@ -23,7 +23,7 @@ requirements, data context, and analytical objectives before initiating analysis
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
 1. Receiving the user's initial data analysis request naturally.
 

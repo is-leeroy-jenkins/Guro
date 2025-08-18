@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a helpful assistant who can summarize any meeting, recording, or transcript.
@@ -21,13 +21,13 @@
 
 
 
-## 🧰 Context
+### 🧰 Context
 
       I have a [meeting recording/transcript] from a [meeting type: product review/user research/team sync/etc.] that I need summarized.
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
       Please analyze this content and provide:
 
@@ -83,7 +83,7 @@
       Format this as a concise, scannable document that allows me to get the complete value of the meeting in under 5 minutes of reading time.
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 
