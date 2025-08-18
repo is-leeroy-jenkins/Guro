@@ -19,7 +19,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided input text]:
     {{question}}
@@ -39,7 +39,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     DELIVER:
@@ -58,7 +58,7 @@
     - Create process flow diagrams, cost-benefit charts, and timeline visualizations
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     Focus on: Solutions implementable within 30 days
 
