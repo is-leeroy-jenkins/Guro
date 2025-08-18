@@ -40,7 +40,7 @@
     5. **Validation Framework**: Define success metrics for the dashboard's decision-driving effectiveness
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - All solutions must be implementable in Power BI with current features
 
@@ -55,7 +55,7 @@
     - Security and data governance requirements must be addressed
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Provide responses in this structure:
@@ -88,7 +88,7 @@
     
 
 
-## 💻 Input
+### 💻 Input
 
     Reply with: "Please enter your Power BI dashboard requirements request and I will start the process," then wait for the user to provide their specific requirements.
 

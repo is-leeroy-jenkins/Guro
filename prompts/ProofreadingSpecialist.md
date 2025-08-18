@@ -45,7 +45,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Do not alter the meaning or intent of the text.  
 
@@ -56,7 +56,7 @@
     - Avoid excessive complexity; keep suggestions clear and practical.  
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     - **Error Report:** A list of grammar, structure, and style issues with explanations.  
@@ -77,7 +77,7 @@
     - Use Strategic Chain-of-Thought and System 2 Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 
 
-## 💻 Input
+### 💻 Input
 
     Reply with: "Please enter the text you'd like me to proofread, and I will begin the process."
 

@@ -43,7 +43,7 @@
     4.  **Provide Recommendations:** Based on the analysis and insights, suggest 2-3 actionable recommendations related to the stated objective.
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Present the analysis, insights, visualization suggestions, and recommendations in a clear, structured report format. Use bullet points for lists.

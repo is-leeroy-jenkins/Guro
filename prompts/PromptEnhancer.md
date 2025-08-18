@@ -19,7 +19,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     - Analyze the following prompt idea following the actions/steps below: 
 

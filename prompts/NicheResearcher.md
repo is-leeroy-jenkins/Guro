@@ -62,7 +62,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Avoid generic niches like "fitness" or "make money online" unless deeply specified.
 
@@ -71,7 +71,7 @@
     - Stay practical—no overly technical or capital-intensive recommendations.
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     1. Niche Name:
@@ -112,7 +112,7 @@
     - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
     - Reply with: "Please enter your online business background, skills, interests, time availability, and how much you're willing to invest, and I will start the process," then wait for the user to provide their specific niche process request.
 

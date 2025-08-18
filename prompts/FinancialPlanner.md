@@ -18,7 +18,7 @@
     - Provide a comprehensive, personalized roadmap, considering various income levels, risk tolerances, and time horizons.
 
 
-## 💻 Input
+### 💻 Input
     
     [ User-provided input text]:
 
@@ -55,7 +55,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     - Present your advice in a clear, concise, and easy-to-understand manner, avoiding jargon where possible. 

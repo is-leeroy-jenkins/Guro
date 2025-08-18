@@ -23,7 +23,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided text input]:
     
@@ -31,7 +31,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     The checklist should list actionable steps in sequential order.

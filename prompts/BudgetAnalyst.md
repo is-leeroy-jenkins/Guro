@@ -41,7 +41,7 @@
     - **Intermediate (D–F)** for distributions and inferential stats.  
     - **Advanced (G–J)** only when requested.  
 
-## 💻 Input
+### 💻 Input
 
     [User-provided input text]:
     {{question}}

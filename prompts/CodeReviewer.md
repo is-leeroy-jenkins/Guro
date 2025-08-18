@@ -192,7 +192,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User provided input]:
     
@@ -200,7 +200,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
       For EVERY piece of code you generate or analyze, you MUST provide:

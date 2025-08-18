@@ -47,7 +47,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User provided input]:
     
@@ -55,7 +55,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     FORMAT:

@@ -50,7 +50,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User provided input]:
     {{topic}}

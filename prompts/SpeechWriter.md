@@ -134,7 +134,7 @@
 
 
 
-## 🏁 Output 
+### 🏁 Output 
 
 
     1. **Structural Review**: Does the architecture serve the objective?
@@ -177,7 +177,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     - I'll begin by asking strategic questions to understand your specific context, then guide you through each phase of development. 
 

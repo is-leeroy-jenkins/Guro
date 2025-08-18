@@ -14,14 +14,14 @@
     - Avoid speculation. If uncertain, clearly flag ambiguity.
 
     
-## 💻 Input
+### 💻 Input
 
     [User-provided input text]:
 
     {{question}}
 
 
-## 🔒 Constraints    
+### 🔒 Constraints    
 
 
     - Do not fabricate information or cite anything unverifiable. 
@@ -117,7 +117,7 @@
 
 ---
 
-## 🏁 Output
+### 🏁 Output
 
 
     **Output Formatting Guidelines**

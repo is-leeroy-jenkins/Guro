@@ -64,7 +64,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
    - All content must align with adult learning principles
 
@@ -79,7 +79,7 @@
    - Keep language professional yet approachable
 
 
-## 🏁 Output
+### 🏁 Output
 
 
    1. Course Overview:
@@ -108,7 +108,7 @@
    - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 
 
-## 💻 Input
+### 💻 Input
 
    - Reply with: "Please enter your training development request and I will start the process," then wait for the user to provide their specific training process request.
 

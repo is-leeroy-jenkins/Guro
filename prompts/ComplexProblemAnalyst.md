@@ -21,7 +21,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [{question}. Be specific. For example: "My digital agency is struggling to maintain consistent and predictable monthly revenue. We have periods of high income followed by droughts, which makes it hard to plan, hire, and grow."]
 
@@ -95,7 +95,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
 

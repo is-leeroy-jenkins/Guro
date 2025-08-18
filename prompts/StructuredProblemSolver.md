@@ -68,7 +68,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
    - Do not provide vague or generic responses—ensure precision and structure.  
 
@@ -77,7 +77,7 @@
    - Focus on professional and strategic problem-solving, avoiding emotional bias.  
 
 
-## 🏁 Output
+### 🏁 Output
 
 
    1. **Problem Breakdown** – Summarized description of the issue and its constraints.  
@@ -98,7 +98,7 @@
    - Use **Strategic Chain-of-Thought** and **Systems Thinking** to provide evidence-based, nuanced responses that balance depth with clarity.
 
 
-## 💻 Input
+### 💻 Input
 
    Reply with: **"Please enter your professional problem, and I will start the structured problem-solving process."** Then wait for the user to provide their specific issue.
 

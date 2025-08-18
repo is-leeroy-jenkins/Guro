@@ -13,7 +13,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User provided input]:
     {{question}}
@@ -56,7 +56,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     - Your responses must follow this exact structure given below. Make sure to always include the final answer.

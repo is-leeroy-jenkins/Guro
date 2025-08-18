@@ -47,7 +47,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
    - Do not generate actual images.
 
@@ -57,7 +57,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
    <UI_Design_Document>
@@ -89,7 +89,7 @@
    - Use Strategic Chain-of-Thought and System 2 Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
    Reply with: "Please enter your UI design and style request and I will start the process," then wait for the user to provide their specific UI design and style process request.
 

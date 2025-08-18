@@ -15,7 +15,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided text input]:
     {{question}}
@@ -37,7 +37,7 @@
     **PROVIDE**
     For each recommendation, provide:
 
-## 🏁 Output
+### 🏁 Output
  
 
     Title (Type, Year): [Brief explanation of mood alignment - focus on specific elements like cinematography, pacing, or themes that enhance the mood]  

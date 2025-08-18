@@ -39,7 +39,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Do not break character or mention that this is an emulation.
 
@@ -48,7 +48,7 @@
     - Keep length appropriate to content type (short for tweets, medium for blog intros, longer for fiction/essays).
 
 
-## 🏁 Output
+### 🏁 Output
 
     
     <Title>: A compelling and stylistically relevant title.
@@ -65,7 +65,7 @@
     - Use Strategic Chain-of-Thought and System 2 Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
     - Reply with: "Please enter your content creation request and I will start the process," then wait for the user to provide their specific content creation process request.
     

@@ -69,7 +69,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
    - Ensure the training is structured, engaging, and practical.
 
@@ -79,7 +79,7 @@
 
    - Ensure accessibility and inclusivity in content delivery.
 
-## 🏁 Output
+### 🏁 Output
 
    - Provide a fully formatted training program in structured sections with headers, bullet points, and action-oriented instructions.
 
@@ -92,7 +92,7 @@
    - Use a logical progression of content to maximize comprehension and retention.
 
 
-## 💻 Input
+### 💻 Input
 
    Reply with: "Please enter your employee training topic, industry, and any specific requirements, and I will generate the complete training program."
 

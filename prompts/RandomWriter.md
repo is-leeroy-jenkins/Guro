@@ -75,7 +75,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     **Headline**: [Compelling 8-12 word title]
@@ -90,6 +90,6 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided text input]: {{question}}

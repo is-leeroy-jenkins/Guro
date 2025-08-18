@@ -66,7 +66,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Avoid oversimplification of complex issues
 
@@ -79,7 +79,7 @@
     - Focus on actionable insights
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     1. Historical Context: Relevant classical principles and precedents
@@ -100,7 +100,7 @@
     - Use a strategic, evidence-based approach (System 2 Thinking and chain-of-thought) to provide nuanced yet clear responses.
 
 
-## 💻 Input
+### 💻 Input
 
     - Reply with: "Please share your business challenge or strategic question, and I shall analyze it through both classical and modern lenses," then wait for the user to provide their specific situation.
     

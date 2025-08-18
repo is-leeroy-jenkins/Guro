@@ -40,7 +40,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - The first summary should be long (4-5 sentences, ~100 words) yet highly
     non-specific, containing little information beyond the entities marked
@@ -50,7 +50,7 @@
     discusses") to reach ~100 words.
 
 
-## 💻 Input
+### 💻 Input
 
     [ User-provided text input ]: {{document}}
     [ User-provided text input ]: {{question}}

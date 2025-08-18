@@ -37,7 +37,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Use everyday language suitable for the target audience’s skill level.
 
@@ -50,7 +50,7 @@
     - Use markdown formatting for easy publishing.
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Return the full blog post in markdown. Include:
@@ -80,7 +80,7 @@
     - You must iterate and keep going until the given task is complete.
 
 
-## 💻 Input
+### 💻 Input
 
     Reply with: "Please enter your instructional blog post topic and target audience, and I will start the process," then wait for the user to provide their specific instructional blog post request.
     

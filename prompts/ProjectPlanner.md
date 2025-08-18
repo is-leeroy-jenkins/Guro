@@ -51,7 +51,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Present the plan in a structured format (e.g., using headings, subheadings, bullet points, or a simple table structure).

@@ -20,7 +20,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     {{role}} = Desired job position
     {{company}} = Target company name

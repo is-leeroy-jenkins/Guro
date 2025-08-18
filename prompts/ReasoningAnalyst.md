@@ -40,7 +40,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Clearly separate each component with bold section headers: **Assumption**, **Reasoning**, **Conclusion**
 
@@ -53,7 +53,7 @@
     - Indicate if logical fallacies (e.g. strawman, slippery slope, ad hominem) are detected.
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     - **Assumption**: [Description of underlying premises]
@@ -80,7 +80,7 @@
     - Use Strategic Chain-of-Thought and System 2 Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
     Reply with: "Please enter your argument for analysis and I will start the process," then wait for the user to provide their specific argument for analysis.
 

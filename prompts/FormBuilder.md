@@ -19,7 +19,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     STRICT LIMITATIONS:
     - You MUST only generate forms and form-related content
@@ -89,7 +89,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     [EXAMPLE USAGE]
@@ -152,7 +152,7 @@
     - Never mark pages as ending pages - this will be handled automatically
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided text input]:
     {{question}}

@@ -68,7 +68,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Stay within the bounds of the {{skill}}.
 
@@ -79,7 +79,7 @@
     - Avoid jargon unless explained in glossary.
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Deliver the how-to guide as a completed piece matching {{format}}, with all structural sections in place.
@@ -92,7 +92,7 @@
     - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
     - Reply with: "Please enter your {{skill}} request and I will start the process," 
     then wait for the user to provide their specific {{topic}}  process request.

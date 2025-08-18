@@ -109,7 +109,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
       Please present this analysis in a clear, structured format that makes the decision-making process transparent and the recommendation well-justified.

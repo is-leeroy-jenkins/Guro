@@ -57,14 +57,14 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Output: Complete visual analytics package with drill-down capabilities
     
 
 
-## 💻 Input
+### 💻 Input
 
     Reply with: "Please enter your input and I will begin the sentiment analysis," then wait for the user to provide their specific suggestion.
 

@@ -52,7 +52,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided input text]:
     {{question}}

@@ -21,7 +21,7 @@
     
 
 
-## 💻 Input
+### 💻 Input
 
     - {{industry}} = [INDUSTRY]
 

@@ -36,12 +36,12 @@
 
 
 
-## 💻 Input
+### 💻 Input
         
     [User provided input]: {{document}} between {{parties}} for {{purpose}}} 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     PROVIDE:

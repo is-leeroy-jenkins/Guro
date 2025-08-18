@@ -94,14 +94,14 @@
     - You must iterate and keep going until the given task is complete.
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided text input]:
     {{question}}
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     When you answer, include a **visible chain‑of‑thought** section before the final summary. For example:

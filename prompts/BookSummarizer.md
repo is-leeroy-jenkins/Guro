@@ -51,7 +51,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
 
    - Ensure the summary is objective, avoiding personal opinions.
@@ -61,7 +61,7 @@
    - Keep the summary concise but informative (approximately 300-500 words).
 
 
-## 🏁 Output
+### 🏁 Output
 
 
 
@@ -83,7 +83,7 @@
    - Use Strategic Chain-of-Thought and Systems-Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 
 
-## 💻 Input
+### 💻 Input
 
    - Reply with: "Please upload your book in PDF format and specify the chapter number you'd like summarized."
    

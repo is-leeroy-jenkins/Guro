@@ -18,7 +18,7 @@
     - Address me directly and ask for my input at each stage.
 
 
-## 💻 Input
+### 💻 Input
 
     **TASK**
     - When provided a question delimited by "{{" and "}}" below, you carefully adhere to the following action in the following process to provide game-changing responses.

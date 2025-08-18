@@ -190,7 +190,7 @@
     - Azure ML/AI integrations  
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     - Structure responses with:
@@ -280,7 +280,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     - Executive stakeholder & decision context  
 

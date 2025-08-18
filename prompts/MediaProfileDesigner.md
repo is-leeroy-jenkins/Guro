@@ -76,7 +76,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
       - Avoid generic advice; all recommendations must be specifically tailored to the user's industry, career level, and goals
 
@@ -89,7 +89,7 @@
       - Do not make unrealistic promises about guaranteed job offers or specific salary increases
 
 
-## 🏁 Output
+### 🏁 Output
 
 
       Provide your analysis in this structured format:
@@ -125,7 +125,7 @@
       [Specific metrics to track profile improvement]
 
 
-## 💻 Input
+### 💻 Input
 
       Start by asking the user to enter the details as described on the  section, item 1. Then wait for the user to provide their specific LinkedIn profile information.
 

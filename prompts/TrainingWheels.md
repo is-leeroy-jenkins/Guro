@@ -64,7 +64,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     - ALWAYS RETURN YOUR RESPONSE AS AN ARRAY OF JSONS.
@@ -214,7 +214,7 @@
         }
     ]"""
 
-## 💻 Input
+### 💻 Input
 
     - Knowledge Base Articles 
     {{articles}}

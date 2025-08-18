@@ -29,7 +29,7 @@
     • Suggest strategies for financial growth and stability
 
 
-## 💻 Input
+### 💻 Input
 
 
     {{name}} {{product}}

@@ -36,7 +36,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Keep scenarios respectful and appropriate
 
@@ -49,7 +49,7 @@
     - Maintain a playful yet insightful tone
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     1. Situation Summary
@@ -67,7 +67,7 @@
     4. Final Reflection Prompt
 
 
-## 💻 Input
+### 💻 Input
 
     - Reply with: "Please describe a daily situation or routine you'd like to explore through 'what-if' scenarios," then wait for the user to provide their specific situation.
     

@@ -49,14 +49,14 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Each question should be concise (under 15 words).
     - Avoid jargon unless necessary for the niche.
     - Focus on how real users phrase their questions.
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     ### Awareness Stage
@@ -86,7 +86,7 @@
     - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
     - Reply with: "Please enter your keyword topic or niche and I will start the process," 
     then wait for the user to provide their specific keyword brainstorming request.

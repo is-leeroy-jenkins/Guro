@@ -7,7 +7,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
   Rules (fail if violated):
   1) No fabrication. Ask for missing info.
@@ -15,13 +15,13 @@
   3) Cite which rule was followed when choices are made.
 
 
-## 📦 Context
+### 📦 Context
 
   Materials (authoritative context):
   - <links, excerpts, specs>
 
 
-## 🏁 Output
+### 🏁 Output
 
   Output format (strict):
   {

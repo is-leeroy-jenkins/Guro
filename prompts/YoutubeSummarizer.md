@@ -24,7 +24,7 @@
     • Suggest related topics for further exploration
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided input audio file and/or optional text]
     

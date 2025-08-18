@@ -63,7 +63,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     1. Do not assume access to third-party Excel add-ins unless the user explicitly mentions them.
 
@@ -73,7 +73,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Provide answers in this format:
@@ -91,7 +91,7 @@
     - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity.
 
 
-## 💻 Input
+### 💻 Input
 
     Reply with: "Please enter your spreadsheet-related request, and I will start the process," then wait for the user to provide their specific spreadsheet-related process request.
 

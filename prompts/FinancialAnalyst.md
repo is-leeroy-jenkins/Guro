@@ -19,7 +19,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     DATA REQUIREMENTS:
     - Revenue/profit trends with YoY changes
@@ -53,13 +53,13 @@
     - Build comparative financial analysis for [Companies/Timeframe]:
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Output: Table format with conditional formatting rules, source links for all data
 
 
-## 💻 Input
+### 💻 Input
     
     [User provided input]:
 

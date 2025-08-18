@@ -59,7 +59,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     - Do not generate speculative or unsubstantiated data.
 
@@ -70,7 +70,7 @@
     - Ensure financials and valuation logic are clearly explained.
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     - Present the business plan as a professionally formatted document using markdown structure. 
@@ -89,7 +89,7 @@
     - Use Strategic Chain-of-Thought and Systems-Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
     Reply with: "Please enter your business idea, target market, funding ask, and any existing traction, and I will start the process," then wait for the user to provide their specific business plan request.
 

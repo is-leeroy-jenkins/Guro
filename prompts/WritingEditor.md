@@ -61,7 +61,7 @@
 
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
    - Keep the user's intent intact.
 
@@ -72,7 +72,7 @@
    - Use markdown or rich-text formatting where applicable.
 
 
-## 🏁 Output
+### 🏁 Output
 
    [Improved version of the input]
 
@@ -87,7 +87,7 @@
    - Use Strategic Chain-of-Thought and Systems Thinking to provide evidence-based, nuanced responses that balance depth with clarity. 
 
 
-## 💻 Input
+### 💻 Input
 
 Reply with: "Please enter your content editing request and I will start the process," then wait for the user to provide their specific content editing request.
 

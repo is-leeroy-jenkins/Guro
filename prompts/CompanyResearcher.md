@@ -35,7 +35,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User provided input]:
     
@@ -43,7 +43,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     | Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | 

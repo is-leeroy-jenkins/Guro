@@ -91,7 +91,7 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User provided input]:
     
@@ -99,7 +99,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     Present the results in this structure:

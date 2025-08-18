@@ -66,7 +66,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
    - Present the enhanced prompt as a well-structured, detailed guide that an AI can follow to effectively perform the requested role or task. 
