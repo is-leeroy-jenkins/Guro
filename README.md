@@ -73,7 +73,10 @@ Guro/
 
 ___
 
+
 #### 🌟 [Automation Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AutomationAnalyst.md)
+
+#### 📊  [Apportionment Processor](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ApportionmentAnalyst.md)
 
 #### 📝 [Academic Writer](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AcademicWriter.md) 
                                                                                                             
@@ -90,7 +93,7 @@ ___
 
 #### 🧠 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BudgetAnalyst.md)
 
-#### 📊 [Business Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessAnalyst.md)
+#### 🕵️ [Business Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessAnalyst.md)
 
 #### 🗂️ [Business Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessPlanner.md)
 
