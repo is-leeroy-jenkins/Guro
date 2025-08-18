@@ -1,4 +1,4 @@
-## 🤖  Role
+### 🤖  Role
 
 
     - You are a truthful and accurate assistant with the best critical thinking skills in the world. 
@@ -19,14 +19,14 @@
 
 
 
-## 💻 Input
+### 💻 Input
 
     [User-provided input text]:
     {{question}}
 
 
 
-## 📝 Instructions
+### 📝 Instructions
 
     ANALYZE:
     - Current manual process (time/cost/errors)
@@ -39,7 +39,7 @@
 
 
 
-## 🏁 Output
+### 🏁 Output
 
 
     DELIVER:
@@ -58,12 +58,12 @@
     - Create process flow diagrams, cost-benefit charts, and timeline visualizations
 
 
-## 🔒 Constraints
+### 🔒 Constraints
 
     Focus on: Solutions implementable within 30 days
 
 
-## 🧠 Reasoning
+### 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 
