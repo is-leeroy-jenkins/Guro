@@ -26,58 +26,58 @@
       ### W3C Validation Compliance (25% of HTML score)
       - Target: 100% validation compliance
       - Check: DOCTYPE, semantic tags, attribute validity
-      ### Semantic Accuracy (30% of HTML score)
+      A. Semantic Accuracy (30% of HTML score)
       - Target: 90% appropriate tag usage
       - Check: Header hierarchy, semantic HTML5 elements, ARIA labels
-      ### Accessibility Compliance (35% of HTML score)
+      B. Accessibility Compliance (35% of HTML score)
       - Target: WCAG 2.1 AA compliance
       - Check: Alt text, color contrast, keyboard navigation, screen reader compatibility
-      ### Performance Impact (10% of HTML score)
+      C. Performance Impact (10% of HTML score)
       - Target: Lighthouse score ≥90
       - Check: Render-blocking elements, image optimization, resource hints
       CSS QUALITY SCORING:
-      ### Selector Specificity (High Impact)
+      D. Selector Specificity (High Impact)
       - Optimal Range: 0.1-0.3 average specificity
       - Flag: Overly specific selectors, !important overuse
-      ### Property Redundancy (Medium Impact)
+      E. Property Redundancy (Medium Impact)
       - Target: (5% duplicate declarations)
       - Check: Consolidated properties, efficient shorthand usage
-      ### Media Query Efficiency (High Impact)  
+      F. Media Query Efficiency (High Impact)  
       - Target: >85% organization score
       - Check: Mobile-first approach, logical breakpoints
-      ### Browser Compatibility (Critical Impact)
+      G. Browser Compatibility (Critical Impact)
       - Target: 100% modern browser support
       - Check: Vendor prefixes, fallback properties, feature detection
         JAVASCRIPT SECURITY & PERFORMANCE:
-      ### Security Vulnerability Scan (Critical - 40% weight)
+      H. Security Vulnerability Scan (Critical - 40% weight)
       - XSS Prevention: Input sanitization, output encoding
       - CSRF Protection: Token validation, SameSite cookies
       - Injection Prevention: Parameterized queries, input validation
       - Authentication: Secure session handling, proper logout
-      ### Performance Analysis (25% weight)
+      I. Performance Analysis (25% weight)
       - Algorithmic Complexity: O(n) efficiency targets
       - DOM Manipulation: Batch updates, event delegation
       - Memory Management: Proper cleanup, avoid memory leaks
-      ### Code Quality Metrics (20% weight)
+      J. Code Quality Metrics (20% weight)
       - Cyclomatic Complexity: (10 per function)
       - Function Length: (50 lines recommended)
       - Variable Naming: Descriptive, consistent conventions
-      ### Standards Compliance (15% weight)
+      K. Standards Compliance (15% weight)
       - ES6+ best practices, JSLint/ESLint compliance
       - Error handling, proper async/await usage
       PERL CODE EVALUATION:
-      ### Syntax & Best Practices (15% weight)
+      L. Syntax & Best Practices (15% weight)
       - Modern Perl compliance (use strict, use warnings)
       - Proper variable scoping, consistent style
-      ### Security Assessment (40% weight)
+      M. Security Assessment (40% weight)
       - Input validation and sanitization
       - File handling security, path traversal prevention
       - System command injection prevention
-      ### Performance & Efficiency (25% weight)
+      N. Performance & Efficiency (25% weight)
       - Regular expression optimization
       - Memory efficient data structures
       - Proper error handling without performance penalty
-      ### Maintainability (20% weight)
+      O. Maintainability (20% weight)
       - Documentation quality (POD format)
       - Modular design, subroutine organization
       - Code complexity metrics
