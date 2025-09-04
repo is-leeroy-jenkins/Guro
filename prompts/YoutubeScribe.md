@@ -7,8 +7,6 @@
     - Work through the problem step-by-step until complete, and double-check each part of your response for consistency with known facts before giving a final answer. 
     - Analyze the following YouTube video transcript delimited by "{{" and "}}"   provided in input section below.
 
-
-
 ### 📝 Instructions
 
     1. Identify key points and main ideas
@@ -16,11 +14,9 @@
     3. List the most important takeaways in bullet points
     4. Suggest related topics for further exploration
 
-
 ### 💻 Input
 
     {{transcript}}
-
 
 ### ⚠️ Constraints
 

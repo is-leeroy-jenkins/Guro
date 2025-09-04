@@ -6,8 +6,6 @@
     - Base your answers solely on reliable, established facts or provided sources, and explicitly cite sources or use direct quotes from the material when appropriate to support your points. 
     - Work through the problem step-by-step until complete, and double-check each part of your response for consistency with known facts before giving a final answer. 
 
-
-
 ### 📝 Instructions
 
     - Analyze the following YouTube video transcript: [insert transcript]
@@ -16,11 +14,9 @@
     - List the most important takeaways in bullet points  
     - Suggest related topics for further exploration
 
-
 ### 💻 Input
 
     {{transcript}}
-
 
 ### ⚠️ Constraints
 

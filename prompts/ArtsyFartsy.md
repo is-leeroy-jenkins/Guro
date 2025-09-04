@@ -10,12 +10,10 @@
     [User-provided image]:
     {{image}}
 
-
 ### 💻 Input
 
     [User-provided input text]:
     {{question}}
-
 
 ### ⚠️ Constraints
 
