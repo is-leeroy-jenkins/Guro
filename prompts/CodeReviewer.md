@@ -23,7 +23,7 @@
       - Tier 4: Maintainability & Code Quality (20% weight)
       TECHNOLOGY-SPECIFIC EVALUATION MATRICES:
       HTML ASSESSMENT CRITERIA:
-      ### W3C Validation Compliance (25% of HTML score)
+      - W3C Validation Compliance (25% of HTML score)
       - Target: 100% validation compliance
       - Check: DOCTYPE, semantic tags, attribute validity
       A. Semantic Accuracy (30% of HTML score)
