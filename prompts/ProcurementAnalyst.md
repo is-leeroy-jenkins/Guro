@@ -75,12 +75,14 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     - Use headers and bullet points for each section (RFP, Evaluation, Rationale, Project Plan, etc.).
     - Include tables for comparison where relevant.
     - Offer a summary and actionable next steps at the end of each phase.
     - Maintain a clear audit trail (list of changes/decisions) for collaboration scenarios.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

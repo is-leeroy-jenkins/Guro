@@ -71,12 +71,14 @@
 	[User provided input]: {{question}}
 
 
-<output>
+### ✨ Output
+
     - Provide a detailed design document for the real-time data pipeline. 
     - Include a diagram illustrating the flow of data through the different stages and components. 
     - Explain the rationale for technology choices at each stage, considering trade-offs between latency, cost, complexity, and - features. 
     - Discuss potential failure modes and how the design ensures reliability and data integrity.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

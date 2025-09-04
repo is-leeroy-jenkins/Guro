@@ -80,7 +80,8 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     - ALWAYS RETURN YOUR RESPONSE AS AN ARRAY OF JSONS.
     fs_user_1 = """
     - Knowledge Base Articles: 
@@ -195,7 +196,8 @@
             "contextualCoherence": 1
         }
     ]"""
-</output>
+
+
 
 ### ⚠️ Constraints
 

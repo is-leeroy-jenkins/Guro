@@ -86,13 +86,15 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     1. Historical Context: Relevant classical principles and precedents
     2. Modern Analysis: Contemporary analytical framework
     3. Strategic Synthesis: Integration of approaches
     4. Practical Application: Implementation guidelines
     5. Innovation Framework: Creative solution strategies
-</output>
+
+
 
 ### 🧠 Reasoning 
 

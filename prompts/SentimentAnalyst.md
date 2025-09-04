@@ -39,9 +39,11 @@
     Analyze [Number] customer data points from [Sources] for [Purpose]:
 
 
-<output>
+### ✨ Output
+
     Output: Complete visual analytics package with drill-down capabilities
-</output>
+
+
 
 ### 🧠 Reasoning 
 

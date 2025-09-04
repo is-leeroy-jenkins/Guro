@@ -68,7 +68,8 @@
     {{topic}}
 
 
-<output>
+### ✨ Output
+
     Present the results in this structure:
     1. Data Collection Summary
     - Total items collected: [number]
@@ -86,7 +87,8 @@
     -  Bullet-point summary
     -  Personalized take
     -  Source URLs
-</output>
+
+
 
 ### ⚠️ Constraints
 

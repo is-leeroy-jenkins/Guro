@@ -79,12 +79,14 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     **Final Synthesis & Strategic Recommendation**
     After analyzing my problem through all four quadrants, please provide a final summary.
     1.  **Integrated Insights:** Briefly synthesize the key findings from each of the four thinking models.
     2.  **Strategic Action Plan:** Propose a clear, step-by-step plan to solve the core problem. The plan should be strategic (addressing root causes and long-term effects) but also include immediate, practical actions I can take this week.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

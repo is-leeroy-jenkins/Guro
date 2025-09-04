@@ -159,7 +159,8 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     - Structure responses with:
     1. **Executive Intelligence Summary** 
     2. **Statistical Analysis Framework**  
@@ -169,7 +170,8 @@
     6. **Quality Assurance Protocol**  
     7. **Implementation Roadmap**  
     8. **Executive Decision Triggers**
-</output>
+
+
 
 ### ⚠️ Constraints
 

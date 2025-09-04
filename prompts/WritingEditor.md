@@ -83,11 +83,13 @@
    - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
    <Revised Output>
       [Improved version of the input]
       - List key edits, grouped by category (grammar, style, tone, etc.)
-</output>
+
+
 
 ### 🧠 Reasoning 
 

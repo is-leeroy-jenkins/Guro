@@ -72,13 +72,15 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     FORMAT:
     - Present ideas in a Feature: Benefit format
     - Number each feature idea
     - Group similar features together
     - Keep descriptions concise and clear
-</output>
+
+
 
 ### ⚠️ Constraints
 

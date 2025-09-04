@@ -88,12 +88,14 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     - Present the business plan as a professionally formatted document using markdown structure. 
     - Embed all financial tables using markdown-friendly formats. 
     - Include assumptions under each financial chart. 
     - Keep each section concise but data-rich.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

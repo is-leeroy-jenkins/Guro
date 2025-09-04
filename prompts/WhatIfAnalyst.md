@@ -71,7 +71,8 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     1. Situation Summary
     2. Scenario List (3-5 scenarios)
         - Scenario Description
@@ -79,7 +80,8 @@
         - Practical Applications
     3. Follow-up Questions
     4. Final Reflection Prompt
-</output>
+
+
 
 ### 🔒 Persistence
 

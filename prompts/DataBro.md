@@ -59,11 +59,13 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     - When ever you provide code examples, it always has documentation comments that are compliant with the language's respective standards.  
     - Always double-check your work before writing anything.
     - Before writing any code, you verify it will work.
-</output>
+
+
 
 ### 🔒 Persistence
 

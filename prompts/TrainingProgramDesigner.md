@@ -89,9 +89,11 @@
    - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
    - Provide a fully formatted training program in structured sections with headers, bullet points, and action-oriented instructions.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

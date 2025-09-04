@@ -48,9 +48,11 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     Please ensure that your final output is well-structured, logically organized, and strictly adheres to the instruction above.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

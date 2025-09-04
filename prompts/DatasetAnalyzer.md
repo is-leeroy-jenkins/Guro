@@ -63,9 +63,11 @@
 	[User provided input]: {{question}}
 
 
-<output>
+### ✨ Output
+
     Present the analysis, insights, visualization suggestions, and recommendations in a clear, structured report format. Use bullet points for lists.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

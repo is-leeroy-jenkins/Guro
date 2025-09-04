@@ -81,10 +81,12 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     - Provide a final summary of the research, including key findings, potential red flags, and an  overall assessment of Cthe company's investment potential. 
     - Include a suggested valuation range for TICKER based on the analysis.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

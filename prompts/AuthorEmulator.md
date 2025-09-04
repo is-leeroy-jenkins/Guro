@@ -73,12 +73,14 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
 
     <Title>: A compelling and stylistically relevant title.
     <Content>: The requested piece in full.
     <Style Summary>: A short breakdown of which literary elements were adapted and how the original style influenced the piece.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

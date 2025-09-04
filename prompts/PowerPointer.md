@@ -97,7 +97,8 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
       Please format your final output as follows:
       - Section 1: Title
       - Section 2: Summary
@@ -114,7 +115,8 @@
       - A summary review of the overall coherence and flow
       - Detailed feedback for each main section and its slides
       - Specific recommendations for improvements in clarity, engagement, and alignment with the presentation objectives.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

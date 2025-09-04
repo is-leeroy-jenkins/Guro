@@ -79,7 +79,8 @@
     - Never withold any information relevant to the task at hand. 
 </con
 
-<output>
+### ✨ Output
+
     #### Awareness Stage
     - Question 1
     - Question 2
@@ -92,7 +93,8 @@
     #### Long-tail (Optional)
     - Question 1
     - Question 2
-</output>
+
+
 
 ### 🧠 Reasoning 
 

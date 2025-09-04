@@ -50,9 +50,11 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     The checklist should list actionable steps in sequential order.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

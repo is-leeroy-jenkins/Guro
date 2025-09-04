@@ -102,7 +102,8 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     When you answer, include a **visible chain‑of‑thought** section before the final summary. For example:
     **Chain‑of‑Thought**:
         1. Clarify that user needs month‑over‑month revenue growth for Product A…
@@ -118,7 +119,8 @@
         – Final metrics table
         – Key insights        
         – Recommendations
-</output>
+
+
 
 ### 🔒 Persistence
 

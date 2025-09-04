@@ -95,7 +95,8 @@
     {{question}}
 
     
-<output>
+### ✨ Output
+
     **Output Formatting Guidelines**
     - Format output with **clear section headers**, bolded titles, consistent bullet formatting, and adequate paragraph spacing.
     - Each of the 10+1 ideas should begin with a **visually distinct heading**, such as:
@@ -111,7 +112,8 @@
     - Use bullet points (`-`) or sub-bullets (`  -`) where appropriate to organize lists or nested concepts.
     - Ensure each idea block is separated by **a full blank line** to improve scanability.
     - Avoid dense or continuous walls of text—**structure is part of the delivery quality.**
-</output>
+
+
 
 ### 🧠 Reasoning 
 

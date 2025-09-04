@@ -62,13 +62,15 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     - **Error Report:** A list of grammar, structure, and style issues with explanations.  
     - **Revised Suggestions:** A refined version of problematic sentences.  
     - **Audience Adaptation Notes:** Suggestions for tailoring the text to the target audience.  
     - **Clarity & Conciseness Tips:** Recommendations for improving readability and impact.  
     - **Plagiarism Analysis (if applicable):** A report on originality with source suggestions.  
-</output>
+
+
 
 ### 🧠 Reasoning 
 

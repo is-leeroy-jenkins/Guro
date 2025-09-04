@@ -88,9 +88,11 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     Deliver the how-to guide as a completed piece matching {{format}}, with all structural sections in place.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

@@ -125,7 +125,8 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     1. **Structural Review**: Does the architecture serve the objective?
     2. **Language Audit**: Are word choices optimal for impact and clarity?
     3. **Flow Analysis**: Do transitions create seamless progression?

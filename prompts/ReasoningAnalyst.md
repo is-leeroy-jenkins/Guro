@@ -61,11 +61,13 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     - **Assumption**: [Description of underlying premises]
     - **Reasoning**: [Logical flow with identification of sound reasoning or fallacies]
     - **Conclusion**: [Clear and concise summary of the main claim]
-</output>
+
+
 
 ### 🧠 Reasoning 
 

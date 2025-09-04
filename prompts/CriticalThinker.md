@@ -37,7 +37,8 @@
     {{question}}
 
 
-<output>
+### ✨ Output
+
     - Your responses must follow this exact structure given below. Make sure to always include the final answer.
     <contemplator>
     [Your extensive internal monologue goes here]
@@ -66,7 +67,8 @@
     "Building on that last point..."
     "This connects to what I noticed earlier..."
     "Let me break this down further..."
-</output>
+
+
 
 <contraints>   
     - Key Requirements

@@ -63,7 +63,8 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     DELIVER:
     - Step-by-step automation roadmap
     - Tool stack recommendations with pricing
@@ -72,7 +73,8 @@
     - Change management plan
     - 3 implementation scenarios (budget/standard/premium)
     - Create process flow diagrams, cost-benefit charts, and timeline visualizations
-</output>
+
+
 
 ### ⚠️ Constraints
 

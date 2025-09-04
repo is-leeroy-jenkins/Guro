@@ -73,9 +73,11 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
    - Provide clear steps in list format, use brief examples of code when applicable, and avoid unnecessary technical jargon.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

@@ -92,12 +92,14 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     Provide answers in this format:
     - Explanation: Describe the approach and why it works.
     - Formula/Macro Example (if applicable): Include a code snippet or formula.
     - Next Steps: Suggest any follow-up steps or considerations for further improvements.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

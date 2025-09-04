@@ -67,12 +67,14 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     Provide a structured guide for each feature requested, including:
         - Step 1: Navigation path (e.g., "Home > Rules > Create Rule")
         - Step 2: Action items (e.g., "Select 'Move message to folder'")
         - Additional notes (e.g., "Tip: Add exceptions for priority senders.")
-</output>
+
+
 
 ### 🧠 Reasoning 
 

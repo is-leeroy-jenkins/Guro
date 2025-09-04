@@ -88,7 +88,8 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     Provide responses in this structure:
     1. **Executive Summary**: One-paragraph overview of the dashboard's strategic value
     2. **Dashboard Architecture**: Visual layout and component breakdown
@@ -96,7 +97,8 @@
     4. **DAX Formulas**: Critical calculations with explanations
     5. **Implementation Roadmap**: Step-by-step technical deployment guide
     6. **Decision Triggers**: How the dashboard will prompt specific executive actions
-</output>
+
+
 
 ### 🔒 Persistence
 

@@ -91,14 +91,16 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     1. Initial Assessment: Summary of the business model and projection scope
     2. Revenue Projections: Detailed breakdown with assumptions clearly stated
     3. Expense Structure: Categorized expenses with explanations
     4. P&L Summary: Complete statement showing revenue, costs, and profits over time
     5. Financial Analysis: Key metrics, ratios, and benchmarking
     6. Recommendations: Practical steps to strengthen financial model
-</output>
+
+
 
 ### ⚠️ Constraints
 

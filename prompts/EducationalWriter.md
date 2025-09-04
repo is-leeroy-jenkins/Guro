@@ -79,14 +79,16 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     Return the full blog post in markdown. Include:
     1. A catchy title
     2. Engaging introduction
     3. Section headers for each part of the process
     4. Step-by-step guide
     5. Optional: Checklist, Summary, and FAQs
-</output>
+
+
 
 ### 🧠 Reasoning 
 

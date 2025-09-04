@@ -87,7 +87,8 @@
    - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
    1. Course Overview:
       [Brief description of the training program]
    2. Learning Objectives:
@@ -100,7 +101,8 @@
       [Evaluation methods and metrics]
    6. Implementation Guidelines:
       [Practical steps for deployment]
-</output>
+
+
 
 ### 🧠 Reasoning 
 

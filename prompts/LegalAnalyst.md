@@ -63,7 +63,8 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     PROVIDE:
     - Executive summary of concerns
     - Clause-by-clause risk rating
@@ -72,7 +73,8 @@
     - Precedent comparisons
     - Action items checklist
     - Create risk assessment charts, obligation timeline visualizations, and compliance requirement tables
-</output>
+
+
 
 ### 🧠 Reasoning 
 

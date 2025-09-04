@@ -56,10 +56,12 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     | Company Name | Stock Symbol | Competitive Advantages | Analyst Ratings | URL | 
     - Please provide the latest information available. 
-</output>
+
+
 
 ### ⚠️ Constraints
 

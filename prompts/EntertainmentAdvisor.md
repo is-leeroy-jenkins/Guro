@@ -59,9 +59,11 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output> 
+### ✨ Output
+ 
     Title (Type, Year): [Brief explanation of mood alignment - focus on specific elements like cinematography, pacing, or themes that enhance the mood]  
-</output>
+
+
 
 ### ⚠️ Constraints
 

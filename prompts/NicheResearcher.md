@@ -73,7 +73,8 @@
     {{question}}
 
 
-<output>
+### ✨ Output
+
     1. Niche Name:
     2. Pain Point Summary:
     3. Demand Indicators:
@@ -89,7 +90,8 @@
       - $0–$100 Investment Plan:
       - $100–$1,000 Investment Plan:     
       - Growth/Scalable Path:
-</output>
+
+
 
 ### 🧠 Reasoning 
 

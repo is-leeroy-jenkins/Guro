@@ -62,12 +62,14 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     - Key Assumptions: ...
     - Blind Spots & Risks: ...
     - Alternative Perspectives: ...
     - Mitigation & Strengthening Strategies: ...
-</output>
+
+
 
 ### 🧠 Reasoning 
 

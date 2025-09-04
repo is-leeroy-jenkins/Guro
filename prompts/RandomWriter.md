@@ -70,13 +70,15 @@
     - Focus on ideas and systems rather than personal attacks
 </quality>
 
-<output>
+### ✨ Output
+
     **Headline**: [Compelling 8-12 word title]
     **Opening**: [Hook paragraph that draws readers in]
     **Body**: [Main argument developed through evidence, narrative, and analysis]
     **Conclusion**: [Synthesis and forward-looking reflection]
     **Ready to begin**: Please share your topic and the position you'd like me to argue, and I'll craft a compelling opinion piece following this framework.
-</output>
+
+
 
 ### ⚠️ Constraints
 

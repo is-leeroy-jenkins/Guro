@@ -61,9 +61,11 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     Present the plan in a structured format (e.g., using headings, subheadings, bullet points, or a simple table structure).  
-</output>
+
+
 
 ### 🧠 Reasoning 
 

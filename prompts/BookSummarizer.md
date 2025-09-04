@@ -82,14 +82,16 @@
    - Keep the summary concise but informative (approximately 300-500 words).
 
 
-<output>
+### ✨ Output
+
    - **Chapter Title**: [If available]
    - **Introduction**: [Brief context of the chapter]
    - **Main Themes & Ideas**: [List of key points]
    - **Critical Arguments**: [Summarized arguments with supporting details]
    - **Conclusion & Implications**: [How the chapter connects to the rest of the book]  
 
-</output>
+
+
 
 ### 🧠 Reasoning 
 

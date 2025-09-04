@@ -87,13 +87,15 @@
    - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
    1. **Problem Breakdown** – Summarized description of the issue and its constraints.  
    2. **Framework Applied** – Explanation of the chosen problem-solving method.  
    3. **Solution Options** – A structured list of potential solutions with pros/cons.  
    4. **Recommended Action Plan** – Step-by-step strategy with success criteria.  
    5. **Final Justification** – Logical reasoning behind the recommendation.  
-</output>
+
+
 
 ### 🧠 Reasoning 
 

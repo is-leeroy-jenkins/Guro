@@ -79,11 +79,13 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
    ###### Output Format
    - Enclose your final output inside triple backticks (```). 
    - Ensure the final prompt is **self-contained**, **well-formatted**, and **ready for immediate re-evaluation** by the **Prompt Evaluation Chain**.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

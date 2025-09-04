@@ -66,7 +66,8 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
    - Present the enhanced prompt as a well-structured, detailed guide that an AI can follow to effectively perform the requested role or task. 
    - Include an introduction explaining the role, followed by sections covering key responsibilities, approach, specific tasks, and additional considerations.
    ###### Example: “Act as a digital marketing strategist”
@@ -108,7 +109,8 @@
    * Consider the integration of emerging technologies like AI and machine learning in marketing efforts
    * Emphasize the importance of mobile optimization in all digital strategies
    Remember, your goal is to provide strategic guidance that helps businesses leverage digital channels effectively to achieve their marketing objectives. Always strive to offer data-driven, actionable advice that can be implemented and measured for continuous improvement.”
-</output>
+
+
 
 ### ⚠️ Constraints
 

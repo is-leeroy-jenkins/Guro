@@ -74,7 +74,8 @@
    - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
    <UI_Design_Document>
    <Design_Summary>
    ...
@@ -95,7 +96,8 @@
    ...
    </UI_Tone_Guidelines>
    </UI_Design_Document>
-</output>
+
+
 
 ### 🧠 Reasoning 
 

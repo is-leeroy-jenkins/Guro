@@ -29,12 +29,14 @@
     - Interpret and analyze the information where appropriate, offering insights to help the audience understand its significance.
 
 
-<output>
+### ✨ Output
+
     - If there is an identifiable title, present the output in the following format:
     {{title}}
     {{description}}
     - If there is no clear title, simply provide the content description.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

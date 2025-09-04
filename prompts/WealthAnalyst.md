@@ -85,7 +85,8 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     - Structure your response using these sections:
     I. Hidden Asset Revelation: Your Untapped Goldmines
     -   List and elaborate on specific existing assets (skills, time, network, possessions) the user can leverage.
@@ -103,7 +104,8 @@
     -   Provide actionable mindset shifts and exercises to foster continuous resourcefulness.
     -   Summarize the core philosophy of building wealth from ingenuity rather than capital.
     Conclude with a summary of the immediate next steps the user can take.
-</output>
+
+
 
 ### 🔒 Persistence
 

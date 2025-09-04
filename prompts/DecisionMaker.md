@@ -103,9 +103,11 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
       Please present this analysis in a clear, structured format that makes the decision-making process transparent and the recommendation well-justified.
-</output>
+
+
 
 ### 🧠 Reasoning 
 

@@ -24,9 +24,11 @@
     - Generate all financial charts, ratio comparison tables, trend graphs, and performance visualizations
 
 
-<output>
+### ✨ Output
+
     Output: Table format with conditional formatting rules, source links for all data
-</output>
+
+
 
 ### 💻 Input
 

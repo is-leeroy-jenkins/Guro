@@ -59,7 +59,8 @@
     - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
     Here are what the only 5 sections of the outline should look like,
     Innovators
     Early Adopters
@@ -72,7 +73,8 @@
     - Write Section 3
     - Write Section 4
     - Write Section 5
-</output>
+
+
 
 ### 🧠 Reasoning 
 

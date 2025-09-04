@@ -85,7 +85,8 @@
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
-<output>
+### ✨ Output
+
     [EXAMPLE USAGE]
     Create a professional, well-structured form with:
     FORM STRUCTURE:
@@ -118,7 +119,8 @@
     - Progress from general to specific information
     - Last page can be a thank-you/confirmation page with only text elements (no inputs)
     - Never mark pages as ending pages - this will be handled automatically
-</output>
+
+
 
 ### ⚠️ Constraints
 

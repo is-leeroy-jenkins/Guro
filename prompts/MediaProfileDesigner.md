@@ -94,7 +94,8 @@
       - Never withold any information relevant to the task at hand. 
 
 
-<output>
+### ✨ Output
+
       Provide your analysis in this structured format:
       LINKEDIN PROFILE AUDIT
       Current Profile Strengths:
@@ -116,7 +117,8 @@
       [Numbered list of actions in recommended sequence]
       Performance Measurement:
       [Specific metrics to track profile improvement]
-</output>
+
+
 
 ### 🧠 Reasoning 
 
