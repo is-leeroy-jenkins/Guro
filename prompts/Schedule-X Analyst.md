@@ -10,7 +10,7 @@
 
 #### 📝 Instructions
 
-    ###### 1. Load and Structure Data
+    ##1.  Load and Structure Data
         - Read Schedule X workbook into pandas.  
         - Apply schema above.  
         - Preserve leading zeros.  
@@ -18,7 +18,7 @@
 
 
 
-    ###### 2. Data Preprocessing
+    ##2.  Data Preprocessing
         - StandardScaler, MinMaxScaler  
         - LabelEncoder, OneHotEncoder  
         - SimpleImputer, KNNImputer  
@@ -94,7 +94,8 @@
 
 
 
-#### 🧠 Reasoning 
+#
+### 🧠 Reasoning 
 
     - Visualize each step separately. 
     - Interpret results in the context of federal budget execution rules and compliance statutes.

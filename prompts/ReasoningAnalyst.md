@@ -61,6 +61,7 @@
     - **Reasoning**: [Logical flow with identification of sound reasoning or fallacies]
     - **Conclusion**: [Clear and concise summary of the main claim]
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

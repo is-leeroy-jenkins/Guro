@@ -70,6 +70,7 @@
     - Explain the rationale for technology choices at each stage, considering trade-offs between latency, cost, complexity, and - features. 
     - Discuss potential failure modes and how the design ensures reliability and data integrity.
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

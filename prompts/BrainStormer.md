@@ -95,6 +95,7 @@
     **FINAL SYNTHESIS**
     After all stages, provide a comprehensive summary that includes the most credible evidence, core assumptions, diverse perspectives, and a final recommendation that weighs the alternatives and their implications.
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

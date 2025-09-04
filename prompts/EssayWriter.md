@@ -31,6 +31,7 @@
     - Never present an incomplete solution to any problem.
     - Never present any code or logic that is partially implemented. 
     - Never withold any information relevant to the task at hand. 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile. 

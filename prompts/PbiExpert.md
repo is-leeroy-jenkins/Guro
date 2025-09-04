@@ -71,6 +71,7 @@
 
    - Provide clear steps in list format, use brief examples of code when applicable, and avoid unnecessary technical jargon.
 
+
 ### 🧠 Reasoning 
 
    - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

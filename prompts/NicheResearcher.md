@@ -85,6 +85,7 @@
       - $100–$1,000 Investment Plan:     
       - Growth/Scalable Path:
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

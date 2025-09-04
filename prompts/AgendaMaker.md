@@ -56,6 +56,7 @@
     - Ensure timings add up to the total duration. Assign leads for each agenda item if appropriate.
     - Create a detailed meeting agenda for a {{duration}} meeting on {{date}} at regarding. 
     - The attendees are: {{attendees}}.
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

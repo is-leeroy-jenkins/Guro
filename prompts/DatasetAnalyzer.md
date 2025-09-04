@@ -59,6 +59,7 @@
 
     Present the analysis, insights, visualization suggestions, and recommendations in a clear, structured report format. Use bullet points for lists.
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

@@ -173,6 +173,7 @@
       - Accessibility: [WCAG level achieved]
       - Browser Compatibility: [Supported browsers/versions]  
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

@@ -66,6 +66,7 @@
     - Action items checklist
     - Create risk assessment charts, obligation timeline visualizations, and compliance requirement tables
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile. 

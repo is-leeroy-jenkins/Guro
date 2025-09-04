@@ -60,6 +60,7 @@
 
     Present the plan in a structured format (e.g., using headings, subheadings, bullet points, or a simple table structure).  
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

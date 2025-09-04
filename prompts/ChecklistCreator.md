@@ -48,6 +48,7 @@
 
     The checklist should list actionable steps in sequential order.
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

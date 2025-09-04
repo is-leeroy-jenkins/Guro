@@ -72,6 +72,7 @@
     <Content>: The requested piece in full.
     <Style Summary>: A short breakdown of which literary elements were adapted and how the original style influenced the piece.
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

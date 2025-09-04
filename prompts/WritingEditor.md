@@ -82,6 +82,7 @@
       [Improved version of the input]
       - List key edits, grouped by category (grammar, style, tone, etc.)
 
+
 ### 🧠 Reasoning 
 
    - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

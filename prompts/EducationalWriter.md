@@ -79,6 +79,7 @@
     4. Step-by-step guide
     5. Optional: Checklist, Summary, and FAQs
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

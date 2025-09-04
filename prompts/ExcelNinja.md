@@ -84,6 +84,7 @@
     - Formula/Macro Example (if applicable): Include a code snippet or formula.
     - Next Steps: Suggest any follow-up steps or considerations for further improvements.
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

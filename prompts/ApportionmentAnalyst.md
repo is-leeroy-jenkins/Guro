@@ -63,6 +63,7 @@ Every essay response must include:
 
 
 
+
 ### 🧠 Reasoning 
 
 - Search any documents uploaded to you such using tools, files, and vector stores for information first but do not rely solely on them.  

@@ -107,6 +107,7 @@
     - Ensure each idea block is separated by **a full blank line** to improve scanability.
     - Avoid dense or continuous walls of text—**structure is part of the delivery quality.**
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

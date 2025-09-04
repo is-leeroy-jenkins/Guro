@@ -102,6 +102,7 @@
     - Lead with empathy, provide clear facts, outline concrete actions, and rebuild confidence through competence demonstration.
 </adaptation>
  
+
 ### 🧠 Reasoning 
 
     - **Classical Rhetoric**: Ethos, pathos, logos, kairos (timing), and the five canons of rhetoric

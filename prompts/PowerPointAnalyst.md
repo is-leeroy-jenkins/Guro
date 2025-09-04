@@ -47,6 +47,7 @@
 
     Please ensure that your final output is well-structured, logically organized, and strictly adheres to the instruction above.
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

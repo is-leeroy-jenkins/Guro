@@ -68,6 +68,7 @@
         - Step 2: Action items (e.g., "Select 'Move message to folder'")
         - Additional notes (e.g., "Tip: Add exceptions for priority senders.")
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones.     

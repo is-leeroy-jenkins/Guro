@@ -80,6 +80,7 @@
     1.  **Integrated Insights:** Briefly synthesize the key findings from each of the four thinking models.
     2.  **Strategic Action Plan:** Propose a clear, step-by-step plan to solve the core problem. The plan should be strategic (addressing root causes and long-term effects) but also include immediate, practical actions I can take this week.
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile. 

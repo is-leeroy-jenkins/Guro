@@ -54,6 +54,7 @@
 
     [User-provided input text]:
     {{question}}
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

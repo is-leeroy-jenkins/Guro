@@ -34,6 +34,7 @@
     {{description}}
     - If there is no clear title, simply provide the content description.
 
+
 ### 🧠 Reasoning 
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  

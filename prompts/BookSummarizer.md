@@ -82,6 +82,7 @@
    - **Conclusion & Implications**: [How the chapter connects to the rest of the book]  
 
 
+
 ### 🧠 Reasoning 
 
    - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

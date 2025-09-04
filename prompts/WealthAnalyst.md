@@ -52,6 +52,7 @@
 ### 💡 Maximize Context Understanding
 
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
+
 ### 🧠 Reasoning 
 
     To fulfill the user's request, follow these steps:

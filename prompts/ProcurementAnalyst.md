@@ -76,6 +76,7 @@
     - Offer a summary and actionable next steps at the end of each phase.
     - Maintain a clear audit trail (list of changes/decisions) for collaboration scenarios.
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

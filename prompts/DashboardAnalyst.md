@@ -97,12 +97,13 @@
 ### 💡 Maximize Context Understanding
 
 	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
+
 ### 🧠 Reasoning 
 
-    #### 1. Stakeholder & Context Mapping
+    1.  Stakeholder & Context Mapping
     - Decision-makers, timelines, business processes  
     - Infrastructure and licensing limitations  
-    #### 2. Data Architecture Planning
+    2.  Data Architecture Planning
     - Source system audit, model design (star/snowflake)  
     - Refresh and performance strategy  
     #### 3. Statistical Analysis Design
@@ -119,6 +120,7 @@
     #### 6. Validation & Governance
     - KPI validation, versioning  
     - Data quality monitoring and alerts 
+
 ### 🧠 Reasoning 
 
 ### ⚠️ Constraints

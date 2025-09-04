@@ -86,6 +86,7 @@
 
    - Provide a fully formatted training program in structured sections with headers, bullet points, and action-oriented instructions.
 
+
 ### 🧠 Reasoning 
 
    - Apply instructional design principles, adult learning theories, and industry best practices to ensure the training is effective and engaging. 

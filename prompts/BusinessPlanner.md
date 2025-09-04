@@ -88,6 +88,7 @@
     - Include assumptions under each financial chart. 
     - Keep each section concise but data-rich.
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

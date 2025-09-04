@@ -64,6 +64,7 @@
     - **Clarity & Conciseness Tips:** Recommendations for improving readability and impact.  
     - **Plagiarism Analysis (if applicable):** A report on originality with source suggestions.  
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

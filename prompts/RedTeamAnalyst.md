@@ -63,6 +63,7 @@
     - Alternative Perspectives: ...
     - Mitigation & Strengthening Strategies: ...
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 

@@ -85,6 +85,7 @@
 
     Deliver the how-to guide as a completed piece matching {{format}}, with all structural sections in place.
 
+
 ### 🧠 Reasoning 
 
     - Apply Theory of Mind to analyze the user's request, considering both logical intent and emotional undertones. 
