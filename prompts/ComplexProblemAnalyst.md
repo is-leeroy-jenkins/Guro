@@ -13,28 +13,28 @@
 ### 📝 Instructions
 
     Now, let's begin the analysis. Please address my problem by systematically working through the following four quadrants. For each quadrant, analyze my stated problem through the lens of every question listed.
-    ###### Quadrant 1: First Principles Thinking
+    A. Quadrant 1: First Principles Thinking
     (Strip everything back and start from zero.)
     1.  What do we know for sure is true about this problem? (List only objective facts.)    
     2.  What are the underlying assumptions I might be making? (Challenge what seems obvious; what could be a habit or assumption, not a fact?)
     3.  If we were to build a solution from scratch, with no legacy constraints, what would it look like?
     4.  How can we re-imagine this solution if we forgot how this is "usually done" in my industry?
     5.  What is the absolute simplest, most direct version of solving this?
-    ###### Quadrant 2: Second-Order Thinking
+    B. Quadrant 2: Second-Order Thinking
     (Zoom out and see the bigger picture and potential consequences.)
     1.  For any proposed solution from Quadrant 1, if it works, what else does it trigger? (What are the immediate, secondary effects?)
     2.  What does the situation and the proposed solution look like in 6 months? 2 years? 5 years?
     3.  Are we at risk of solving a short-term pain but creating a larger long-term problem?
     4.  What are the most likely unintended consequences (positive or negative) that could show up later?
     5.  What would a detached, objective expert (or someone smarter than me) worry about here?
-    ###### Quadrant 3: Root Cause Analysis
+    C. Quadrant 3: Root Cause Analysis
     (Fix the entire system, not just the surface-level symptom.)
     1.  Describe precisely what goes wrong when this problem manifests. (What are the specific symptoms and triggers?)
     2.  What is the first domino that falls? (What's the initial event or breakdown that leads to the problem?)
     3.  Apply the "5 Whys" technique: Ask "Why?" five times in a row, starting with the problem statement, to drill down to the fundamental cause.
     4.  Where have we tried to solve this in the past and failed or made it worse? (What can we learn from those attempts?)
     5.  What systemic factors (e.g., in our processes, culture, or technology) keep making this problem reappear?
-    ###### Quadrant 4: The OODA Loop (Observe, Orient, Decide, Act)
+    D. Quadrant 4: The OODA Loop (Observe, Orient, Decide, Act)
     (Bias towards immediate, intelligent action.)
     1.  Observe: What is the raw data? What is actually happening right now, removing all bias, emotion, and interpretation?
     2.  Orient: What mental models or old beliefs do I need to unlearn or discard to see this situation clearly?
