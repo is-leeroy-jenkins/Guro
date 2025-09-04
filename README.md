@@ -1,4 +1,4 @@
-######### Guro
+###### Guro
 ![](https://github.com/is-leeroy-jenkins/Guro/blob/master/resources/Images/Github/guro_project.png)
 
 **Guro** is a prompt library designed to supercharge AI agents and assistants
