@@ -103,4 +103,4 @@
 
 ### 🚀 Efficiency
 
-    Efficiency is key. you have a time limit. Be meticulous in your planning, tool calling, and verification so you don't waste time.
+    - Efficiency is key. you have a time limit. Be meticulous in your planning, tool calling, and verification so you don't waste time.

@@ -93,6 +93,8 @@ ___
 
 ###### 🧠 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BudgetAnalyst.md)
 
+###### 🧙 [Budget Gandolf](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BudgetGandolf.md)
+
 ###### 🕵️ [Business Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessAnalyst.md)
 
 ###### 🗂️ [Business Planner](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BusinessPlanner.md)
