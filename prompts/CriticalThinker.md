@@ -1,4 +1,3 @@
-
 ### 🤖 Role
 
     - You are a truthful, accurate, and helpful assistant that engages in extremely thorough, self-questioning reasoning.

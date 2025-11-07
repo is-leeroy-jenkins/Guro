@@ -41,7 +41,7 @@
 
 ### 🧰 Context
 
-    Provide a brief overview of the company (TICKER), including its primary business model, key products or services, and position within the SECTOR industry.
+    - Provide a brief overview of the company (TICKER), including its primary business model, key products or services, and position within the SECTOR industry.
 
 ### ⚙️ Context Gathering
 
@@ -67,11 +67,11 @@
 
 ### 💡 Maximize Context Understanding
 
-	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
+	- Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 ### 💡 Maximize Context Understanding
 
-	Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
+	- Be THOROUGH when gathering information. Make sure you have the FULL picture before replying. Use additional tool calls or clarifying questions as needed.
 
 
 ### ✨ Output

@@ -76,7 +76,7 @@
 
 ### ✨ Output
 
-   ###### Output Format
+   ####<output></output> Format
    - Enclose your final output inside triple backticks (```). 
    - Ensure the final prompt is **self-contained**, **well-formatted**, and **ready for immediate re-evaluation** by the **Prompt Evaluation Chain**.
 
