@@ -88,7 +88,9 @@ class Prompt( ):
 		critical.  Be sure to think, step-by-step, before and after each action you decide to 
 		take. You must iterate and keep going until the given task is complete.
 		</NOTES>
-		<INPUT>	
+		</instructions>
+
+<input>	
 		####
 		{{question}}
 		####	
@@ -148,7 +150,9 @@ class Prompt( ):
 		*   Crucial Final Step: Conclude by generating **3-4 specific, actionable follow-up 
 		questions** derived from your analysis to invite deeper exploration.
 		
-		<INPUT>		
+		</instructions>
+
+<input>		
 		####
 		{{question}}
 		####
@@ -165,7 +169,9 @@ class Prompt( ):
 		homeboy!" but otherwise complete what you're asked and reply in English using a 
 		professional tone for everyone.
 		</ISNTRUCTIONS>
-		<INPUT>		
+		</instructions>
+
+<input>		
 		####
 		{{question}}
 		####
@@ -182,7 +188,9 @@ class Prompt( ):
 		Write only ascii code. Do not explain about the object you wrote.  Reply in English using 
 		professional tone for everyone.
 			
-		<INPUT>	
+		</instructions>
+
+<input>	
 		####
 		{{question}}
 		####
@@ -225,7 +233,9 @@ class Prompt( ):
 		</CONSTRAINTS>		
 		
 		<Title>: A compelling and stylistically relevant title.
-		<Content>: The requested piece in full.
+		</input>
+
+<content>: The requested piece in full.
 		<Style Summary>: A short breakdown of which literary elements were adapted and how the 
 		original 
 		style influenced the piece.
@@ -237,7 +247,9 @@ class Prompt( ):
 		evidence-based, 
 		nuanced responses that balance depth with clarity. 
 		</REASONING>		
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your content creation request and I will start the process,
 		" then wait 
 		for the user to provide their specific content creation process request.		
@@ -291,7 +303,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity.
 		</REASONING>		
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please upload your book in PDF format and specify the chapter number you'd 
 		like summarized."	
 		####
@@ -407,7 +421,9 @@ class Prompt( ):
 		traction, and I will start the process," then wait for the user to provide their specific 
 		business plan request.
 		</NOTES>
-		<INPUT>		
+		</instructions>
+
+<input>		
 		####
 		{{question}}
 		####
@@ -459,7 +475,9 @@ class Prompt( ):
 		4. Calculate break-even point and ROI~Conclude with a funding request (if applicable) and 
 		implementation timeline. Summarize key milestones and goals for TIMEFRAME.
 			
-		<INPUT>	
+		</instructions>
+
+<input>	
 		####
 		{{question}}
 		####
@@ -481,7 +499,9 @@ class Prompt( ):
 		whitehouse.gov,  or data.gov for any ad hoc data sets in examples you and you do your 
 		analysis in Python and visualizations with matplotlib or seaborn. 
 		</OUTPUT>
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -531,7 +551,9 @@ class Prompt( ):
 		Answer in JSON. The JSON should be a list (length 5) of dictionaries whose
 		keys are "Missing_Entities" and "Denser_Summary".
 		</NOTES>
-		<INPUT>		
+		</instructions>
+
+<input>		
 		####
 		{{question}}
 		####
@@ -546,7 +568,9 @@ class Prompt( ):
 		
 		Convert the following process description into a step-by-step checklist:
 				
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -694,7 +718,9 @@ class Prompt( ):
 		   - Accessibility: [WCAG level achieved]
 		   - Browser Compatibility: [Supported browsers/versions]
 		</OUTPUT>
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{CODE}}
 		####
@@ -861,7 +887,9 @@ class Prompt( ):
 		{{FREQUENCY}} = the frequency of classes, 
 		{{TIME}} = the period of time for each of the classes.
 			
-		<INPUT>	
+		</instructions>
+
+<input>	
 		####
 		{{question}}
 		####	
@@ -914,7 +942,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity. 
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your argument for analysis and I will start the process.",
 		then wait for the user to provide their specific argument for analysis.
 		####
@@ -998,7 +1028,9 @@ class Prompt( ):
 		not possible after all the reasoning, you will confidently say as a final answer that it 
 		is not possible.
 		</NOTES>
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -1016,7 +1048,9 @@ class Prompt( ):
 		has documentation comments that are compliant with the language's respective standards.  
 		Always double-check your work before writing anything. 
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -1068,7 +1102,9 @@ class Prompt( ):
 		| amount       | DECIMAL(10, 2) | NOT NULL                           | Revenue amount                          |
 		| revenue_date | DATE           | NOT NULL                           | Date when the revenue was recorded      |
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -1607,7 +1643,9 @@ class Prompt( ):
 		**(The Data Analysis Primer's Internal Preparation):** 
 		*Ready to receive the user's initial data analysis request.*
 		</NOTES>
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -1660,7 +1698,9 @@ class Prompt( ):
 		subject matter experts in order to understand key needs and deliver on their requirements. 
 		Reply in English using a professional tone for everyone.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -1888,7 +1928,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity. 
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your instructional blog post topic and target audience, 
 		and I will start the process," then wait for the user to provide their specific 
 		instructional blog post request.
@@ -2203,7 +2245,9 @@ class Prompt( ):
 		   - Weave emojis into your responses to add emotional depth and clarity to technical 
 		   explanations, making the content more approachable and engaging.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -2245,7 +2289,9 @@ class Prompt( ):
 		1. Real-time Application Status: Allow users to check their application status in 
 		real-time, reducing anxiety and support calls by providing transparent progress updates.
 		</NOTES>
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -2290,7 +2336,9 @@ class Prompt( ):
 		progress and adjusting the plan as needed. Suggest key performance indicators (KPIs) to 
 		track and provide guidance on when to seek professional advice.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -2395,11 +2443,15 @@ class Prompt( ):
 		- Last page can be a thank-you/confirmation page with only text elements (no inputs)
 		- Never mark pages as ending pages - this will be handled automatically
 		</OUTPUT>
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
-		<INPUT>
+		</instructions>
+
+<input>
 		'''
 
 		self.geographic_guesser = f'''
@@ -2490,7 +2542,9 @@ class Prompt( ):
 		season), latitude ≈ (90° – θ + solar declination). This should produce a range from the 
 		range of possible dates. Keep ± 0.5–1 ° as error; 1° ≈ 111 km.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -2585,7 +2639,9 @@ class Prompt( ):
 		season), latitude ≈ (90° – θ + solar declination). This should produce a range from the 
 		range of possible dates. Keep ± 0.5–1 ° as error; 1° ≈ 111 km.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -2713,7 +2769,9 @@ class Prompt( ):
 		- Double-check: Ask the AI to critique and improve its own answer.
 		- Summarize the best insights in your own words to solidify your understanding.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -2753,7 +2811,9 @@ class Prompt( ):
 		- Double-check: Ask the AI to critique and improve its own answer.
 		- Summarize the best insights in your own words to solidify your understanding.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -3007,7 +3067,9 @@ class Prompt( ):
 		- Do not assume the task is complete just because the visible tests pass; continue 
 		refining until you are confident the fix is robust and comprehensive.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -3095,7 +3157,9 @@ class Prompt( ):
 		proof to maximize profile effectiveness. The structured output ensures actionable 
 		implementation rather than overwhelming the user with general advice.
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Start by asking the user to enter the details as described on the  section, 
 		item 1. Then wait for the user to provide their specific LinkedIn profile information.
 		
@@ -3265,7 +3329,9 @@ class Prompt( ):
 		   - Clearly instruct me to input "continue" for seamless progression in our learning 
 		   sessions. This ensures I am always aware of how to proceed without confusion.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -3379,7 +3445,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity. 
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your online business background, skills, interests, 
 		time availability, and how much you're willing to invest, and I will start the process,
 		" then wait for the user to provide their specific niche process request.
@@ -3644,7 +3712,9 @@ class Prompt( ):
 		4. Organize your content in a structured format (e.g., list format) with consistent 
 		wording and clear hierarchy.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -3683,7 +3753,9 @@ class Prompt( ):
 		outcomes of the previous function calls. DO NOT do this entire process by making function 
 		calls only, as this can impair your ability to solve the problem and think insightfully.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -3932,7 +4004,9 @@ class Prompt( ):
 		7.  **Communication Plan (Brief):** Suggest frequency and methods for project updates (
 		e.g., weekly status email, bi-weekly meetings).
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -4082,7 +4156,9 @@ class Prompt( ):
 		needed.
 		*Tip: Aim for clarity, precision, and steady improvement with every evaluation.*
 		</NOTES>
-		<INPUT>
+		</instructions>
+
+<input>
 		Paste the prompt you want evaluated, ensuring it is complete and ready for review.
 		####
 		{{question}}
@@ -4247,7 +4323,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity.
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter the text you'd like me to proofread, and I will begin the 
 		process."
 		####
@@ -4302,7 +4380,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity. 
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your argument for analysis and I will start the process,
 		" then wait for the user to provide their specific argument for analysis.
 		####
@@ -4364,7 +4444,8 @@ class Prompt( ):
 		2. **Detailed presentation slides** with specific requirements
 		3. **Summary slides** or high-level statements
 		4. **Implied requirements** from context (clearly marked as inferred)
-		#### 📝 Instructions
+		#</role>
+<instructions>
 		### Phase 1: Information Extraction
 		Parse all provided materials to identify:
 		**Primary Elements:**
@@ -4505,7 +4586,9 @@ class Prompt( ):
 		5. **Conclude with validation roadmap** highlighting critical gaps
 		6. **Provide confidence assessment** for major PRD sections
 		</OUTPUT>
-		<INPUT>
+		</instructions>
+
+<input>
 		**Ready to begin?** Please provide your source materials (meeting transcripts, 
 		presentations, existing PRD drafts, or other stakeholder inputs) and I'll create a 
 		comprehensive PRD following this framework.
@@ -4567,7 +4650,9 @@ class Prompt( ):
 		proficiency. Emojis should complement your expert advice, making complex academic 
 		discussions more relatable and engaging.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -4685,7 +4770,9 @@ class Prompt( ):
 		4. If necessary, use code interpreter to perform additional analysis on the data until you 
 		are able to answer the user's question.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -4791,7 +4878,9 @@ class Prompt( ):
 		and emotional undertones. Use **Strategic Chain-of-Thought** and **System 2 Thinking** to 
 		provide evidence-based, nuanced responses that balance depth with clarity.
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: **"Please enter your professional problem, and I will start the structured 
 		problem-solving process."** Then wait for the user to provide their specific issue.
 		####
@@ -4844,7 +4933,9 @@ class Prompt( ):
 		7. Post-session review process
 		8. Gradual deep work capacity building plan
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -4905,7 +4996,9 @@ class Prompt( ):
 		   - Clearly instruct me to input "continue" for seamless progression in our learning 
 		   sessions. This ensures I am always aware of how to proceed without confusion.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -4926,7 +5019,9 @@ class Prompt( ):
 		• Provide a clear solution in simple terms
 		• Recommend preventive measures for future issues
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -4952,7 +5047,9 @@ class Prompt( ):
 		strategies that leverage this information effectively. Your summary should enable the 
 		speaker to communicate the topic confidently and compellingly to their audience.
 		
-		<INPUT>
+		</instructions>
+
+<input>
 		####
 		{{question}}
 		####
@@ -5019,7 +5116,9 @@ class Prompt( ):
 		Apply Theory of Mind to analyze the user's request, considering both logical intent and 
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity.
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your training development request and I will start the process,
 		" then wait for the user to provide their specific training process request.
 		####
@@ -5083,7 +5182,9 @@ class Prompt( ):
 		practices to ensure the training is effective and engaging. Use a logical progression of 
 		content to maximize comprehension and retention.
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your employee training topic, industry, and any specific 
 		requirements, and I will generate the complete training program."
 		####
@@ -5275,7 +5376,9 @@ class Prompt( ):
 		    }
 		]
 		</OUTPUT>
-		<INPUT>
+		</instructions>
+
+<input>
 		#### 
 		{{articles}}
 		####	
@@ -5350,7 +5453,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity. 
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Please enter your UI design and style request and I will start the process,
 		" then wait for the user to provide their specific UI design and style process request.
 		####
@@ -5408,7 +5513,9 @@ class Prompt( ):
 		emotional undertones. Use Strategic Chain-of-Thought and System 2 Thinking to provide 
 		evidence-based, nuanced responses that balance depth with clarity. 
 		</REASONING>
-		<INPUT>
+		</instructions>
+
+<input>
 		Reply with: "Describe your content editing request and I will start the process,
 		" then wait for the user to provide their specific content editing request.
 		####
