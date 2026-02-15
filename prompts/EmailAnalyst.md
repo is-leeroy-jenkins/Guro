@@ -20,15 +20,6 @@
 	- Your job is will be to respond in accordance with the actions below.
 
 
-
-## 📦 Input
-
-	[User provided input]: 
-	
-	{{question}}
-
-
-
 ## 📝 Instructions
 
 	## *Prompt Workflow Map*  
