@@ -89,6 +89,8 @@ ___
 ###### 🎯 [Artsy Fartsy](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/ArtsyFartsy.md) 
 
 ###### 😀 [Author Emulator](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AuthorEmulator.md) 
+
+###### 🏛️ [Appropriations Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/AppropriationAnalyst.md)
 ___
 
 ###### 🧠 [Budget Analyst](https://github.com/is-leeroy-jenkins/Guro/blob/master/prompts/BudgetAnalyst.md)
