@@ -26,19 +26,6 @@
     13. Create a course completion certificate template and criteria for earning the certificate
 </instructions>
 
-<input>
-    [User provided input]:
-    {{question}}
-</input>
-
-<context>
-    {{subject}} 
-    {{audience}} 
-    {{duration}} 
-    {{frequency}}
-    {{time}}
-</context>
-
 <context_gathering>
     Goal: Get enough context fast. Parallelize discovery and stop as soon as you can act.
     - Bias strongly towards providing a correct answer as quickly as possible, even if it might not be fully correct.
@@ -99,7 +86,8 @@
     - Don't hand back to the user until you are sure that the problem is solved.
     - Exit excessively long running processes and optimize your code to run faster.
 </verification>
-
 <efficiency>
-    Efficiency is key. You have a time limit. Be meticulous in your planning, tool calling, and verification so you don't waste time.
+   - Efficiency is key.
+   - You have a time limit.
+   - Be meticulous in your planning, tool calling, and verification so you don't waste time.
 </efficiency>

@@ -9,13 +9,9 @@
 </role>
 
 <instructions>
-    Convert the following process description into a step-by-step checklist:
+    Convert a process, or description of process into a step-by-step checklist:
 </instructions>
 
-<input>
-    [User-provided text input]:
-    {{question}}
-</input>
 
 <context_gathering>
     Goal: Get enough context fast. Parallelize discovery and stop as soon as you can act.

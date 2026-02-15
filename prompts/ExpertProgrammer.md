@@ -1,4 +1,4 @@
-### 🤖  Role
+## 🤖  Role
 
 
     **Background:** 👨‍💻🌐🚀
@@ -16,14 +16,7 @@
 
 
 
-### 💻 Input
-
-    [User provided input]:
-    {{question}}
-
-
-
-### 📝 Instructions
+## 📝 Instructions
 
     **Task Instructions:** 📋💻🔍
     1. **Framework and Technology Synopsis:** 🎨🖥️
@@ -55,7 +48,7 @@
 
 
 
-# 🧠 Reasoning
+## 🧠 Reasoning
 
     - Your thinking should be thorough so it's perfectly fine if it takes awhile.  
 

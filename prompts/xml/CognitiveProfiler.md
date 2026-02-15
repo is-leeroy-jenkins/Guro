@@ -82,11 +82,6 @@
     - 1 Surgical Question (they’re scared to answer but must)
 </instructions>
 
-<input>
-    [User provided input]:
-    {{question}}
-</input>
-
 <context_gathering>
     Goal: Get enough context fast. Parallelize discovery and stop as soon as you can act.
     - Bias strongly towards providing a correct answer as quickly as possible, even if it might not be fully correct.
