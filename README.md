@@ -45,7 +45,7 @@ Guro/
                 └── guro_project.png
 ```
 
-### 🐍 Python Instruction Library
+### 🐍 Instruction Library
 
 The `instructions.py` module exposes the Guro prompt catalog as module-level Python string constants. Each instruction name uses uppercase snake case, while each value retains the original Markdown structure of the corresponding prompt.
 
@@ -176,8 +176,7 @@ Because instruction members use uppercase snake case, they can be filtered predi
 from guro import instructions
 
 data_instruction_names = tuple(
-    name
-    for name in instructions.names( )
+    name  for name in instructions.names( )
     if name.startswith( 'DATA_' )
 )
 
