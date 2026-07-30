@@ -9,7 +9,7 @@ and beyond — Guro provides precision-crafted prompt templates ready to drop in
 
 ### 🚀 Overview
 
-Guro is a curated library of over **100 specialized prompt personas** structured for compatibility
+Guro is a curated library of over **200 specialized prompt personas** structured for compatibility
 with OpenAI, Anthropic, Cohere, and other LLM providers. It’s ideal for:
 
 - 🔬 Research Assistants & Academic Writers
@@ -19,58 +19,212 @@ with OpenAI, Anthropic, Cohere, and other LLM providers. It’s ideal for:
 - 🎨 ASCII Artists & Visual Designers
 - 🧩 General AI Agents with Task-Scoped Roles
 
-All prompts are encoded with `<INSTRUCTION>` formatting and support dynamic variable injection using
-`{{ }}` delimiters.
+### 📂 Project Structure
 
-
-
-### 🧠 Features
-
-- ✅ Task-Specific Prompt Definitions
-- ✅ Variable Placeholder Support (`{{variable}}`)
-- ✅ Markdown Summaries for Documentation
-- ✅ Categorized and Emoji-Labeled
-- ✅ Built with RAG & Embedding Pipelines in Mind
-
----
-
-
-
-#### 🧠 With OpenAI API
-
+```text
+Guro/
+└── guro/
+    ├── __init__.py
+    ├── instructions.py
+    ├── README.md
+    ├── LICENSE
+    ├── requirements.txt
+    ├── data/
+    │   └── Prompts.db
+    ├── ipynb/
+    │   └── ...
+    ├── prompts/
+    │   ├── AcademicWriter.md
+    │   ├── BudgetAnalyst.md
+    │   ├── DataScientist.md
+    │   ├── ExpertProgrammer.md
+    │   └── ...
+    └── resources/
+        └── Images/
+            └── Github/
+                └── guro_project.png
 ```
-python
-prompt = load_prompt("AcademicWriter")
-formatted = prompt.format(topic="climate change", style="APA", length="1500 words")
-response = openai.ChatCompletion.create(
-  model="gpt-4",
-  messages=[{"role": "system", "content": formatted}]
+
+### 🐍 Python Instruction Library
+
+The `instructions.py` module exposes the Guro prompt catalog as module-level Python string constants. Each instruction name uses uppercase snake case, while each value retains the original Markdown structure of the corresponding prompt.
+
+The `guro` package exposes the module through `guro/__init__.py`:
+
+```python
+from . import instructions
+
+__all__: tuple[ str, ... ] = (
+    'instructions',
 )
 ```
 
-#### 🔗 With LangChain
+Applications can import the instruction catalog with:
 
-```
-from langchain.prompts import PromptTemplate
-
-template = PromptTemplate.from_file("prompts/AcademicWriter.txt")
-chain = LLMChain(llm=OpenAI(), prompt=template)
-output = chain.run(topic="economic policy")
+```python
+from guro import instructions
 ```
 
-### 📂 Project Structure
+The module supports direct attribute access and provides helper functions for discovery, iteration, and dynamic lookup.
 
-```
-Guro/
-    ├── prompts/
-    │ ├── AcademicWriter.txt
-    │ ├── BudgetAnalyst.txt
-    │ └── ...
-    ├── PROMPTS.md
-    ├── README.md
-    └── requirements.txt
+| Member | Purpose |
+|---|---|
+| `instructions.<NAME>` | Accesses a known instruction directly. |
+| `instructions.get(name)` | Retrieves an instruction whose name is determined at runtime. |
+| `instructions.names()` | Returns all exported instruction names in declaration order. |
+| `instructions.values()` | Returns all exported instruction texts in declaration order. |
+| `instructions.items()` | Returns `(name, text)` pairs in declaration order. |
+| `instructions.__all__` | Defines the public instruction members exported by the module. |
+
+#### 🎯 Direct Instruction Access
+
+Use direct attribute access when the required instruction is known while writing the application:
+
+```python
+from guro import instructions
+
+system_instruction = instructions.ACADEMIC_WRITER
+
+print( system_instruction )
 ```
 
+#### 🔎 Dynamic Instruction Lookup
+
+Use `get()` when an instruction name comes from configuration, user selection, a database, or another runtime source:
+
+```python
+from guro import instructions
+
+instruction_name = 'DATA_SCIENTIST'
+system_instruction = instructions.get( instruction_name )
+
+print( system_instruction )
+```
+
+An undefined instruction raises `KeyError`:
+
+```python
+from guro import instructions
+
+try:
+    system_instruction = instructions.get( 'UNDEFINED_INSTRUCTION' )
+except KeyError as ex:
+    print( ex )
+```
+
+#### 📋 Iterate Over Instruction Names
+
+The `names()` function returns the exported instruction names in the same order in which they are declared in `instructions.py`:
+
+```python
+from guro import instructions
+
+for instruction_name in instructions.names( ):
+    print( instruction_name )
+```
+
+This is useful for populating dropdown lists, command-line menus, configuration tools, and user-selectable interfaces.
+
+#### 🔁 Iterate Over Instruction Values
+
+The `values()` function returns each exported instruction text in declaration order:
+
+```python
+from guro import instructions
+
+for instruction_text in instructions.values( ):
+    print( instruction_text )
+```
+
+#### 🧩 Iterate Over Names and Text
+
+Use `items()` when both the instruction name and its Markdown text are required:
+
+```python
+from guro import instructions
+
+for instruction_name, instruction_text in instructions.items( ):
+    print( f'Instruction: {instruction_name}' )
+    print( instruction_text )
+    print( )
+```
+
+#### 🖥️ Build a User-Selectable Catalog
+
+Instruction names can be displayed to a user and resolved dynamically:
+
+```python
+from guro import instructions
+
+available_instructions = instructions.names( )
+
+for index, instruction_name in enumerate( available_instructions, start=1 ):
+    print( f'{index}. {instruction_name}' )
+
+selected_index = 1
+selected_name = available_instructions[ selected_index - 1 ]
+selected_instruction = instructions.get( selected_name )
+
+print( selected_instruction )
+```
+
+#### 🗂️ Filter Instructions by Name
+
+Because instruction members use uppercase snake case, they can be filtered predictably:
+
+```python
+from guro import instructions
+
+data_instruction_names = tuple(
+    name
+    for name in instructions.names( )
+    if name.startswith( 'DATA_' )
+)
+
+for instruction_name in data_instruction_names:
+    print( instruction_name )
+```
+
+#### 📦 Create a Dictionary Catalog
+
+Use `items()` to create a standard dictionary for filtering, serialization, testing, or UI binding:
+
+```python
+from guro import instructions
+
+instruction_catalog = dict( instructions.items( ) )
+
+system_instruction = instruction_catalog[ 'EXPERT_PROGRAMMER' ]
+
+print( system_instruction )
+```
+
+#### 🤖 Pass an Instruction to an LLM Client
+
+Instruction values are standard Python strings and can be passed directly as system instructions or system messages:
+
+```python
+from guro import instructions
+
+system_instruction = instructions.EXPERT_PROGRAMMER
+
+messages = [
+    {
+        'role': 'system',
+        'content': system_instruction,
+    },
+    {
+        'role': 'user',
+        'content': 'Review this Python function for correctness.',
+    },
+]
+```
+
+#### 🧠 Tooling Support
+
+The module-level constants remain visible to IDE completion, static-analysis tools, type checkers, and documentation generators because every instruction is declared as a concrete Python symbol.
+
+The explicit `__all__` tuple defines the supported public instruction catalog, while the helper functions provide a stable interface for iteration and runtime lookup.
 ___
 
 
