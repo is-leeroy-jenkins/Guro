@@ -1,8 +1,8 @@
 ###### Guro
 ![](https://github.com/is-leeroy-jenkins/Guro/blob/master/resources/Images/Github/guro_project.png)
 
-**Guro** is a prompt library designed to supercharge AI agents and assistants
-with task-specific personas -ie, total randos. From academic writing to financial analysis, technical support, SEO,
+**Guro** is a prompt & skill engineering library designed for AI agents and assistants
+with task-specific behavior. From academic writing to financial analysis, technical support, SEO,
 and beyond — Guro provides precision-crafted prompt templates ready to drop into your LLM workflows.
 
 
