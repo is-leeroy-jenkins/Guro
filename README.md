@@ -1,5 +1,8 @@
 ###### Guro
 ![](https://github.com/is-leeroy-jenkins/Guro/blob/master/resources/Images/Github/guro_project.png)
+___
+
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-0078FC?style=for-the-badge&logo=github)](https://is-leeroy-jenkins.github.io/Fonky/)
 
 **Guro** is a prompt & skill engineering library designed for AI agents and assistants
 with task-specific behavior. From academic writing to financial analysis, technical support, SEO,
@@ -9,14 +12,13 @@ and beyond — Guro provides precision-crafted prompt templates ready to drop in
 
 ### 🚀 Overview
 
-Guro is a curated library of **252 specialized prompt personas** structured for compatibility
+Guro is a curated library of **252 specialized system prompts** structured for compatibility
 with OpenAI, Anthropic, Cohere, and other LLM providers. It’s ideal for:
 
 - 🔬 Research Assistants & Academic Writers
-- 🧾 Budget Analysts & Financial Planners
-- 💼 Resume Builders & Interview Coaches
-- 🧠 Critical Thinkers & Strategic Decision Makers
-- 🎨 ASCII Artists & Visual Designers
+- 🧾 Budget Analysis & Financial Planning
+- 🧠 Reasoning Agents
+- 🎨 ASCII Artist  & Visual Designers
 - 🧩 General AI Agents with Task-Scoped Roles
 
 ### 📂 Project Structure
@@ -100,17 +102,17 @@ This separation keeps text-oriented system instructions independent from image a
 
 Each instruction module declares its prompt constants explicitly and exposes the same helper API for discovery, iteration, and dynamic lookup. The package-level compatibility layer provides that API across all three modules.
 
-| Member | Purpose |
-|---|---|
-| `instructions.<NAME>` | Accesses any known instruction directly through the unified package namespace. |
-| `instructions.get(name)` | Retrieves an instruction whose name is determined at runtime. |
-| `instructions.names()` | Returns all 252 exported instruction names in catalog order. |
-| `instructions.values()` | Returns all exported instruction texts in catalog order. |
-| `instructions.items()` | Returns `(name, text)` pairs in catalog order. |
-| `instructions.__all__` | Defines the complete public instruction catalog. |
-| `text.<NAME>` | Accesses a text-oriented instruction directly. |
-| `image.<NAME>` | Accesses an image-generation, image-analysis, or image-editing instruction directly. |
-| `audio.<NAME>` | Accesses a translation, transcription, or speech instruction directly. |
+| Member                   | Purpose                                                                              |
+|--------------------------|--------------------------------------------------------------------------------------|
+| `instructions.<NAME>`    | Accesses any known instruction directly through the unified package namespace.       |
+| `instructions.get(name)` | Retrieves an instruction whose name is determined at runtime.                        |
+| `instructions.names()`   | Returns all 252 exported instruction names in catalog order.                         |
+| `instructions.values()`  | Returns all exported instruction texts in catalog order.                             |
+| `instructions.items()`   | Returns `(name, text)` pairs in catalog order.                                       |
+| `instructions.__all__`   | Defines the complete public instruction catalog.                                     |
+| `text.<NAME>`            | Accesses a text-oriented instruction directly.                                       |
+| `image.<NAME>`           | Accesses an image-generation, image-analysis, or image-editing instruction directly. |
+| `audio.<NAME>`           | Accesses a translation, transcription, or speech instruction directly.               |
 
 Each submodule also provides its own `__all__`, `names()`, `values()`, `items()`, and `get()` members for modality-specific discovery.
 
