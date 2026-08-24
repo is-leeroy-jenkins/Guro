@@ -2,7 +2,7 @@
 ![](https://github.com/is-leeroy-jenkins/Guro/blob/master/resources/Images/Github/guro_project.png)
 ___
 
-[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-0078FC?style=for-the-badge&logo=github)](https://is-leeroy-jenkins.github.io/Fonky/)
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-0078FC?style=for-the-badge&logo=github)](https://is-leeroy-jenkins.github.io/Guro/)
 
 **Guro** is a prompt & skill engineering library designed for AI agents and assistants
 with task-specific behavior. From academic writing to financial analysis, technical support, SEO,

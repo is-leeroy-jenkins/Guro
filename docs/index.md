@@ -1,4 +1,6 @@
-# Guro
+
+![](images/guro-project.png)
+___
 
 **Guro** is a reusable prompt and skill engineering library for AI agents, assistants, and application workflows. The instruction catalog is organized by modality so applications can use text, image, and audio instructions independently or through one unified package.
 
