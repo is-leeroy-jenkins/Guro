@@ -9,7 +9,7 @@ and beyond — Guro provides precision-crafted prompt templates ready to drop in
 
 ### 🚀 Overview
 
-Guro is a curated library of over **200 specialized prompt personas** structured for compatibility
+Guro is a curated library of **252 specialized prompt personas** structured for compatibility
 with OpenAI, Anthropic, Cohere, and other LLM providers. It’s ideal for:
 
 - 🔬 Research Assistants & Academic Writers
@@ -25,7 +25,11 @@ with OpenAI, Anthropic, Cohere, and other LLM providers. It’s ideal for:
 Guro/
 └── guro/
     ├── __init__.py
-    ├── instructions.py
+    ├── instructions/
+    │   ├── __init__.py
+    │   ├── text.py
+    │   ├── image.py
+    │   └── audio.py
     ├── README.md
     ├── LICENSE
     ├── requirements.txt
@@ -47,38 +51,72 @@ Guro/
 
 ### 🐍 Instruction Library
 
-The `instructions.py` module exposes the Guro prompt catalog as module-level Python string constants. Each instruction name uses uppercase snake case, while each value retains the original Markdown structure of the corresponding prompt.
+The Guro instruction catalog is organized as an `instructions` package rather than a single monolithic `instructions.py` module. The package contains **252 prompt constants** grouped by modality while preserving the original uppercase snake-case names and Markdown instruction text.
 
-The `guro` package exposes the module through `guro/__init__.py`:
-
-```python
-from . import instructions
-
-__all__: tuple[ str, ... ] = (
-    'instructions',
-)
+```text
+guro/instructions/
+├── __init__.py
+├── text.py
+├── image.py
+└── audio.py
 ```
 
-Applications can import the instruction catalog with:
+The package-level `guro.instructions` namespace acts as the compatibility layer and exposes the complete instruction catalog. Existing code that imports instructions through the package can therefore continue to use the same public access pattern:
 
 ```python
 from guro import instructions
 ```
 
-The module supports direct attribute access and provides helper functions for discovery, iteration, and dynamic lookup.
+Individual modality modules may also be imported directly when an application only needs a specific class of instructions:
+
+```python
+from guro.instructions import text
+from guro.instructions import image
+from guro.instructions import audio
+```
+
+Or individual prompt constants can be imported from their owning module:
+
+```python
+from guro.instructions.text import ACADEMIC_WRITER
+from guro.instructions.image import IMAGE_ANALYZER
+from guro.instructions.audio import VERBATIM_TRANSCRIBER
+```
+
+#### Instruction Categories
+
+The instruction modules are derived from the prompt categories maintained in the Guro prompt catalog.
+
+| Module | Categories | Prompt Count |
+|---|---|---:|
+| `text.py` | Research / Academic; Prompt Engineering; Writing / Administrative; Compliance / Legal / Budget; Business / Finance / Marketing; Software Engineering; Software Engineer; Data Analytics & Governance; Instruction / Training / Planning | 172 |
+| `image.py` | Image Generation; Image Analysis; Image Editing | 45 |
+| `audio.py` | Translation API; Transcription API; Speech API | 35 |
+| **Total** | | **252** |
+
+This separation keeps text-oriented system instructions independent from image and audio API instructions while preserving one unified public catalog through `guro.instructions`.
+
+#### Public API
+
+Each instruction module declares its prompt constants explicitly and exposes the same helper API for discovery, iteration, and dynamic lookup. The package-level compatibility layer provides that API across all three modules.
 
 | Member | Purpose |
 |---|---|
-| `instructions.<NAME>` | Accesses a known instruction directly. |
+| `instructions.<NAME>` | Accesses any known instruction directly through the unified package namespace. |
 | `instructions.get(name)` | Retrieves an instruction whose name is determined at runtime. |
-| `instructions.names()` | Returns all exported instruction names in declaration order. |
-| `instructions.values()` | Returns all exported instruction texts in declaration order. |
-| `instructions.items()` | Returns `(name, text)` pairs in declaration order. |
-| `instructions.__all__` | Defines the public instruction members exported by the module. |
+| `instructions.names()` | Returns all 252 exported instruction names in catalog order. |
+| `instructions.values()` | Returns all exported instruction texts in catalog order. |
+| `instructions.items()` | Returns `(name, text)` pairs in catalog order. |
+| `instructions.__all__` | Defines the complete public instruction catalog. |
+| `text.<NAME>` | Accesses a text-oriented instruction directly. |
+| `image.<NAME>` | Accesses an image-generation, image-analysis, or image-editing instruction directly. |
+| `audio.<NAME>` | Accesses a translation, transcription, or speech instruction directly. |
+
+Each submodule also provides its own `__all__`, `names()`, `values()`, `items()`, and `get()` members for modality-specific discovery.
 
 #### 🎯 Direct Instruction Access
 
-Use direct attribute access when the required instruction is known while writing the application:
+Use package-level direct attribute access when the required instruction is known while writing the application:
 
 ```python
 from guro import instructions
@@ -88,9 +126,51 @@ system_instruction = instructions.ACADEMIC_WRITER
 print( system_instruction )
 ```
 
+The compatibility namespace resolves constants from all three modality modules:
+
+```python
+from guro import instructions
+
+text_instruction = instructions.DATA_SCIENTIST
+image_instruction = instructions.IMAGE_ANALYZER
+audio_instruction = instructions.VERBATIM_TRANSCRIBER
+```
+
+#### 🧭 Modality-Specific Access
+
+Import a submodule when an application should work only with one instruction modality:
+
+```python
+from guro.instructions import text
+
+system_instruction = text.EXPERT_PROGRAMMER
+
+print( system_instruction )
+```
+
+Image instructions are available from `image.py`:
+
+```python
+from guro.instructions import image
+
+system_instruction = image.IMAGE_ANALYZER
+
+print( system_instruction )
+```
+
+Audio instructions are available from `audio.py`:
+
+```python
+from guro.instructions import audio
+
+system_instruction = audio.VERBATIM_TRANSCRIBER
+
+print( system_instruction )
+```
+
 #### 🔎 Dynamic Instruction Lookup
 
-Use `get()` when an instruction name comes from configuration, user selection, a database, or another runtime source:
+Use the package-level `get()` function when an instruction name comes from configuration, user selection, a database, or another runtime source:
 
 ```python
 from guro import instructions
@@ -112,9 +192,17 @@ except KeyError as ex:
     print( ex )
 ```
 
+The same lookup pattern is available on individual modality modules:
+
+```python
+from guro.instructions import image
+
+system_instruction = image.get( 'IMAGE_ANALYZER' )
+```
+
 #### 📋 Iterate Over Instruction Names
 
-The `names()` function returns the exported instruction names in the same order in which they are declared in `instructions.py`:
+The package-level `names()` function returns the complete exported instruction catalog:
 
 ```python
 from guro import instructions
@@ -123,16 +211,34 @@ for instruction_name in instructions.names( ):
     print( instruction_name )
 ```
 
+For a modality-specific catalog, call `names()` on the corresponding module:
+
+```python
+from guro.instructions import audio
+
+for instruction_name in audio.names( ):
+    print( instruction_name )
+```
+
 This is useful for populating dropdown lists, command-line menus, configuration tools, and user-selectable interfaces.
 
 #### 🔁 Iterate Over Instruction Values
 
-The `values()` function returns each exported instruction text in declaration order:
+The `values()` function returns each exported instruction text:
 
 ```python
 from guro import instructions
 
 for instruction_text in instructions.values( ):
+    print( instruction_text )
+```
+
+The same operation can be scoped to one modality:
+
+```python
+from guro.instructions import image
+
+for instruction_text in image.values( ):
     print( instruction_text )
 ```
 
@@ -168,15 +274,25 @@ selected_instruction = instructions.get( selected_name )
 print( selected_instruction )
 ```
 
-#### 🗂️ Filter Instructions by Name
-
-Because instruction members use uppercase snake case, they can be filtered predictably:
+A UI can also expose separate modality selectors:
 
 ```python
-from guro import instructions
+from guro.instructions import audio, image, text
+
+text_options = text.names( )
+image_options = image.names( )
+audio_options = audio.names( )
+```
+
+#### 🗂️ Filter Instructions by Name
+
+Because instruction members use uppercase snake case, they can still be filtered predictably:
+
+```python
+from guro.instructions import text
 
 data_instruction_names = tuple(
-    name  for name in instructions.names( )
+    name for name in text.names( )
     if name.startswith( 'DATA_' )
 )
 
@@ -198,14 +314,22 @@ system_instruction = instruction_catalog[ 'EXPERT_PROGRAMMER' ]
 print( system_instruction )
 ```
 
-#### 🤖 Pass an Instruction to an LLM Client
-
-Instruction values are standard Python strings and can be passed directly as system instructions or system messages:
+A modality-specific catalog can be created the same way:
 
 ```python
-from guro import instructions
+from guro.instructions import image
 
-system_instruction = instructions.EXPERT_PROGRAMMER
+image_catalog = dict( image.items( ) )
+```
+
+#### 🤖 Pass an Instruction to an LLM Client
+
+Text instruction values remain standard Python strings and can be passed directly as system instructions or system messages:
+
+```python
+from guro.instructions import text
+
+system_instruction = text.EXPERT_PROGRAMMER
 
 messages = [
     {
@@ -219,11 +343,27 @@ messages = [
 ]
 ```
 
+Image and audio instruction strings can likewise be supplied to API workflows that accept instructional text:
+
+```python
+from guro.instructions import audio, image
+
+image_instruction = image.IMAGE_ANALYZER
+audio_instruction = audio.VERBATIM_TRANSCRIBER
+```
+
 #### 🧠 Tooling Support
 
-The module-level constants remain visible to IDE completion, static-analysis tools, type checkers, and documentation generators because every instruction is declared as a concrete Python symbol.
+All prompt constants remain concrete Python symbols, preserving IDE completion, static-analysis support, type-checker visibility, and documentation-generation compatibility.
 
-The explicit `__all__` tuple defines the supported public instruction catalog, while the helper functions provide a stable interface for iteration and runtime lookup.
+Each modality module defines an explicit `__all__` tuple for its supported public symbols. The package-level `instructions.__all__` combines those catalogs into the complete **252-instruction** public API, while `names()`, `values()`, `items()`, and `get()` provide stable discovery and runtime lookup interfaces.
+
+The modular design provides three advantages:
+
+- **Separation of concerns** — text, image, and audio workflows no longer share one very large source module.
+- **Selective imports** — applications can load only the modality-specific catalog they need.
+- **Backward compatibility** — existing `from guro import instructions` usage continues to expose the unified catalog.
+
 ___
 
 
