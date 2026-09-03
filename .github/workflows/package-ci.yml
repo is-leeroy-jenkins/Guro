@@ -1,0 +1,60 @@
+name: Package CI
+
+on:
+  push:
+    branches:
+      - master
+      - pypi-release-prep
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    name: Build and verify package
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install build tooling
+        run: python -m pip install --upgrade build twine
+
+      - name: Build distributions
+        run: python -m build
+
+      - name: Validate distribution metadata
+        run: python -m twine check dist/*
+
+      - name: Install built wheel
+        run: python -m pip install dist/*.whl
+
+      - name: Verify public imports
+        run: |
+          cd "${RUNNER_TEMP}"
+          python - <<'PY'
+          import guro
+          from guro import instructions
+          from guro.instructions import text, image, audio
+
+          assert guro.instructions is instructions
+          assert instructions.names()
+          assert instructions.values()
+          assert instructions.items()
+          assert isinstance(text.ACADEMIC_WRITER, str)
+          assert isinstance(image.ICON_CREATOR, str)
+          assert isinstance(audio.GENERAL_PURPOSE_TRANSLATOR, str)
+          PY
+
+      - name: Upload distributions
+        uses: actions/upload-artifact@v4
+        with:
+          name: python-package-distributions
+          path: dist/
