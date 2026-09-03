@@ -44,7 +44,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/p/guro-prompt-library
+      url: https://pypi.org/p/guro-py
     permissions:
       id-token: write
 

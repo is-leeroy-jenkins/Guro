@@ -86,7 +86,7 @@ After publication, verify the package from a clean environment:
 python -m venv .venv-pypi-test
 .\.venv-pypi-test\Scripts\Activate.ps1
 python -m pip install --upgrade pip
-python -m pip install guro-prompt-library
+python -m pip install guro-py
 python -c "from guro import instructions; print(len(instructions.names()))"
 ```
 
