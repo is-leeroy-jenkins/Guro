@@ -1,11 +1,8 @@
 # PyPI Release Guide
 
-Guro's Python import namespace remains `guro`.
-
-The PyPI distribution is named **`guro-prompt-library`** because the distribution name `guro` is already registered on PyPI by an unrelated project. Installing this distribution therefore uses:
 
 ```powershell
-python -m pip install guro-prompt-library
+python -m pip install guro-py
 ```
 
 Application imports remain unchanged:
