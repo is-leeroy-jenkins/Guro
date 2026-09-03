@@ -48,13 +48,13 @@ The release workflow uses PyPI Trusted Publishing. No long-lived PyPI API token 
 
 Before publishing the first release, configure a PyPI pending Trusted Publisher with these values:
 
-| Setting | Value |
-|---|---|
-| PyPI project name | `guro-prompt-library` |
-| GitHub owner | `is-leeroy-jenkins` |
-| GitHub repository | `guro` |
-| Workflow filename | `release.yml` |
-| Environment | `pypi` |
+| Setting           | Value               |
+|-------------------|---------------------|
+| PyPI project name | `guro-py`           |
+| GitHub owner      | `is-leeroy-jenkins` |
+| GitHub repository | `guro`              |
+| Workflow filename | `release.yml`       |
+| Environment       | `pypi`              |
 
 Create a GitHub environment named `pypi`. Requiring manual approval for that environment is recommended before production publication.
 
