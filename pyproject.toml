@@ -1,0 +1,64 @@
+[build-system]
+requires = [ "setuptools>=77.0.3", "wheel" ]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "guro-prompt-library"
+version = "0.1.0"
+description = "Provider-neutral prompt library for AI agents and assistants."
+readme = { file = "README.md", content-type = "text/markdown" }
+requires-python = ">=3.9"
+license = "MIT"
+authors = [
+    { name = "Terry D. Eppler", email = "terryeppler@gmail.com" },
+]
+keywords = [
+    "ai",
+    "agents",
+    "generative-ai",
+    "llm",
+    "prompt-engineering",
+    "prompt-library",
+    "prompts",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+dependencies = [ ]
+
+[project.urls]
+Homepage = "https://github.com/is-leeroy-jenkins/guro"
+Repository = "https://github.com/is-leeroy-jenkins/guro"
+Issues = "https://github.com/is-leeroy-jenkins/guro/issues"
+Documentation = "https://is-leeroy-jenkins.github.io/Guro/"
+
+[project.optional-dependencies]
+docs = [
+    "mkdocs",
+    "mkdocs-autorefs",
+    "mkdocs-material",
+    "mkdocstrings[python]",
+    "pymdown-extensions",
+]
+dev = [
+    "black",
+    "build",
+    "twine",
+]
+
+[tool.setuptools]
+packages = [ "guro", "guro.instructions" ]
+package-dir = { "guro" = ".", "guro.instructions" = "instructions" }
+include-package-data = false
